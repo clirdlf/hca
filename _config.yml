@@ -1,0 +1,9 @@
+title: Hidden Collections Africa
+shortname: Hidden Collections Africa
+description: ''
+
+permalink: pretty
+
+# https://github.com/jekyll/jekyll-sass-converter
+sass:
+    style: expanded #compressed

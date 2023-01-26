@@ -1,0 +1,105 @@
+@import 'mixins', 'variables';
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+$serif: 'DM Serif Display', serif;
+
+.serif {
+    font-family: 'DM Serif Display', serif;
+}
+
+header {
+    span {
+        font-family: 'DM Serif Display', serif;
+    }
+}
+
+#partners{
+    img {
+        max-width: 200px;
+    }
+}
+
+// blockquote {
+//     background: #f9f9f9;
+//     border-left: 10px solid #ccc;
+//     margin: 1.5em 10px;
+//     quotes: '\201C';
+//     padding-left: 3em;
+
+//     &:before {
+//         color: #ccc;
+//         content: open-quote;
+//         font-size: 4em;
+//         line-height: 0.1em;
+//         margin-right: 0.25em;
+//         vertical-align: -0.4em;
+//         font-family: $serif;
+//     }
+
+//     p {
+//         display: inline;
+//         padding-left: 2em;
+//     }
+// }
+
+// @see for logos https://htmlcssfreebies.com/bootstrap-5-client-partners-logo-component/
+
+// @see https://mdbootstrap.com/snippets/standard/mdbootstrap/2515521?view=side
+// @see https://www.webnots.com/how-to-create-full-width-parallax-page-with-bootstrap/ for parallax
+#intro {
+    // background-image: url("/images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
+    height: 50vh;
+    
+    min-height: 50%;
+
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    // filter: blur(8px);
+    // -webkit-filter: blur(8px);
+}
+
+@media (min-width: 992px) {
+    #intro { 
+        margin-top: -58.59px;
+    }
+}
+
+// h1..h6 headings
+@include headings {
+    font-family: 'DM Serif Display', serif;
+}
+
+.caption {
+    position: relative;
+    top: 35%;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    
+    //@see https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter
+    // backdrop-filter: sepia(90%);
+}
+
+.partner {
+    background-image: url('/images/shane-rounce-DNkoNXQti3c-unsplash.jpg');
+    background-size: cover;
+}
+
+.ubuntu {
+    background-image: url('https://ubuntunet.net/app/uploads/2022/11/Africa-2-copy.png');
+    background-size: cover;
+}
+
+.cenl {
+    background-image: url('https://www.cenl.org/wp-content/uploads/2022/11/1_BNF_2016_112736HD_JCBallot-1-scaled-e1669794224877.jpg');
+    background-size: cover;
+}
+
+.square {
+    height: 2em;
+    width: 2em;
+}
