@@ -4,6 +4,8 @@ description: ''
 
 permalink: pretty
 
+baseurl: /hca
+
 # https://github.com/jekyll/jekyll-sass-converter
 sass:
     style: expanded #compressed
