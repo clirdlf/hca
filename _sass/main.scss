@@ -73,6 +73,16 @@ header {
     font-family: 'DM Serif Display', serif;
 }
 
+#quotes {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.jpg');
+    // height: 50vh;
+    // min-height: 500px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .caption {
     position: relative;
     top: 35%;
