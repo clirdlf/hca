@@ -10,7 +10,7 @@
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.url }}">
-  <meta property="og:image" content="">
+  <meta property="og:image" content="{{ '/image/clir-red-symbol.png' | relative_url }}">
 
   <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
   <link rel="icon" href="{{ '/icon.svg' | relative_url }}" type="image/svg+xml">
@@ -26,6 +26,7 @@
 <body>
 
   {% include header.html %}
+
   <main>
     {{ content }}
   </main>
