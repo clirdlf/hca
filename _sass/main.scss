@@ -1,4 +1,4 @@
-@import 'mixins', 'variables';
+@import 'mixins', 'variables', 'team', 'navigation', 'map';
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
 
@@ -20,12 +20,7 @@ header {
     }
 }
 
-.masthead {
-    a, a:focus, a:hover {
-        color: #fff;
-    }
-    a:hover { text-decoration: underline; }
-}
+
 
 // blockquote {
 //     background: #f9f9f9;
