@@ -3,131 +3,29 @@ TODO: An Advisory Council, names and positions
 
 <div class="container">
     <div class="row justify-content-start">
-        <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-            <h1 id="meet-the-team">Meet The Team</h1>
-
+        <div class="col-12  order-2 order-md-1">
+            <h1 id="meet-the-team">Advisory Council</h1>
             <p class="lead">
                 Our international team of advisors and consultants has over <strong>xx</strong> years experience in preserving cultural heritage.
             </p>
-
         </div>
-        
     </div>
 </div>
 
-<div class="container pt-6 pb-6">
-    <div class="row">
-        
-        
-        <div class="col-12 col-md-6 mb-2">
-            <div class="team team-summary team-summary-large">
-                
-                <div class="team-image">
-                    <img width="90" height="90" alt="Charles Henry" class="img-fluid mb-2" src="{{ '/images/Charles-Henry.jpg' | relative_url }}">
-                </div>
-                
-                <div class="team-meta">
-                    <h2 class="team-name"><a href="#">Charles Henry</a></h2>
-                    <p class="team-description">Preseident</p>
-                    
-                    <a target="_blank" href="https://www.clir.org" rel="noreferrer">CLIR</a>
-                    
-                </div>
-                <div class="team-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn...</p></div>
-            </div>
-        </div>
-        
-        <div class="col-12 col-md-6 mb-2">
-            <div class="team team-summary team-summary-large">
-                
-                <div class="team-image">
-                    <img width="90" height="90" alt="Buhle Mbambo-Thata" class="img-fluid mb-2" src="{{'images/Buhle_Mbambo-Thata-1.png' | relative_url }}">
-                </div>
-                
-                <div class="team-meta">
-                    <h2 class="team-name"><a href="/#">Buhle Mbambo-Thata</a></h2>
-                    <p class="team-description">Librarian of the National University of Lesotho</p>
-                    
-                    <a target="_blank" href="https://library.nul.ls/" rel="noreferrer"> University of Lesotho</a>
-                    
-                </div>
-                <div class="team-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn...</p></div>
-            </div>
-        </div>
-        
-    </div>
-    <div class="row pt-6 pb-6">
-        
-        
-        <div class="col-12 col-md-4 mb-3">
-            <div class="team team-summary">
-                
-                <div class="team-image">
-                    <img width="60" height="60" alt="Charles Henry" class="img-fluid mb-2" src="{{ '/images/Charles-Henry.jpg' | relative_url }}">
-                </div>
-                
-                <div class="team-meta">
-                    <h2 class="team-name"><a href="#">CLIR</a></h2>
-                    <p class="team-description">President</p>
+<div class="container p-5">
+    <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+        {% for advisor in site.data.advisors %}
+        <div class="col-xl-3 col-md-6 mb-4">
+            
+            <div class="card border-0 shadow h-100">
+                <img src="{{ advisor.image | relative_url }}" class="card-img-top" alt="{{advisor.name}}">
+                <div class="card-body text-center">
+                    <h5 class="card-title mb-0">{{ advisor.name }}</h5>
+                    <div class="card-text text-black-50">{{ advisor.organization}}</div>
                 </div>
             </div>
         </div>
-        
-        <div class="col-12 col-md-4 mb-3">
-            <div class="team team-summary">
-                
-                <div class="team-image">
-                    <img width="60" height="60" alt="Buhle Mbambo-Thata" class="img-fluid mb-2" src="/images/team/joseph-gonzalez-399972-unsplash.jpg">
-                </div>
-                
-                <div class="team-meta">
-                    <h2 class="team-name"><a href="/team/mike-vance/">Buhle Mbambo-Thata</a></h2>
-                    <p class="team-description">Art Director</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-12 col-md-4 mb-3">
-            <div class="team team-summary">
-                
-                <div class="team-image">
-                    <img width="60" height="60" alt="Tamara Ells" class="img-fluid mb-2" src="/images/team/michael-dam-258165-unsplash.jpg">
-                </div>
-                
-                <div class="team-meta">
-                    <h2 class="team-name"><a href="/team/tamara-ells/">Tamara Ells</a></h2>
-                    <p class="team-description">UI Designer</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-12 col-md-4 mb-3">
-            <div class="team team-summary">
-                
-                <div class="team-image">
-                    <img width="60" height="60" alt="Susan Shelton" class="img-fluid mb-2" src="/images/team/cristian-newman-94319-unsplash.jpg">
-                </div>
-                
-                <div class="team-meta">
-                    <h2 class="team-name"><a href="/team/susan-shelton/">Susan Shelton</a></h2>
-                    <p class="team-description">Developer</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col-12 col-md-4 mb-3">
-            <div class="team team-summary">
-                
-                <div class="team-image">
-                    <img width="60" height="60" alt="Bill McDonald" class="img-fluid mb-2" src="/images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg">
-                </div>
-                
-                <div class="team-meta">
-                    <h2 class="team-name"><a href="/team/bill-mcdonald/">Bill McDonald</a></h2>
-                    <p class="team-description">Graphic Designer</p>
-                </div>
-            </div>
-        </div>
-        
+        {% endfor %}
     </div>
 </div>
+
