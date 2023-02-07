@@ -29,3 +29,22 @@ TODO: An Advisory Council, names and positions
     </div>
 </div>
 
+
+<div class="container p-5">
+    <div class="row row-cols-1 row-cols-xs-2 row-cols-sm-2 row-cols-lg-4 g-3">
+        {% for consultant in site.data.consultants %}
+        <div class="col-xl-3 col-md-6 mb-4">
+            
+            <div class="card border-0 shadow h-100">
+                <img src="{{ consultant.image | relative_url }}" class="card-img-top" alt="{{consultant.name}}">
+                <div class="card-body text-center">
+                    <h5 class="card-title mb-0">{{ consultant.name }}</h5>
+                    <div class="card-text text-black-50">{{ consultant.organization}}</div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+

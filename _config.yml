@@ -4,7 +4,7 @@ description: ''
 
 permalink: pretty
 
-baseurl: /hca
+baseurl: '' 
 
 # https://github.com/jekyll/jekyll-sass-converter
 sass:
