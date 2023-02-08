@@ -51,7 +51,8 @@ header {
 // @see https://www.webnots.com/how-to-create-full-width-parallax-page-with-bootstrap/ for parallax
 #intro {
     // background-image: url("/images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg");
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
+    // background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/triangles.jpg');
     height: 75vh;
 
     min-height: 500px;
