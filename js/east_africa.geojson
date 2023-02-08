@@ -1,9 +1,5 @@
-let east_africa = {
+var east_africa = {
   "type": "FeatureCollection",
-  "properties": {
-    "name": "East Africa",
-    "popupContent": "Lorem ipsum"
-  },
   "features": [
     {
       "geometry": {
