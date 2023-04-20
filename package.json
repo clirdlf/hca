@@ -1,0 +1,32 @@
+{
+  "name": "hiddencollections.africa",
+  "version": "1.0.0",
+  "description": "## Map",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf _site",
+    "watch:sass": "sass --watch _sass:_site/assets/css",
+    "build:sass": "sass _sass:_site/assets/css",
+    "watch:eleventy": "eleventy --serve",
+    "build:eleventy": "eleventy",
+    "start": "npm-run-all build:sass --parallel watch:*",
+    "build": "npm-run-all build:*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-img": "^3.1.0",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-bundle": "^1.0.4",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@quasibit/eleventy-plugin-schema": "^1.11.0",
+    "luxon": "^3.3.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-attrs": "^4.1.6",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.62.0"
+  }
+}
