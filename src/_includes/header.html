@@ -1,11 +1,12 @@
 <header class="masthead mb-auto container d-flex flex-wrap">
     <nav class="nav nav-masthead ms-auto float-md-end mt-3">
-        {% for link in site.data.navigation %}
+        {% for link in navigation %}
             {% assign class = "nav-link fw-bold py-1 px-0" %}
-            {%- if page.url contains link.url %}
+            {% comment %}
+            {%- if link contains link.url %}
                 {% assign class = "nav-link fw-bold py-1 px-0 active" %}
             {% endif %}
-            
+            {% endcomment %}
             <a href="{{ link.url | url }}" class="{{ class }}">{{ link.title }}</a>
         {% endfor %}
     </nav>

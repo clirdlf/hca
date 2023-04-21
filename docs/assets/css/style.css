@@ -120,6 +120,18 @@
   color: rgb(0, 189, 97);
 }
 
+.bg-red {
+  background-color: rgb(188, 27, 79);
+}
+
+.bg-yellow {
+  background-color: rgb(252, 219, 86);
+}
+
+.bg-green {
+  background-color: rgb(0, 189, 97);
+}
+
 .serif {
   font-family: "DM Serif Display", serif;
 }
@@ -144,6 +156,14 @@ header span {
 .logo {
   letter-spacing: 0.2em;
   font-size: 6.5rem;
+}
+
+.highlight {
+  width: 50%;
+  margin: auto;
+}
+.highlight i {
+  font-size: 6em;
 }
 
 .texture-bg {

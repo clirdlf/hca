@@ -1,19 +1,23 @@
 ---
 layout: page 
 title: About
-background: 'images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.jpg'
+background: '/assets/images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.jpg'
+eleventyNavigation:
+    key: About
+    parent: Home
+    order: 2
 css:
     - https://unpkg.com/leaflet@1.9.3/dist/leaflet.css
 js:
     - https://unpkg.com/leaflet@1.9.3/dist/leaflet.js
-    - ../js/north_africa.geojson
-    - ../js/sahel.geojson
-    - ../js/west_africa.geojson
-    - ../js/central_africa.geojson
-    - ../js/east_africa.geojson
-    - ../js/east_african_islands.geojson
-    - ../js/southern_africa.geojson
-    - ../js/map.js
+    - /assets/js/north_africa.geojson
+    - /assets/js/sahel.geojson
+    - /assets/js/west_africa.geojson
+    - /assets/js/central_africa.geojson
+    - /assets/js/east_africa.geojson
+    - /assets/js/east_african_islands.geojson
+    - /assets/js/southern_africa.geojson
+    - /assets/js/map.js
 ---
 
 <div class="container ">
@@ -29,7 +33,7 @@ js:
             </p>
         </div>
         <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-            <img class="rounded-lg-3" src="{{ '/images/pexels-ann-h-11159167.jpg' | url }}" alt="" width="720">
+            <img class="rounded-lg-3" src="{{ '/assets/images/pexels-ann-h-11159167.jpg' | url }}" alt="" width="720">
         </div>
     </div>
 </div>
@@ -52,6 +56,13 @@ js:
         </div>
     </div>
 </div>
+
+{% include 'urgency.html' %}
+
+{% include 'digitization-as-preservation.html' %}
+
+{% include 'values.html' %}
+
 
 <div class="container my-5">
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
@@ -92,7 +103,7 @@ js:
     </div>
 </div>
 
-<div>
+<div id="theory-of-change">
     <h1 class="display-4 fw-bold lh-1">Theory of Change</h1>
 </div>
 
@@ -214,4 +225,4 @@ js:
 
 {% include 'timeline.html' %}
 {% include 'goals.html' %}
-{% include 'map.html' %}
+{%# include 'map.html' #%}
