@@ -18,6 +18,7 @@ module.exports = (eleventyConfig) => {
     // Copy the "assets" directory to the compiled "_site" folder.
     eleventyConfig.addPassthroughCopy('src/assets');
     eleventyConfig.addPassthroughCopy('site.webmanifest');
+    eleventyConfig.addPassthroughCopy('CNAME');
 
     eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addPlugin(EleventyRenderPlugin);
