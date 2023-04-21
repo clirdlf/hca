@@ -18,7 +18,7 @@ TODO: An Advisory Council, names and positions
         <div class="col-xl-3 col-md-6 mb-4">
             
             <div class="card border-0 shadow h-100">
-                <img src="{{ advisor.image | relative_url }}" class="card-img-top" alt="{{advisor.name}}">
+                <img src="{{ advisor.image | url }}" class="card-img-top" alt="{{advisor.name}}">
                 <div class="card-body text-center">
                     <h5 class="card-title mb-0">{{ advisor.name }}</h5>
                     <div class="card-text text-black-50">{{ advisor.organization}}</div>
@@ -36,7 +36,7 @@ TODO: An Advisory Council, names and positions
         <div class="col-xl-3 col-md-6 mb-4">
             
             <div class="card border-0 shadow h-100">
-                <img src="{{ consultant.image | relative_url }}" class="card-img-top" alt="{{consultant.name}}">
+                <img src="{{ consultant.image | url }}" class="card-img-top" alt="{{consultant.name}}">
                 <div class="card-body text-center">
                     <h5 class="card-title mb-0">{{ consultant.name }}</h5>
                     <div class="card-text text-black-50">{{ consultant.organization}}</div>

@@ -29,7 +29,7 @@ js:
             </p>
         </div>
         <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-            <img class="rounded-lg-3" src="{{ '/images/pexels-ann-h-11159167.jpg' | relative_url }}" alt="" width="720">
+            <img class="rounded-lg-3" src="{{ '/images/pexels-ann-h-11159167.jpg' | url }}" alt="" width="720">
         </div>
     </div>
 </div>
@@ -212,6 +212,6 @@ js:
 
 </div>
 
-{% include timeline.html %}
-{% include goals.html %}
-{% include map.html %}
+{% include 'timeline.html' %}
+{% include 'goals.html' %}
+{% include 'map.html' %}

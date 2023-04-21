@@ -2,13 +2,13 @@
   <div class="container pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0">
     <h2 class="display-2 pb-2 border-bottom text-center my-5">Partners</h2>
     <div class="row justify-content-center row-cols-2 row-cols-3 row-cols-md-5 gx-0 gx-sm-3 gx-md-2 gx-lg-3 gx-xl-4">
-      {% for partner in site.data.partners %}
+      {% for partner in partners %}
         <div class="col">
           <div class="py-sm-2 my-xl-1">
             <div class="py-sm-2 mx-autor">
               <figure>
                 <a href="{{ partner.url }}" target="_blank">
-                  <img src="{{ partner.image | relative_url }}" alt="{{ partner.name }}">
+                  <img src="{{ partner.image | url }}" alt="{{ partner.name }}">
                 </a>
               </figure>
             </div>
@@ -18,57 +18,3 @@
     </div>
   </div>
 </section>
-<!-- 
-<section class="bg-light" id="partners">
-  <div class="container px-4 py-5 py-xl-6">
-    <h2 class="display-2 pb-2 border-bottom text-center my-5">Partners</h2>
-
-    <p class="text-center pb-5 lead">Initial partners include</p>
-
-    <div class="row gy-5 my-md-6">
-      <div class="h-100 col-2 col-md-2 align-self-center">
-        <figure>
-          <a href="https://aau.org/" target="_blank">
-            <img src="{{ '/images/aau.png' | relative_url }}" class="img-thumbnail d-block" alt="Association of African Universities">
-          </a>
-        </figure>
-      </div>
-      <div class="h-100 col-2 col-md-2 align-self-center">
-        <figure>
-          <a href="http://www.rfnum.org/" target="_blank">
-            <img src="{{ '/images/logo_RFN.png' | relative_url }}" class="img-thumbnail d-block" alt="Réseau francophone numérique (RFN)-AISBL">
-          </a>
-        </figure>
-      </div>
-      <div class="h-100 col-2 col-md-2 align-self-center">
-        <figure>
-          <a href="https://hbculibraries.org/" target="_blank">
-            <img src="{{ '/images/hbcu-logo.png' | relative_url }}" class="img-thumbnail" alt="HBCU Library Alliance">
-          </a>
-        </figure>
-      </div>
-      <div class="h-100 col-2 col-md-2 align-self-center">
-        <figure>
-          <a href="https://ubuntunet.net/" target="_blank">
-            <img src="{{ '/images/cropped-UbuntuNet-Alliance-1.png' | relative_url }}" class="img-thumbnail" alt="UbuntuNet Alliance">
-          </a>
-        </figure>
-      </div>
-      <div class="col-2 col-md-2 align-self-center">
-        <figure>
-          <a href="https://www.clir.org/" target="_blank">
-            <img src="{{ '/images/clir-red-symbol.png' | relative_url }}" class="img-thumbnail" alt="Council on Library and Information Resources">
-          </a>
-        </figure>
-      </div>
-      <div class="col-2 col-md-2 align-self-center">
-        <figure>
-          <a href="https://www.cenl.org/" target="_blank">
-            <img src="{{ '/images/cenl.png' | relative_url }}" class="img-thumbnail" alt="The Conference of European National Librarians">
-          </a>
-        </figure>
-      </div>
-    </div>
-
-  </div>
-</section> -->

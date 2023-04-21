@@ -1,24 +1,36 @@
 ---
 layout: home
 title: Home
+js:
+    - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.2.1/chart.min.js
 ---
 
 <div id="intro" class="parallax">
-    <div class="container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <div class="container d-flex w-100 h-100 p-3 mx-auto flex-column text-center">
         <div class="row pt-lg-2 py-xl-4 py-xxl-5 mb-md-4 mb-lg-5">
             <div class="col-md-10 pt-5 my-5 mx-auto">
-                <h1 class="display-2 text-light text-uppercase pb-sm-2 pb-md-3">Hidden Collections Africa</h1>
-                <p class="text-light lead opacity-70 pb-3 pb-md-4 mb-3" style="max-width: 520px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius sunt dolor, quibusdam molestiae tenetur nisi at quae aperiam culpa. Suscipit similique, veniam perferendis eos eligendi repellendus quasi vero eius dignissimos?</p>
+                <h1 class="fs-1 text-uppercase text-light">
+                    Hidden Collections
+                    <br>
+                    <div class="logo">
+                        <span class="red">A</span><span class="yellow">F</span><span class="green">R</span><span class="red">I</span><span class="yellow">C</span><span class="green">A</span>
+                    </div>
+                </h1>
+
+                <p class="lead text-light pb-3 pb-md-4 mb-3">
+                    Fostering equitable access to African cultural heritage.
+                </p>
             </div>
         </div>
     </div>
 </div>
-{% include video.html %}
-{% include about.html %}
-{% include quotes.html %}
-{% include mission.html %}
-{% include announcements.html %}
-{% include partners.html %}
-{% include goals.html %}
+{% include 'video.html' %}
+{% include 'challenge.html' %}
+{%# include 'about.html' #%}
+{% include 'quotes.html' %}
+{% include 'consequences.html' %}
+{% include 'announcements.njk' %}
+{% include 'partners.html' %}
+{% include 'goals.html' %}
 
-<!-- {% include theory_of_change.html %} -->
+<!-- {% include 'theory_of_change.html' %} -->
