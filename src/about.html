@@ -17,7 +17,6 @@ js:
     - /assets/js/east_africa.geojson
     - /assets/js/east_african_islands.geojson
     - /assets/js/southern_africa.geojson
-    - /assets/js/map.js
 ---
 
 <div class="container ">
@@ -63,7 +62,6 @@ js:
 
 {% include 'values.html' %}
 
-
 <div class="container my-5">
     <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
         <div class="col-lg-12 p-3 p-lg-5 pt-lg-3">
@@ -100,129 +98,14 @@ js:
                 in the African diaspora.
             </p>
         </div>
+
+        {% include 'faq.html' %}
     </div>
+  
 </div>
 
-<div id="theory-of-change">
-    <h1 class="display-4 fw-bold lh-1">Theory of Change</h1>
-</div>
-
-<div class="row row-cols-1 row-cols-md-3 mb-3">
-    <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
-            <div class="card-header text-bg-teal py-3">
-                <h4 class="my-0 fw-normal text-center">
-                    <i class="bi bi-lightbulb"></i><br>
-                    Goals
-                </h4>
-            </div>
-            <div class="card-body text-bg-teal-light">
-                <!-- <h1 class="card-title pricing-card-title">$0<small class="text-muted fw-light">/mo</small></h1> -->
-                <ul class="mt-3 mb-4 list-group">
-                    <li class="list-group-item">Promote history and scholarship</li>
-                    <li class="list-group-item">Establish South to South and South to North networks, and strengthen connections between Africa and communities in the African diaspora</li>
-                    <li class="list-group-item">Provide intergenerational skills for digitisation in African professionals</li>
-                    <li class="list-group-item">Decolonize knowledge spaces</li>
-                </ul>
-                <!-- <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button> -->
-            </div>
-        </div>
-    </div>
-
-    <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-lime">
-            <div class="card-header py-3 text-bg-lime border-lime">
-                <h4 class="my-0 fw-normal text-center">
-                    <i class="bi bi-file-earmark-check"></i><br>
-                    High Level Outcomes</h4>
-            </div>
-            <div class="card-body text-bg-lime-light">
-                <!-- <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1> -->
-                <ul class="list-group mt-3 mb-4">
-                    <li class="list-group-item">Increase usage of the digital collections</li>
-                    <li class="list-group-item">Increase research outputs from the institutions</li>
-                    <li class="list-group-item">Improve understanding of indeginous knowledge systems</li>
-                    <li class="list-group-item">Grow pool of professionals with digitisation skills</li>
-                    <li class="list-group-item">Establish sub-programs and linkages</li>
-                    <li class="list-group-item">Facilitat digital repatriation</li>
-                    <li class="list-group-item">Improve inter-generational knowledge-sharing</li>
-                    <li class="list-group-item">Develop a flexible, evolving, and reusable set of protocols, processes, and workflows that can be applied to and adopted by other parts of the world similarly threatened</li>
-                    <li class="list-group-item">Provide a combination of training, workflows, efficient technical architecture and cross generational integration of resources into teaching and research as a new paradigm of long term sustainability of cultural heritage</li>
-                </ul>
-                <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button> -->
-            </div>
-        </div>
-    </div>
-
-    <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-burgundy">
-            <div class="card-header py-3 text-bg-burgundy border-burgundy">
-                <h4 class="my-0 fw-normal text-center">
-                    <i class="bi bi-folder-symlink"></i><br>
-                    Outputs</h4>
-            </div>
-            <div class="card-body text-bg-burgundy-light">
-                <!-- <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1> -->
-                <ul class="list-group mt-3 mb-4">
-                    <li class="list-group-item">Digitally preserve records of Africa's at-risk cultural heritage</li>
-                    <li class="list-group-item">Encourage institutional repositories that are open andaccessible</li>
-                    <li class="list-group-item">Grow network of skilled professionals in digitisation</li>
-                    <li class="list-group-item">Build infrastructure for sustained digitisation</li>
-                    <li class="list-group-item">Develop programs around the digitized collections</li>
-                    <li class="list-group-item">Build collaborations and Partnerships for development in information and knowledge sharing</li>
-                </ul>
-                <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button> -->
-            </div>
-        </div>
-    </div>
-    
-    <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-orange">
-            <div class="card-header py-3 text-bg-orange border-orange">
-                <h4 class="my-0 fw-normal text-center">
-                    <i class="bi bi-universal-access"></i><br>
-                    Activities</h4>
-            </div>
-            <div class="card-body text-bg-orange-light">
-                <!-- <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1> -->
-                <ul class="list-group mt-3 mb-4">
-                    <li class="list-group-item">Establish Review teams</li>
-                    <li class="list-group-item">Sub-granting for digitization projects</li>
-                    <li class="list-group-item">Liaise with grantees on project implementation</li>
-                    <li class="list-group-item">Coordinate the program</li>
-                    <li class="list-group-item">Monitor and Evaluation of the program</li>
-                    <li class="list-group-item">Training of digitisation teams</li>
-                    <li class="list-group-item">Establishing collaborations and partnerships between African institutions and institutions outside of Africa</li>
-                    <li class="list-group-item">Marketing and Outreach of project (including process and outcomes)</li>
-                    <li class="list-group-item">Budgeting and financial management of grants</li>
-                </ul>
-                <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button> -->
-            </div>
-        </div>
-    </div>
-
-    <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-navy">
-            <div class="card-header py-3 text-bg-navy border-navy">
-                <h4 class="my-0 fw-normal text-center">
-                    <i class="bi bi-laptop"></i><br>
-                    Assumptions</h4>
-            </div>
-            <div class="card-body text-bg-navy-light">
-                <!-- <h1 class="card-title pricing-card-title">$29<small class="text-muted fw-light">/mo</small></h1> -->
-                <ul class="list-group mt-3 mb-4">
-                    <li class="list-group-item">Buy in and support at institutional and association level</li>
-                    <li class="list-group-item">Political willingness and stability in the country and region</li>
-                    <li class="list-group-item">Skills and capacity will enable sustained digitisation</li>
-                    <li class="list-group-item">Interest and buy in from institutions and organisations outside Africa</li>
-                </ul>
-                <!-- <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button> -->
-            </div>
-        </div>
-    </div>
-
-</div>
+{% include 'theory_of_change.html' %}
 
 {% include 'timeline.html' %}
-{% include 'goals.html' %}
+{%# include 'goals.html' #%}
 {%# include 'map.html' #%}
