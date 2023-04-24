@@ -166,6 +166,18 @@ header span {
   font-size: 6em;
 }
 
+.card h3 a {
+  color: #fff;
+  text-decoration: none;
+}
+.card h3 a:visted {
+  color: #fff;
+}
+.card h3 a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .texture-bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("../images/background.png");
   background-attachment: fixed;

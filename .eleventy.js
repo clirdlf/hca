@@ -12,6 +12,8 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation"); // https://www.11ty.dev/docs/plugins/navigation/
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
+const emojiReadTime = require('@11tyrocks/eleventy-plugin-emoji-readtime'); // https://github.com/5t3ph/eleventy-plugin-emoji-readtime
+
 // const Image = require("@11ty/eleventy-img"); // https://www.11ty.dev/docs/plugins/image/
 
 module.exports = (eleventyConfig) => {
@@ -90,6 +92,11 @@ module.exports = (eleventyConfig) => {
 		}
 
 		return array.slice(0, n);
+	});
+
+	// Shortcodes
+	eleventyConfig.addPlugin(emojiReadTime, {
+		emoji: '📖',
 	});
 
     // Customize Markdown library settings:

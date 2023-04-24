@@ -1,5 +1,5 @@
 ---
-title: 'The "Hidden Collections Africa" Programme'
+title: 'The Hidden Collections Africa Programme'
 image: /assets/images/shane-rounce-DNkoNXQti3c-unsplash.jpg
 date: 2022-11-10
 tags: news
