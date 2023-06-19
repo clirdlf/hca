@@ -81,7 +81,8 @@ module.exports = (eleventyConfig) => {
 	// @see https://www.11ty.dev/docs/plugins/image/
 	eleventyConfig.addShortcode("image", async function(src, alt, css, sizes) {
 		let metadata = await Image(src, {
-			widths: [300, 600, 720, "auto"],
+			widths: [300, 600, 720],
+			// widths: [300, 600, 720, "auto"],
 			formats: ["webp", "avif", "jpeg"],
 			urlPath: '/assets/images/optimized/',
 			outputDir: path.join(eleventyConfig.dir.output, "assets", "images", "optimized")
