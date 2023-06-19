@@ -1,0 +1,13 @@
+{% macro card(post) %}
+<div class="card" style="width: 18rem;">
+    {% if post.image %}
+    <img class="card-img-top" src="{{ post.image }}" alt="{{ post.title }}">
+    {% endif %}
+    <div class="card-body">
+        <h5 class="card-title">{{ post.title }}</h5>
+
+        <p class="card-text">{{ post.html | safe | emojiReadTime }}</p>
+        <a href="{{ post.url | url }}" class="btn btn-primary">Read</a>
+    </div>
+</div>
+{% endmacro %}

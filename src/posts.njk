@@ -2,9 +2,34 @@
 layout: page
 title: Posts
 background: '/assets/images/karim-manjra-fm9wqDNXyQ0-unsplash.jpg'
+eleventyNavigation:
+    key: Posts
 ---
+{% set posts = collections.posts | reverse %}
 
-{% for post in collections.posts  %}
-    <p><a href="{{ post.url }}">{{ post.data.title }}</a></p>
+{% for post in posts %}
+    <div class="row pt-md-4">
+        <div class="col-md-12">
+            <div class="blog-entry">
+                <a href="{{ post.url }}"></a>
+                <div class="mb-2">
+                    <div class="meta-wrap">
+                        <p class="meta">
+                            <span>
+                                <i class="bi bi-calendar"></i> {{ post.date | readableDate }}
+                            </span>
+                            <span>
+                                <i class="bi bi-folder"></i> tags
+                            </span>
+                        </p>
+                        
+                        <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+                        {% excerpt post %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 {% endfor %}
 

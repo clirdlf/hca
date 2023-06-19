@@ -4,19 +4,6 @@ title: About
 background: '/assets/images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.jpg'
 eleventyNavigation:
     key: About
-    parent: Home
-    order: 2
-css:
-    - https://unpkg.com/leaflet@1.9.3/dist/leaflet.css
-js:
-    - https://unpkg.com/leaflet@1.9.3/dist/leaflet.js
-    - /assets/js/north_africa.geojson
-    - /assets/js/sahel.geojson
-    - /assets/js/west_africa.geojson
-    - /assets/js/central_africa.geojson
-    - /assets/js/east_africa.geojson
-    - /assets/js/east_african_islands.geojson
-    - /assets/js/southern_africa.geojson
 ---
 
 <div class="container ">
@@ -32,7 +19,7 @@ js:
             </p>
         </div>
         <div class="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-            <img class="rounded-lg-3" src="{{ '/assets/images/pexels-ann-h-11159167.jpg' | url }}" alt="" width="720">
+            {% image 'src/assets/images/pexels-ann-h-11159167.jpg', "placeholder image", 'rounded-lg-3', "(min-width: 30em) 50vw"  %}
         </div>
     </div>
 </div>
@@ -107,5 +94,3 @@ js:
 {% include 'theory_of_change.html' %}
 
 {% include 'timeline.html' %}
-{%# include 'goals.html' #%}
-{%# include 'map.html' #%}

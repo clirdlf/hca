@@ -1,32 +1,32 @@
 [
     {
       "name": "Association of African Universities",
-      "image": "/assets/images/aau.png",
+      "image": "src/assets/images/aau.png",
       "url": "https://aau.org/"
     },
     {
       "name": "Réseau francophone numérique",
-      "image": "/assets/images/logo_RFN.png",
+      "image": "src/assets/images/logo_RFN.png",
       "url": "http://www.rfnum.org/pages/"
     },
     {
       "name": "HBCU Library Alliance",
-      "image": "/assets/images/hbcu-logo.png",
+      "image": "src/assets/images/hbcu-logo.png",
       "url": "https://hbculibraries.org/"
     },
     {
       "name": "UbuntuNet Alliance",
-      "image": "/assets/images/cropped-UbuntuNet-Alliance-1.png",
+      "image": "src/assets/images/cropped-UbuntuNet-Alliance-1.png",
       "url": "https://ubuntunet.net/"
     },
     {
       "name": "Council on Library and Information Resources",
-      "image": "/assets/images/clir-red-symbol.png",
+      "image": "src/assets/images/clir-red-symbol.png",
       "url": "https://www.clir.org/"
     },
     {
       "name": "The Conference of European National Librarians",
-      "image": "/assets/images/cenl.png",
+      "image": "src/assets/images/cenl.png",
       "url": "https://www.cenl.org/"
     }
   ]

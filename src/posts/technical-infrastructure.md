@@ -1,6 +1,6 @@
 ---
 title: A Technical Infrastructure
-date: 2024-04-23
+date: 2023-04-23
 background: /assets/images/aaron-thomas-dPmCzHQ7Vc4-unsplash.jpg
 ---
 

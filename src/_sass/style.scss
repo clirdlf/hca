@@ -63,19 +63,24 @@ header {
 // @see https://mdbootstrap.com/snippets/standard/mdbootstrap/2515521?view=side
 // @see https://www.webnots.com/how-to-create-full-width-parallax-page-with-bootstrap/ for parallax
 #intro {
-    background-image: url("/assets/images/00007.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/assets/images/00007.png");
     // background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
     // background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/triangles.jpg');
-    height: 50vh;
-
-    // min-height: 500px;
 
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    // filter: blur(8px);
-    // -webkit-filter: blur(8px);
+    height: 50vh;
+    min-height: 500px;
+
+    // background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url({{ background | url }});
+    // background-attachment: fixed;
+    // background-size: cover;
+    // background-position: center;
+    // background-repeat: no-repeat;
+    // height: 50vh;
+    // min-height: 500px;
 }
 
 
