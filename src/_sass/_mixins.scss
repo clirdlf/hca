@@ -8,6 +8,25 @@
     }
 }
 
+@each $name, $color in $colors {
+    .bg-#{"" + $name} {
+        background-color: $color;
+    }
+
+    .text-bg-#{"" + $name} {
+        color: white;
+        background-color: $color;
+    }
+
+    .text-bg-#{"" + $name}-light {
+        background-color: cv($color, 'light');
+    }
+
+    .border-#{"" + $name} {
+        border-color: $color;
+    }
+}
+
 // $variations: (
 //     light: (
 //         function: lighten, parameters: 25%
@@ -25,6 +44,7 @@
 //         function: mix, parameters: white 80%
 //     )
 // );
+
 
 
 // https://www.sitepoint.com/managing-color-values-with-sass/
@@ -68,21 +88,3 @@
 //     @return color-variation($color, $variation);
 // }
 
-// @each $name, $color in $colors {
-//     .bg-#{"" + $name} {
-//         background-color: $color;
-//     }
-
-//     .text-bg-#{"" + $name} {
-//         color: white;
-//         background-color: $color;
-//     }
-
-//     .text-bg-#{"" + $name}-light {
-//         background-color: cv($color, 'light');
-//     }
-
-//     .border-#{"" + $name} {
-//         border-color: $color;
-//     }
-// }
