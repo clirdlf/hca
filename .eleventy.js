@@ -14,8 +14,11 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation"); // https://www.11ty.dev/docs/plugins/navigation/
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const Image = require("@11ty/eleventy-img"); // https://www.11ty.dev/docs/plugins/image/
+
+const pluginDrafts = require("./eleventy.config.drafts.js"); // https://github.com/11ty/eleventy-base-blog/blob/main/eleventy.config.js#LL10C1-L10C61
 
 // https://github.com/11ty/eleventy-img/issues/46#issuecomment-766054646
 function generateImages(src, widths){
@@ -57,12 +60,14 @@ module.exports = (eleventyConfig) => {
 	eleventyConfig.addPlugin(schema);
 	eleventyConfig.addPlugin(excerpt);
 
-
     // Official plugins
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
     eleventyConfig.addPlugin(EleventyRenderPlugin);
+	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(pluginBundle);
+	eleventyConfig.addPlugin(pluginDrafts);
+
 
     // watch CSS files for changes
     eleventyConfig.setBrowserSyncConfig({
@@ -101,6 +106,8 @@ module.exports = (eleventyConfig) => {
 		return Image.generateHTML(metadata, imageAttributes);
 	});
 
+	  // Filters
+
     // Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
 		if(!Array.isArray(array) || array.length === 0) {
@@ -113,7 +120,6 @@ module.exports = (eleventyConfig) => {
 		return array.slice(0, n);
 	});
 
-    // Filters
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
 		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "LLL yyyy");
@@ -134,6 +140,19 @@ module.exports = (eleventyConfig) => {
 		}
 
 		return array.slice(0, n);
+	});
+
+	// Return all the tags used in a collection
+	eleventyConfig.addFilter("getAllTags", collection => {
+		let tagSet = new Set();
+		for(let item of collection) {
+			(item.data.tags || []).forEach(tag => tagSet.add(tag));
+		}
+		return Array.from(tagSet);
+	});
+
+	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
+		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
 	// Shortcodes

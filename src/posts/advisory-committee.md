@@ -1,6 +1,8 @@
 ---
 title: Advisory Committee
 date: 2023-04-25
+draft: true
+eleventyExcludeFromCollections: true
 background: /assets/images/micha-humbel-Qtc8MJebIO8-unsplash.jpg
 ---
 

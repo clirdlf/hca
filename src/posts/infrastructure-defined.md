@@ -1,6 +1,8 @@
 ---
 title: Infrastructure Defined
 date: 2023-04-25
+draft: true
+eleventyExcludeFromCollections: true
 background: /assets/images/pexels-rfstudio-3810792.jpg
 ---
 

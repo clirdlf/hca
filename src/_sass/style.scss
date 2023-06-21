@@ -3,8 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap');
 
-
-
 $serif: 'DM Serif Display', serif;
 
 $red: rgb(188,27,79); // #bc1b4e
@@ -93,7 +91,6 @@ header {
 .highlight {
     width: 50%;
     margin: auto;
-
     &:hover {
         //TODO
     }
