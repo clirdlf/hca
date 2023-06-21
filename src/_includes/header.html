@@ -2,11 +2,10 @@
     <nav class="nav nav-masthead ms-auto float-md-end mt-3">
         {% for link in navigation %}
             {% assign class = "nav-link fw-bold py-1 px-0" %}
-            {% comment %}
-            {%- if link contains link.url %}
+            {%- if link.url == page.url %}
                 {% assign class = "nav-link fw-bold py-1 px-0 active" %}
             {% endif %}
-            {% endcomment %}
+            
             <a href="{{ link.url | url }}" class="{{ class }}">{{ link.title }}</a>
         {% endfor %}
     </nav>
