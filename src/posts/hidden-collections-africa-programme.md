@@ -1,6 +1,7 @@
 ---
 title: 'The Hidden Collections Africa Programme'
-image: /assets/images/shane-rounce-DNkoNXQti3c-unsplash.jpg
+image: /assets/images/Africa-ubuntu-net.png
+background: /assets/images/Africa-ubuntu-net.png
 date: 2022-11-10
 tags: news
 class: ubuntu
