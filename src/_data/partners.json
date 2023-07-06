@@ -1,32 +1,44 @@
 [
     {
       "name": "Association of African Universities",
-      "image": "assets/images/aau.png",
-      "url": "https://aau.org/"
+      "image": "assets/images/aau.webp",
+      "url": "https://aau.org/",
+      "width": "225",
+      "height": "225"
     },
     {
       "name": "Réseau francophone numérique",
-      "image": "assets/images/logo_RFN.png",
-      "url": "http://www.rfnum.org/pages/"
+      "image": "assets/images/logo_RFN.webp",
+      "url": "http://www.rfnum.org/pages/",
+      "width": "359",
+      "height": "129"
     },
     {
       "name": "HBCU Library Alliance",
-      "image": "assets/images/hbcu-logo.png",
-      "url": "https://hbculibraries.org/"
+      "image": "assets/images/hbcu-logo.webp",
+      "url": "https://hbculibraries.org/",
+      "width": "175",
+      "height": "175"
     },
     {
       "name": "UbuntuNet Alliance",
-      "image": "assets/images/cropped-UbuntuNet-Alliance-1.png",
-      "url": "https://ubuntunet.net/"
+      "image": "assets/images/cropped-UbuntuNet-Alliance-1.webp",
+      "url": "https://ubuntunet.net/",
+      "width": "440",
+      "height": "129"
     },
     {
       "name": "Council on Library and Information Resources",
-      "image": "assets/images/clir-red-symbol.png",
-      "url": "https://www.clir.org/"
+      "image": "assets/images/clir-red-symbol.webp",
+      "url": "https://www.clir.org/",
+      "width": "247",
+      "height": "247"
     },
     {
       "name": "The Conference of European National Librarians",
-      "image": "assets/images/cenl.png",
-      "url": "https://www.cenl.org/"
+      "image": "assets/images/cenl.webp",
+      "url": "https://www.cenl.org/",
+      "width": "1500",
+      "height": "494"
     }
   ]

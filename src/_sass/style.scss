@@ -61,7 +61,7 @@ header {
 // @see https://mdbootstrap.com/snippets/standard/mdbootstrap/2515521?view=side
 // @see https://www.webnots.com/how-to-create-full-width-parallax-page-with-bootstrap/ for parallax
 #intro {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/assets/images/00007.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/assets/images/00007.webp");
     // background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
     // background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/triangles.jpg');
 
@@ -108,7 +108,7 @@ header {
 
 .texture-bg {
     // background-image: url('../images/background.png');
-    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/background.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/background.webp');
     // height: 50vh;
     // min-height: 500px;
     background-attachment: fixed;
@@ -118,7 +118,7 @@ header {
 }
 
 #page {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.webp');
     height: 75vh;
 
     min-height: 500px;
@@ -142,7 +142,7 @@ header {
 }
 
 #quotes {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.webp');
     // height: 50vh;
     // min-height: 500px;
     background-attachment: fixed;
@@ -190,17 +190,17 @@ header {
 }
 
 .partner {
-    background-image: url('../images/shane-rounce-DNkoNXQti3c-unsplash.jpg');
+    background-image: url('../images/shane-rounce-DNkoNXQti3c-unsplash.webp');
     background-size: cover;
 }
 
 .ubuntu {
-    background-image: url('https://ubuntunet.net/app/uploads/2022/11/Africa-2-copy.png');
+    background-image: url('../images/Africa-2-copy.webp');
     background-size: cover;
 }
 
 .cenl {
-    background-image: url('https://www.cenl.org/wp-content/uploads/2022/11/1_BNF_2016_112736HD_JCBallot-1-scaled-e1669794224877.jpg');
+    background-image: url('../images/bnf.webp');
     background-size: cover;
 }
 

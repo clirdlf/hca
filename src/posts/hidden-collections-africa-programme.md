@@ -1,7 +1,7 @@
 ---
 title: 'The Hidden Collections Africa Programme'
-image: /assets/images/Africa-ubuntu-net.png
-background: /assets/images/Africa-ubuntu-net.png
+image: /assets/images/Africa-ubuntu-net.webp
+background: /assets/images/Africa-ubuntu-net.webp
 date: 2022-11-10
 tags: news
 class: ubuntu

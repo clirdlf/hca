@@ -3,7 +3,7 @@ title: Proposed Approach
 date: 2023-04-25
 draft: true
 eleventyExcludeFromCollections: true
-background: /assets/images/kyle-philip-coulson-DfnJWjK63gQ-unsplash.jpg
+background: /assets/images/kyle-philip-coulson-DfnJWjK63gQ-unsplash.webp
 ---
 
 Introductory paragraph.

@@ -3,7 +3,7 @@ title: Infrastructure Defined
 date: 2023-04-25
 draft: true
 eleventyExcludeFromCollections: true
-background: /assets/images/pexels-rfstudio-3810792.jpg
+background: /assets/images/pexels-rfstudio-3810792.webp
 ---
 
 The approach expands the idea of infrastructure beyond its technical dimensions. Includes people, systems, knowledge. Program to be developed not just to implement new technologies and increase access to original source content but also to empower people to steward and engage with that content

@@ -3,13 +3,13 @@ title: Advisory Committee
 date: 2023-04-25
 draft: true
 eleventyExcludeFromCollections: true
-background: /assets/images/micha-humbel-Qtc8MJebIO8-unsplash.jpg
+background: /assets/images/micha-humbel-Qtc8MJebIO8-unsplash.webp
 ---
 
 lorem ipsum
 
 
-{% image "src/assets/images/micha-humbel-Qtc8MJebIO8-unsplash.jpg", "photo of my tabby cat","", "(min-width: 30em) 50vw, 100vw" %}
+{% image "src/assets/images/micha-humbel-Qtc8MJebIO8-unsplash.webp", "photo of my tabby cat","", "(min-width: 30em) 50vw, 100vw" %}
 
 
 # TODO:

@@ -3,7 +3,7 @@ title: A Technical Infrastructure
 date: 2023-04-23
 draft: true
 eleventyExcludeFromCollections: true
-background: /assets/images/aaron-thomas-dPmCzHQ7Vc4-unsplash.jpg
+background: /assets/images/aaron-thomas-dPmCzHQ7Vc4-unsplash.webp
 ---
 
 At the core of the **Hidden Collections Africa** approach is working with local and regional partners to develop not only digital content, but also the human and technical infrasture around the project to build commumity infrastructure to ensure the long-term preservation and use of digital assets.

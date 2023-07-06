@@ -1,7 +1,7 @@
 ---
 title: Partnership Agreements
-image: /assets/images/bnf.jpg
-background: /assets/images/bnf.jpg
+image: /assets/images/bnf.webp
+background: /assets/images/bnf.webp
 date: 2022-11-15
 tags: news
 class: partner
