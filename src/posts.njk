@@ -8,7 +8,7 @@ eleventyNavigation:
 
 {% set posts = collections.posts | reverse %}
 
-<div class="row rol-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 align-items-stretch g-4 py-5">
     {% for post in posts %}
         <div class="col">
             <div class="card text-white card-has-bg click-col" style="background-image:url('{{ post.data.background | url }}');">
