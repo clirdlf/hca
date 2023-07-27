@@ -33,25 +33,32 @@
 
 <body>
 
-  <header class="masthead mb-auto container d-flex flex-wrap">
-    <nav class="nav nav-masthead ms-auto float-md-end mt-3">
-        
-            
+  <!-- <header class="mb-auto container">
+    <div>
+        <nav class="nav nav-masthead ms-auto justify-content-center mt-3 float-md-end">
                 
-            
-            
-            <a href="/" class="nav-link fw-bold py-1 px-0 active">Home</a>
-        
-            
-            
-            <a href="/about/" class="nav-link fw-bold py-1 px-0">About</a>
-        
-            
-            
-            <a href="/posts/" class="nav-link fw-bold py-1 px-0">Posts</a>
-        
-    </nav>
-</header>
+                <a href="/" class="nav-link fw-bold py-1 px-0 active">Home</a>
+                <a href="/about/" class="nav-link fw-bold py-1 px-0">About</a>
+                <a href="/posts/" class="nav-link fw-bold py-1 px-0">Posts</a>
+        </nav>
+    </div>
+</header> -->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars ms-1"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav text-uppercase ms-auto justify-content-center mt-3 py-4 py-lg-1">
+                
+                <a href="/" class="nav-link fw-bold py-1 px-2 active">Home</a>
+                <a href="/about/" class="nav-link fw-bold py-1 px-2">About</a>
+                <a href="/posts/" class="nav-link fw-bold py-1 px-2">Posts</a>
+            </ul>
+        </div>
+    </div>
+</nav>
 
   <main>
     
@@ -65,18 +72,15 @@
     background-repeat: no-repeat;
     height: 50vh;
 }
-
-
 </style>
-
 <section id="intro" class="text-center text-white parallax bg-image shadow-2-strong">
-    <div class="col-md-5 p-lg-5 mx-auto my-0">
-        <h1 class=" mt-5 pt-5"> Hidden Collections
-                    <br>
+    <div class="col-md-8 p-lg-8 mx-auto my-0 pt-5">
+        <h1 class="display-4 fw-normal mt-5 pt-5">
+            Hidden Collections
             <div class="logo">
                 <span class="red">A</span><span class="yellow">F</span><span class="green">R</span><span class="red">I</span><span class="yellow">C</span><span class="green">A</span>
             </div>
-        </h1>
+            </h1>
         <p class="lead text-light pb-3 pb-md-4 mb-3">
             Decolonizing knowledge spaces through digitizing African special collections and archives.
         </p>
