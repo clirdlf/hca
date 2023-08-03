@@ -53,9 +53,11 @@ function imageCssBackground (src, selector, widths){
 module.exports = (eleventyConfig) => {
     // Copy the "assets" directory to the compiled "_site" folder.
     eleventyConfig.addPassthroughCopy('src/assets');
+	eleventyConfig.addPassthroughCopy('src/robots.txt');
     eleventyConfig.addPassthroughCopy('site.webmanifest');
     eleventyConfig.addPassthroughCopy('icon.svg');
     eleventyConfig.addPassthroughCopy('CNAME');
+
 
 	eleventyConfig.addPlugin(schema);
 	eleventyConfig.addPlugin(excerpt);
