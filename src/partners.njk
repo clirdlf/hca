@@ -1,0 +1,51 @@
+---
+layout: page
+background: /assets/images/00007.png
+title: Partners
+---
+
+<h2>AAU Members</h2>
+
+<ol>
+    {% for member in aau_members %}
+        <li>
+            <a target="_blank" href="{{member.website}}">{{ member.institution }}</a>
+        </li>
+    {% endfor %}
+</ol>
+
+<h2>HBCU Members</h2>
+<ol>
+    {% for member in hbcu_members %}
+        <li>
+            {{ member.institution }}
+        </li>
+    {% endfor %}
+</ol>
+
+<h2>CENL Members</h2>
+<ol>
+    {% for member in cenl_members %}
+        <li>
+            {{ member.institution }}
+        </li>
+    {% endfor %}
+</ol>
+
+<h2>RFN Members</h2>
+<ol>
+    {% for member in rfn_members %}
+        <li>
+            {{ member.institution }} ({{ member.country }})
+    </li>
+    {% endfor %}
+</ol>
+
+<h2>CLIR Members</h2>
+<ol>
+    {% for member in clir_members %}
+        <li>
+            {{ member.institution }}
+        </li>
+    {% endfor %}
+</ol>

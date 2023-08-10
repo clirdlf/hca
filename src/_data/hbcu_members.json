@@ -1,0 +1,462 @@
+[
+	{
+		"institution": "Alabama A & M University",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Alabama State University",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "J.F. Drake State Community and Technical College",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Lawson State Community College",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Miles College",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Oakwood University",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Shelton State Community College",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Stillman College",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Talladega College",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Trenholm State Community College",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Tuskegee University",
+		"location": "Alabama",
+		"website": ""
+	},
+	{
+		"institution": "Arkansas Baptist College",
+		"location": "Arkansas",
+		"website": ""
+	},
+	{
+		"institution": "Philander Smith College",
+		"location": "Arkansas",
+		"website": ""
+	},
+	{
+		"institution": "Shorter College",
+		"location": "Arkansas",
+		"website": ""
+	},
+	{
+		"institution": "University of Arkansas at Pine Bluff",
+		"location": "Arkansas",
+		"website": ""
+	},
+	{
+		"institution": "Howard University",
+		"location": "DC",
+		"website": ""
+	},
+	{
+		"institution": "University of the District of Columbia",
+		"location": "DC",
+		"website": ""
+	},
+	{
+		"institution": "Delaware State University",
+		"location": "Delaware",
+		"website": ""
+	},
+	{
+		"institution": "Bethune Cookman University",
+		"location": "Florida",
+		"website": ""
+	},
+	{
+		"institution": "Edward Waters College",
+		"location": "Florida",
+		"website": ""
+	},
+	{
+		"institution": "Florida A&M University",
+		"location": "Florida",
+		"website": ""
+	},
+	{
+		"institution": "Florida Memorial University",
+		"location": "Florida",
+		"website": ""
+	},
+	{
+		"institution": "Albany State University",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Atlanta University Center",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Clark Atlanta University",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Interdenominational Theological Center",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Morehouse College",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Morehouse School of Medicine",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Savannah State University",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Spelman College",
+		"location": "Georgia",
+		"website": ""
+	},
+	{
+		"institution": "Kentucky State University",
+		"location": "Kentucky",
+		"website": ""
+	},
+	{
+		"institution": "Simmons College of Kentucky",
+		"location": "Kentucky",
+		"website": ""
+	},
+	{
+		"institution": "Dillard University",
+		"location": "Louisiana",
+		"website": ""
+	},
+	{
+		"institution": "Grambling State University",
+		"location": "Louisiana",
+		"website": ""
+	},
+	{
+		"institution": "Southern University and A&M College",
+		"location": "Louisiana",
+		"website": ""
+	},
+	{
+		"institution": "Southern University at Shreveport",
+		"location": "Louisiana",
+		"website": ""
+	},
+	{
+		"institution": "Southern University New Orleans",
+		"location": "Louisiana",
+		"website": ""
+	},
+	{
+		"institution": "Xavier University of Louisiana",
+		"location": "Louisiana",
+		"website": ""
+	},
+	{
+		"institution": "Bowie State University",
+		"location": "Maryland",
+		"website": ""
+	},
+	{
+		"institution": "Morgan State University",
+		"location": "Maryland",
+		"website": ""
+	},
+	{
+		"institution": "University of Maryland Eastern Shore",
+		"location": "Maryland",
+		"website": ""
+	},
+	{
+		"institution": "Alcorn State University",
+		"location": "Mississippi",
+		"website": ""
+	},
+	{
+		"institution": "Coahoma Community College",
+		"location": "Mississippi",
+		"website": ""
+	},
+	{
+		"institution": "Hinds Community College-Utica Campus",
+		"location": "Mississippi",
+		"website": ""
+	},
+	{
+		"institution": "Jackson State University",
+		"location": "Mississippi",
+		"website": ""
+	},
+	{
+		"institution": "Mississippi Valley State University",
+		"location": "Mississippi",
+		"website": ""
+	},
+	{
+		"institution": "Tougaloo College",
+		"location": "Mississippi",
+		"website": ""
+	},
+	{
+		"institution": "Harris-Stowe State University",
+		"location": "Missouri",
+		"website": ""
+	},
+	{
+		"institution": "Lincoln University (MO)",
+		"location": "Missouri",
+		"website": ""
+	},
+	{
+		"institution": "Bennett College",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Elizabeth City State University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Fayetteville State University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Johnson C. Smith University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Livingstone College",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "North Carolina A&T State University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "North Carolina Central University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Saint Augustine’s University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Shaw University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Winston-Salem State University",
+		"location": "North Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Central State University",
+		"location": "Ohio",
+		"website": ""
+	},
+	{
+		"institution": "Wilberforce University",
+		"location": "Ohio",
+		"website": ""
+	},
+	{
+		"institution": "Cheyney University of Pennsylvania",
+		"location": "Pennsylvania",
+		"website": ""
+	},
+	{
+		"institution": "Lincoln University (PA)",
+		"location": "Pennsylvania",
+		"website": ""
+	},
+	{
+		"institution": "Brown University",
+		"location": "Rhode Island",
+		"website": ""
+	},
+	{
+		"institution": "Allen University",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Benedict College",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Claflin University",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Clinton College",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Denmark Technical College",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Morris College",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "South Carolina State University",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "Voorhees College",
+		"location": "South Carolina",
+		"website": ""
+	},
+	{
+		"institution": "American Baptist College",
+		"location": "Tennessee",
+		"website": ""
+	},
+	{
+		"institution": "Fisk University",
+		"location": "Tennessee",
+		"website": ""
+	},
+	{
+		"institution": "Lane College",
+		"location": "Tennessee",
+		"website": ""
+	},
+	{
+		"institution": "LeMoyne-Owen College",
+		"location": "Tennessee",
+		"website": ""
+	},
+	{
+		"institution": "Meharry Medical College",
+		"location": "Tennessee",
+		"website": ""
+	},
+	{
+		"institution": "Tennessee State University",
+		"location": "Tennessee",
+		"website": ""
+	},
+	{
+		"institution": "Huston-Tillotson University",
+		"location": "Texas",
+		"website": ""
+	},
+	{
+		"institution": "Jarvis Christian University",
+		"location": "Texas",
+		"website": ""
+	},
+	{
+		"institution": "Prairie View A&M University",
+		"location": "Texas",
+		"website": ""
+	},
+	{
+		"institution": "St. Philip's College",
+		"location": "Texas",
+		"website": ""
+	},
+	{
+		"institution": "Texas College",
+		"location": "Texas",
+		"website": ""
+	},
+	{
+		"institution": "Texas Southern University",
+		"location": "Texas",
+		"website": ""
+	},
+	{
+		"institution": "Wiley College",
+		"location": "Texas",
+		"website": ""
+	},
+	{
+		"institution": "University of the Virgin Islands",
+		"location": "Virgin Islands",
+		"website": ""
+	},
+	{
+		"institution": "Hampton University",
+		"location": "Virginia",
+		"website": ""
+	},
+	{
+		"institution": "Norfolk State University",
+		"location": "Virginia",
+		"website": ""
+	},
+	{
+		"institution": "Virginia State University",
+		"location": "Virginia",
+		"website": ""
+	},
+	{
+		"institution": "Virginia Union University",
+		"location": "Virginia",
+		"website": ""
+	},
+	{
+		"institution": "Bluefield State University",
+		"location": "West Virginia",
+		"website": ""
+	},
+	{
+		"institution": "West Virginia State University",
+		"location": "West Virginia",
+		"website": ""
+	}
+]

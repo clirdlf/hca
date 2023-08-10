@@ -1,0 +1,3082 @@
+[
+	{
+		"institution": "Abia State University",
+		"location": "Abia State",
+		"country": "Nigeria",
+		"website": "http://absu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Abm University College",
+		"location": "Gaborone",
+		"country": "Botswana",
+		"website": "https://abm.ac.bw",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Abrar University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://abrar.edu.so",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Abubakar Tafawa Balewa University",
+		"location": "Bauchi",
+		"country": "Nigeria",
+		"website": "http://www.atbu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Accra Institute Of Technology",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://ait-edu.us/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Accra Technical University",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://atu.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Adamawa State University,",
+		"location": "Mudi",
+		"country": "Nigeria",
+		"website": "http://www.adamawastateuni.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Addis Ababa Science And Technology University",
+		"location": "Addis Ababa",
+		"country": "Ethiopia",
+		"website": "http://www.aastu.edu.et",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Addis Ababa University",
+		"location": "Addis Ababa",
+		"country": "Ethiopia",
+		"website": "http://www.aau.edu.et",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Adekunle Ajasin University",
+		"location": "Akungba-akoko",
+		"country": "Nigeria",
+		"website": "http://www.adekunleajasinuniversity.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Admiralty University Of Nigeria",
+		"location": "Delta State",
+		"country": "Nigeria",
+		"website": "https://adun.edu.ng/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Afe Babalola University, Ado Ekiti (abuad)",
+		"location": "Ado Ekiti",
+		"country": "Nigeria",
+		"website": "http://www.abuad.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Afi/l’université De L’entreprise En Abrégé (afi/l’ue)",
+		"location": "Zone B Dakar",
+		"country": "Sénégal",
+		"website": "https://www.afi-ue.sn/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Africa International University",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "https://www.iua.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Africa University",
+		"location": "Mutare",
+		"country": "Zimbabwe",
+		"website": "http://www.africau.edu/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "African University College Of Communication",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://www.aucc.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "African University Of Science And Technology, Abuja",
+		"location": "Abuja",
+		"country": "Nigeria",
+		"website": "https://aust.edu.ng",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "African Virtual University",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "http://www.avu.org",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Agitel - Formation",
+		"location": "Abidjan 03",
+		"country": "CÔte D'ivoire",
+		"website": "http://www.agitel.ci",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ahfad University For Women",
+		"location": "Omdurman",
+		"country": "Sudan",
+		"website": "http://www.ahfad.net/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ahmadu Bello University",
+		"location": "Zaria",
+		"country": "Nigeria",
+		"website": "http://abu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ain Shams University",
+		"location": "Cairo",
+		"country": "Egypt",
+		"website": "http://www.asu.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ajayi Crowther University",
+		"location": "Oyo Town",
+		"country": "Nigeria",
+		"website": "https://acu.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Al Asmariya Univ. Of Islamic Sciences",
+		"location": "Zliten",
+		"country": "Libya",
+		"website": "http://asmarya.edu.ly",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Al Fashir University",
+		"location": "Durfur",
+		"country": "Sudan",
+		"website": "http://fashir.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Al Neelain University",
+		"location": "Khartoum 12702",
+		"country": "Sudan",
+		"website": "http://www.neelain.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Al-azhar University",
+		"location": "Cairo",
+		"country": "Egypt",
+		"website": "http://www.azhar.edu.eg/en/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Al-fateh University",
+		"location": "Tripoli",
+		"country": "Libya",
+		"website": "https://uot.edu.ly/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Al-hikmah University",
+		"location": "Ilorin",
+		"country": "Nigeria",
+		"website": "https://alhikmahuniversity.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Alexandria Higher Institute Of Engineering & Technology (aiet)",
+		"location": "Alexandria",
+		"country": "Egypt",
+		"website": "http://www.aiet.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Alexandria University",
+		"location": "Alexandria",
+		"country": "Egypt",
+		"website": "https://alexu.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "All Nations University College",
+		"location": "Koforidua",
+		"country": "Ghana",
+		"website": "https://anu.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Alzaiem Alazhari University",
+		"location": "Omdurman",
+		"country": "Sudan",
+		"website": "http://www.aau.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ambrose Alli University",
+		"location": "Ekpoma",
+		"country": "Nigeria",
+		"website": "http://www.aauekpoma.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "American International University",
+		"location": "Banjul",
+		"country": "The Gambia",
+		"website": "http://www.aiu.edu.gm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ardhi University",
+		"location": "Dar Es Salaam",
+		"country": "Tanzania",
+		"website": "http://www.aru.ac.tz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ashesi University College",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://www.ashesi.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Assiut University",
+		"location": "Assiut",
+		"country": "Egypt",
+		"website": "http://www.aun.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Aswan University",
+		"location": "Aswan",
+		"country": "Egypt",
+		"website": "http://www.aswu.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Babcock University",
+		"location": "Ikeja",
+		"country": "Nigeria",
+		"website": "https://babcock.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bayan College Of Science And Technology",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "http://www.bayantech.edu",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Bayero University",
+		"location": "Kano",
+		"country": "Nigeria",
+		"website": "http://www.buk.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bells University Of Technology, Ota",
+		"location": "Ogun State",
+		"country": "Nigeria",
+		"website": "http://www.bellsuniversity.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Benadir University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://bu.edu.so/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Benha University",
+		"location": "Benha",
+		"country": "Egypt",
+		"website": "http://www.bu.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bindura University Of Science Education",
+		"location": "Bindura",
+		"country": "Zimbabwe",
+		"website": "http://www.buse.ac.zw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bluecrest College",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://bluecrest.edu.gh/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Botho University",
+		"location": "Gaborone",
+		"country": "Botswana",
+		"website": "https://www.bothouniversity.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Botswana Accountancy College",
+		"location": "Gaborone",
+		"country": "Botswana",
+		"website": "http://www.bac.ac.bw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Botswana International University Of Science And Technology",
+		"location": "Palapye",
+		"country": "Botswana",
+		"website": "https://www.biust.ac.bw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Botswana University Of Agriculture And Natural Resources",
+		"location": "Gaborone",
+		"country": "Botswana",
+		"website": "https://buan.ac.bw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bowen University",
+		"location": "Iwo",
+		"country": "Nigeria",
+		"website": "http://bowenuniversity.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bugema University",
+		"location": "Kampala",
+		"country": "Uganda",
+		"website": "www.bugemauniv.ac.ug",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bule Hora University",
+		"location": "Oromia",
+		"country": "Ethiopia",
+		"website": "http://www.bhu.edu.et/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Bunda College Of Agriculture",
+		"location": "Bunda",
+		"country": "Malawi",
+		"website": "http://www.luanar.ac.mw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Busitema University",
+		"location": "Tororo",
+		"country": "Uganda",
+		"website": "https://busitema.ac.ug/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Cairo University",
+		"location": "Cairo",
+		"country": "Egypt",
+		"website": "http://www.cu.edu.eg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Capital University Of Somalia",
+		"location": "Mogadishu,",
+		"country": "Somalia",
+		"website": "https://capitaluniversity.edu.so",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Carnegie Mellon University",
+		"location": "Kigali",
+		"country": "Rwanda",
+		"website": "http://www.cmu.edu/rwanda/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Catholic University Of Mozambique",
+		"location": "Beira",
+		"country": "Mozambique",
+		"website": "http://www.ucm.ac.mz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Catholic University Of Zimbabwe",
+		"location": "Harare",
+		"country": "Zimbabwe",
+		"website": "http://cuz.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Cavendish University",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://www.cavendishza.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Central University College",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://www.centraluniversity.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Central University Of Technology, Free State",
+		"location": "Bloemfontein 9301",
+		"country": "South Africa",
+		"website": "https://www.cut.ac.za/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Chinhoyi University Of Technology",
+		"location": "Chinhoyi",
+		"country": "Zimbabwe",
+		"website": "http://www.cut.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Chreso University",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://chresouniversity.edu.zm/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "College Of Business Education",
+		"location": "Dodoma",
+		"country": "Tanzania",
+		"website": "https://www.cbe.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Copperbelt University",
+		"location": "Kitwe",
+		"country": "Zambia",
+		"website": "http://www.cbu.edu.zm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Council On Higher Education",
+		"location": "Persequor Park 0020",
+		"country": "South Africa",
+		"website": "https://www.che.ac.za/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Covenant University",
+		"location": "Ota, Km. 10 Idiroko Road, Canaan Land",
+		"country": "Nigeria",
+		"website": "http://www.covenantuniversity.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Crawford University",
+		"location": "Igbesa",
+		"country": "Nigeria",
+		"website": "https://crawforduniversity.edu.ng/crawford/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Cross River University Of Technology",
+		"location": "Calabar",
+		"country": "Nigeria",
+		"website": "https://www.crutech.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Cuttington University College",
+		"location": "Monrovia",
+		"country": "Liberia",
+		"website": "http://cuttingtonuniversity.edu.lr/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Daystar University College",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "https://www.daystar.ac.ke",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Dedan Kimathi University Of Technology",
+		"location": "Nyeri",
+		"country": "Kenya",
+		"website": "http://www.dkut.ac.ke/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Delta State University, Abraka",
+		"location": "Abraka",
+		"country": "Nigeria",
+		"website": "https://www.delsu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Dire Dawa University",
+		"location": "Dire Dawa",
+		"country": "Ethiopia",
+		"website": "https://www.ddu.edu.et/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Dmi-st. Eugene University",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://www.dmiseu.edu.zm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Dmi-st. John The Baptist University (dmisjbu)",
+		"location": "Mangochi",
+		"country": "Malawi",
+		"website": "https://www.dmisjbu.edu.mw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Dominion University College",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://duc.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Durban University Of Technology",
+		"location": "Durban",
+		"country": "South Africa",
+		"website": "https://www.dut.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "East Africa University",
+		"location": "Bosaso",
+		"country": "Somalia",
+		"website": "https://www.eastafricauniversity.net",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ebonyi State University, Abakaliki",
+		"location": "Abakaliki",
+		"country": "Nigeria",
+		"website": "http://www.ebsu-edu.net",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ecole De Gouvernance Et D'economie De Rabat",
+		"location": "Rabat",
+		"country": "Morocco",
+		"website": "http://www.egerabat.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ecole Des Cadres",
+		"location": "Lome",
+		"country": "Togo",
+		"website": "http://www.ecoledescadrestogo.com/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Ecole Des Mines, De L’industrie Et De La Géologie (emig)",
+		"location": "Niamey",
+		"country": "Niger",
+		"website": "http://www.emig-niger.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ecole Nationale Superieure Des Travaux Publics De Yaoundé",
+		"location": "Yaoundé",
+		"country": "Cameroun",
+		"website": "https://enstp.cm/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ecole Normale Supérieure",
+		"location": "Bujumbura",
+		"country": "Burundi",
+		"website": "http://www.ens.bi/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ecole Normale Supérieure De Nouakchott",
+		"location": "Nouakchott",
+		"country": "Mauritania",
+		"website": "https://www.ens.mr",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ecole Superieure Polytechnique D'antsiranana",
+		"location": "Antisiranana",
+		"country": "Madagascar",
+		"website": "https://www.esp-antsiranana.mg/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Edexcel University",
+		"location": "Ifangni",
+		"country": "Benin",
+		"website": "http://www.edexceluni.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Edo State University, Uzairue",
+		"location": "Auchi",
+		"country": "Nigeria",
+		"website": "http://www.edouniversity.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Egerton University",
+		"location": "Njoro",
+		"country": "Kenya",
+		"website": "http://www.egerton.ac.ke/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Egypt-japan University Of Science And Technology",
+		"location": "Alexandria",
+		"country": "Egypt",
+		"website": "http://www.ejust.edu.eg/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Ekiti State University, Ado Ekiti",
+		"location": "Ado Ekiti State",
+		"country": "Nigeria",
+		"website": "https://eksu.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "El Imam El Mahdi University",
+		"location": "Kosti",
+		"country": "Sudan",
+		"website": "http://www.mahdi.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Elizade University",
+		"location": "Ilara-mokin, Ondo State",
+		"country": "Nigeria",
+		"website": "https://www.elizadeuniversity.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Enugu State University Of Science Technology",
+		"location": "Enugu",
+		"country": "Nigeria",
+		"website": "http://www.esut.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ethiopian Civil Service University",
+		"location": "Addis Ababa",
+		"country": "Ethiopia",
+		"website": "http://www.ecsu.edu.et",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Euclid University (euclid)",
+		"location": "Bangui",
+		"country": "Central African Rep.",
+		"website": "https://www.euclid.int",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Faculty Of Islamic Call",
+		"location": "Tripoli",
+		"country": "Libya",
+		"website": "http://www.islamic-call.org",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Federal Polytechnic Oko",
+		"location": "Oko",
+		"country": "Nigeria",
+		"website": "https://federalpolyoko.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Federal University Of Agriculture, Abeokuta",
+		"location": "Abeokuta",
+		"country": "Nigeria",
+		"website": "http://www.unaab.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Federal University Of Technology, Akure",
+		"location": "Akure",
+		"country": "Nigeria",
+		"website": "http://www.futa.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Federal University Of Technology, Minna",
+		"location": "Minna, 920001",
+		"country": "Nigeria",
+		"website": "http://www.futminna.net/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Federal University Of Technology, Owerri",
+		"location": "Owerri",
+		"country": "Nigeria",
+		"website": "https://futo.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Federal University Oye- Ekiti",
+		"location": "Ekiti",
+		"country": "Nigeria",
+		"website": "https://fuoye.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Garden City University College",
+		"location": "Kumasi",
+		"country": "Ghana",
+		"website": "https://www.gcuc.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ghana Institute Of Journalism",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://gij.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ghana Institute Of Languages",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://gil.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ghana Institute Of Management And Public Administration",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://www.gimpa.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Gollis University",
+		"location": "Hargeisa",
+		"country": "Somalia",
+		"website": "https://gollisuniversity.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Gombe State University",
+		"location": "Gombe",
+		"country": "Nigeria",
+		"website": "https://gsu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Graduate School Of Management",
+		"location": "Abidjan",
+		"country": "Côte D'ivoire",
+		"website": "https://www.gradsm.net/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Great Zimbabwe University",
+		"location": "Masvingo",
+		"country": "Zimbabwe",
+		"website": "https://www.gzu.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Groupe Institut Supérieur De Commerce Et D'administration Des Entreprises (group Iscae)",
+		"location": "Casablanca",
+		"country": "Morocco",
+		"website": "https://www.groupeiscae.ma",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Gulf Medical University",
+		"location": "Ajman",
+		"country": "United Arab Emirates",
+		"website": "https://gmu.ac.ae",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Haramaya University",
+		"location": "Dire Dawa",
+		"country": "Ethiopia",
+		"website": "http://www.haramaya.edu.et/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Harare Institute Of Technology",
+		"location": "Harare",
+		"country": "Zimbabwe",
+		"website": "https://www.hit.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Hawassa University",
+		"location": "Hawassa",
+		"country": "Ethiopia",
+		"website": "http://www.hu.edu.et",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Helwan University",
+		"location": "Helwan, Cairo",
+		"country": "Egypt",
+		"website": "http://www.helwan.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Higher Institute Of Science And Technology Of Mozambique",
+		"location": "Maputo",
+		"country": "Mozambique",
+		"website": "https://isctem.ac.mz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Himilo University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://www.himilouniversity.edu.so/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ho Technical University",
+		"location": "Ho",
+		"country": "Ghana",
+		"website": "https://www.htu.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Hormuud University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "http://hu.edu.so",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Horseed International University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "http://www.hiu-edu.com/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Hubert Kairuki University",
+		"location": "Dar Es Salaam",
+		"country": "Tanzania",
+		"website": "http://www.hkmu.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ibrahim Badamasi Babangida University,lapai",
+		"location": "Lagos",
+		"country": "Nigeria",
+		"website": "https://ibbu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Igbinedion University",
+		"location": "Benin City",
+		"country": "Nigeria",
+		"website": "https://www.iuokada.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Imo State University",
+		"location": "Owerri",
+		"country": "Nigeria",
+		"website": "https://imsuonline.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Institut Africain De Santé Publique (iasp)",
+		"location": "Ouagadougou",
+		"country": "Burkina Faso",
+		"website": "https://iasp-bf.org/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Institut De Formation Aux Carrières De Santé",
+		"location": "Casablanca",
+		"country": "Morocco",
+		"website": "http://efcsfes.simplesite.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Institut Des Hautes Etudes De Tunis",
+		"location": "Mutuelleville",
+		"country": "Tunisia",
+		"website": "http://www.ihet.ens.tn/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Institut International D'ingénierie De L'eau Et De L'environnement",
+		"location": "Ougadougou 01",
+		"country": "Burkina Faso",
+		"website": "https://www.auf.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Institut International Des Sciences Et Technologie Sénégal",
+		"location": "Dakar",
+		"country": "Senegal",
+		"website": "http://www.iist-hilight.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Institut Supérieur De L'informatique Et De Gestion (isig)",
+		"location": "Ouagadougou 06",
+		"country": "Burkina Faso",
+		"website": "http://www.isigk.rnu.tn/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Institut Universitaire Du Golfe De Guinée",
+		"location": "Douala",
+		"country": "Cameroon",
+		"website": "http://www.univ-iug.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Institut Universitaire D’abidjan",
+		"location": "Abidjan",
+		"country": "Côte D'ivoire",
+		"website": "https://iua-ci.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Instituto Superior De Ciências De Educação à Distância (isced)",
+		"location": "Beira",
+		"country": "Mozambique",
+		"website": "https://isced.co",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Instituto Superior Politecnico De Tecnologias E Ciencias",
+		"location": "Av. Luanda Sul, Luanda, Angola",
+		"country": "Angola",
+		"website": "https://www.isptec.co.ao",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Inter-state School Of Veterinary Sciences And Medicine",
+		"location": "Dakar",
+		"country": "Senegal",
+		"website": "eismv.org/?lang=en",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "International Centre For Insect Physiology And Ecology (icipe)",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "http://www.icipe.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "International Open University",
+		"location": "Kanifing South",
+		"country": "The Gambia",
+		"website": "https://iou.edu.gm/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "International University Of Africa",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "https://www.iua.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "International University Of Africa",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "www.iua.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "International University Of Grand-bassam",
+		"location": "Grand-bassam",
+		"country": "Côte D'ivoire",
+		"website": "http://iugb.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "International University Of Management",
+		"location": "Windhoek",
+		"country": "Namibia",
+		"website": "http://www.ium.edu.na",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Islamic University In Uganda",
+		"location": "Mbale",
+		"country": "Uganda",
+		"website": "http://www.iuiu.ac.ug/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Iu - International University Of Applied Sciences",
+		"location": "Erfurt",
+		"country": "Germany",
+		"website": "http://www.iu.de",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Jamhuriya University Of Science And Technology (just)",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://just.edu.so",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Jazeera University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://www.jazeerauniversity.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Jimma University",
+		"location": "Addis Ababa",
+		"country": "Ethiopia",
+		"website": "http://www.ju.edu.et/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Jomo Kenyatta University Of Agric. & Technology",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "http://www.jkuat.ac.ke",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kabale University",
+		"location": "Kabale",
+		"country": "Uganda",
+		"website": "https://www.kab.ac.ug/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kabridahar University",
+		"location": "Kebri Dahar",
+		"country": "Ethiopia",
+		"website": "https://kdu.edu.et/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Kampala International University",
+		"location": "Kampala",
+		"country": "Uganda",
+		"website": "https://www.kiu.ac.ug/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kca University",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "https://www.kcau.ac.ke/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kenyatta University",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "http://www.ku.ac.ke",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kesmonds International University",
+		"location": "Ngaoundere",
+		"country": "Cameroon",
+		"website": "https://kesmonds-edu.ac/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Koforidua Technical University",
+		"location": "Koforidua",
+		"country": "Ghana",
+		"website": "https://www.ktu.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kogi State University",
+		"location": "Anyigba",
+		"country": "Nigeria",
+		"website": "http://www.ksu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kumasi Technical University",
+		"location": "Kumasi",
+		"country": "Ghana",
+		"website": "https://kstu.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kwame Nkrumah University Of Science And Technology",
+		"location": "Kumasi",
+		"country": "Ghana",
+		"website": "http://www.knust.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kwara State University",
+		"location": "Ilorin",
+		"country": "Nigeria",
+		"website": "https://www.kwasu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Kwararafa University, Wukari",
+		"location": "Taraba State",
+		"country": "Nigeria",
+		"website": "https://kwararafauniversity.org",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Ladoke Akintola University Of Technology",
+		"location": "Ogbomoso",
+		"country": "Nigeria",
+		"website": "http://www.lautech.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Landmark University",
+		"location": "Omu Aran",
+		"country": "Nigeria",
+		"website": "http://landmarkuniversity.edu.ng/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Lilongwe University Of Agriculture & Natural Resources (luanar)",
+		"location": "Lilongwe",
+		"country": "Malawi",
+		"website": "http://www.bunda.luanar.mw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Lincoln University College",
+		"location": "Petaling Jaya",
+		"country": "Malaysia",
+		"website": "http://www.lincoln.edu.my",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Lupane State University",
+		"location": "Bulawayo",
+		"country": "Zimbabwe",
+		"website": "http://www.lsu.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Lusaka Apex University",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "http://lamu.edu.zm/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Maflekumen Higher Institute Of Health Sciences",
+		"location": "Tiko Fako Division",
+		"country": "Cameroun",
+		"website": "https://maflekumen-institute.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mahatma Gandhi University",
+		"location": "Kigali,",
+		"country": "Rwanda",
+		"website": "http://www.mgu.ac.rw/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Makerere University",
+		"location": "Kampala",
+		"country": "Uganda",
+		"website": "http://www.mak.ac.ug",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Malawi University Of Science And Technology",
+		"location": "Limbe",
+		"country": "Malawi",
+		"website": "https://www.must.ac.mw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Manicaland State University Of Applied Sciences",
+		"location": "Mutare",
+		"country": "Zimbabwe",
+		"website": "https://msuas.ac.zw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Manicaland State University Of Applied Sciences (msuas)",
+		"location": "Mutare",
+		"country": "Zimbabwe",
+		"website": "https://msuas.ac.zw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mansoura University",
+		"location": "Mansoura 35516",
+		"country": "Egypt",
+		"website": "http://www.mans.eun.eg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Marodijeh University",
+		"location": "Hargeisa",
+		"country": "Somalia",
+		"website": "http://www.miu.edu.so",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Maryam Abacha Université Américaine Du Niger",
+		"location": "Maradi",
+		"country": "Niger",
+		"website": "http://maaun.net",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Maseno University",
+		"location": "Maseno",
+		"country": "Kenya",
+		"website": "http://maseno.ac.ke/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Masinde Muliro College Of Science And Technology",
+		"location": "Maseno",
+		"country": "Kenya",
+		"website": "http://www.mmust.ac.ke",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Matrouh University",
+		"location": "Matrouh",
+		"country": "Egypt",
+		"website": "http://www.mau.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mekelle University",
+		"location": "Mekelle",
+		"country": "Ethiopia",
+		"website": "https://infomekelle.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Menoufia University",
+		"location": "Shebin El-kom",
+		"country": "Egypt",
+		"website": "http://mu.menofia.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Meru University Of Science And Technology",
+		"location": "Meru",
+		"country": "Kenya",
+		"website": "https://www.must.ac.ke/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Methodist University College",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://www.mucg.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Michael Okpara University Of Agriculture, Umudike",
+		"location": "Umuahia",
+		"country": "Nigeria",
+		"website": "http://mouau.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Midlands State University",
+		"location": "Gweru",
+		"country": "Zimbabwe",
+		"website": "https://ww5.msu.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Minia University",
+		"location": "El Minia",
+		"country": "Egypt",
+		"website": "http://www.minia.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Misr University For Science & Technology",
+		"location": "Cairo",
+		"country": "Egypt",
+		"website": "http://www.must.edu.eg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Misurata University",
+		"location": "Misurata",
+		"country": "Libya",
+		"website": "http://www.misuratau.edu.ly/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Modibbo University Of Technology, Yola",
+		"location": "Yola Adamawa State",
+		"country": "Nigeria",
+		"website": "http://www.futy.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mogadishu University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "http://www.mogadishuuniversity.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mohammed Vi Polytechnic University",
+		"location": "Ben Guerir",
+		"country": "Morocco",
+		"website": "https://www.um6p.ma/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Moi University",
+		"location": "Eldoret",
+		"country": "Kenya",
+		"website": "http://www.mu.ac.ke",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mount Kenya University",
+		"location": "Thika",
+		"country": "Kenya",
+		"website": "http://www.mku.ac.ke/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mountain Top University",
+		"location": "Ibafo, Ogun State",
+		"country": "Nigeria",
+		"website": "https://www.mtu.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Muhimbili University Of Health & Allied Science",
+		"location": "Dar Es Salaam,",
+		"country": "Tanzania",
+		"website": "http://www.muchs.ac.tz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Multimedia University Of Kenya",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "https://www.mmu.ac.ke",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mulungushi University",
+		"location": "Kabwe",
+		"country": "Zambia",
+		"website": "http://www.mu.ac.zm/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Muslim University Of Morogoro",
+		"location": "Morogoro",
+		"country": "Tanzania",
+		"website": "http://www.mum.ac.tz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Mzumbe University",
+		"location": "Mzumbe",
+		"country": "Tanzania",
+		"website": "https://site.mzumbe.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Namibia University Of Science And Technology",
+		"location": "Windhoek",
+		"country": "Namibia",
+		"website": "https://www.nust.na/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Nasarawa State University, Keffi",
+		"location": "Keffi",
+		"country": "Nigeria",
+		"website": "http://www.nsukonline.net/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "National Institute Of Public Administration (nipa)",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://www.nipa.ac.zm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "National Open University Of Nigeria",
+		"location": "Lagos",
+		"country": "Nigeria",
+		"website": "http://www. Nou.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "National University Of Lesotho",
+		"location": "Roma",
+		"country": "Lesotho",
+		"website": "http://www.nul.ls",
+		"status": "Full Member"
+	},
+	{
+		"institution": "National University Of Science And Technology",
+		"location": "Bulawayo",
+		"country": "Zimbabwe",
+		"website": "http://www.nust.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "National University Sudan",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "https://nu.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Ndejje University",
+		"location": "Ndejje",
+		"country": "Uganda",
+		"website": "https://www.ndejjeuniversity.ac.ug/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Nelson Mandela University",
+		"location": "Port Elizabeth",
+		"country": "South Africa",
+		"website": "https://www.mandela.ac.za/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "New Era College Of Arts, Science And Technology",
+		"location": "Gaborone",
+		"country": "Botswana",
+		"website": "https://neweracollege.ac.bw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Niger Delta University",
+		"location": "Bayelsa State",
+		"country": "Nigeria",
+		"website": "https://www.ndu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Nigerian Turkish Nile University",
+		"location": "Abuja",
+		"country": "Nigeria",
+		"website": "https://www.nileuniversity.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Nile Valley University (wadi El-neel University)",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "http://www.nilevalley.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Njala University",
+		"location": "Freetown",
+		"country": "Sierra Leone",
+		"website": "https://www.njala.edu.sl/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Nnamdi Azikiwe University",
+		"location": "Awka",
+		"country": "Nigeria",
+		"website": "http://www.unizik.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "North-west University",
+		"location": "Potchefstroom 2520",
+		"country": "South Africa",
+		"website": "http://www.nwu.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Obafemi Awolowo University, Ile-ife",
+		"location": "Ile-ife",
+		"country": "Nigeria",
+		"website": "http://www.oauife.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Obour High Institute",
+		"location": "Obour City",
+		"country": "Egypt",
+		"website": "https://www.oi.edu.eg",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "October 6 University",
+		"location": "October 6 City",
+		"country": "Egypt",
+		"website": "https://o6u.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Olabisi Onabanjo University",
+		"location": "Ago-iwoye",
+		"country": "Nigeria",
+		"website": "http://www.oouagoiwoye.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Omdurman Ahlia University",
+		"location": "Omdurman",
+		"country": "Sudan",
+		"website": "http://oau.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Omdurman Islamic University",
+		"location": "Omdurman",
+		"country": "Sudan",
+		"website": "http://www.oiu.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Open University Of Mauritius",
+		"location": "Reduit",
+		"country": "Mauritius",
+		"website": "http://www.open.ac.mu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Osun State University",
+		"location": "Osogbo",
+		"country": "Nigeria",
+		"website": "http://www.uniosun.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Pan African Institute For Development - West Africa (paid-wa)",
+		"location": "Buea",
+		"country": "Cameroon",
+		"website": "https://www.paidafrica.org/paidwa",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Pan African University",
+		"location": "Tlemcen",
+		"country": "Ethiopia",
+		"website": "https://pau-au.net/en/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Pan-atlantic University",
+		"location": "Lekki",
+		"country": "Nigeria",
+		"website": "http://www.pau.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Pentecost University",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://www.pentvars.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Pharos University",
+		"location": "Alexandria",
+		"country": "Egypt",
+		"website": "https://www.pua.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Pigier Côte D'ivoire",
+		"location": "Abidjan 01",
+		"country": "Côte D'ivoire",
+		"website": "https://www.pigierci.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Plasma University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://plasmauniversity.net",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Poma International Business University",
+		"location": "Igolo",
+		"country": "Benin",
+		"website": "http://pomauniversity.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Presbyterian University College",
+		"location": "Abetifi-kwahu",
+		"country": "Ghana",
+		"website": "http://www.presbyuniversity.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Puntland State University",
+		"location": "Garowe",
+		"country": "Somalia",
+		"website": "https://puntlandstateuniversity.com",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Radford University College",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://www.radforduc.edu.gh",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Red Sea University",
+		"location": "Port Sudan",
+		"country": "Sudan",
+		"website": "http://rsu.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Red Sea University, Somalia",
+		"location": "Puntland",
+		"country": "Somalia",
+		"website": "https://rsu.edu.so/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Redeemer's University (rccg, Run)",
+		"location": "Mowe",
+		"country": "Nigeria",
+		"website": "https://run.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Regent University College Of Science And Technology",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://regent.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Regional Maritime University",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "http://www.rmu.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Rhodes University",
+		"location": "Grahamstown 6140",
+		"country": "South Africa",
+		"website": "http://www.ru.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Rivers State University Of Science & Technology",
+		"location": "Port Harcourt",
+		"country": "Nigeria",
+		"website": "https://www.rsu.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Rusangu University",
+		"location": "Monze",
+		"country": "Zambia",
+		"website": "http://ru.edu.zm/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Sebha University",
+		"location": "Sebha",
+		"country": "Libya",
+		"website": "http://www.sebhau.edu.ly",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Sefako Makgatho Health Sciences University",
+		"location": "Pretoria",
+		"country": "South Africa",
+		"website": "https://purerims.smu.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Simad University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://simad.edu.so/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Sokoine University Of Agriculture",
+		"location": "Morogoro",
+		"country": "Tanzania",
+		"website": "http://www.suanet.ac.tz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Solusi University",
+		"location": "Bulawayo",
+		"country": "Zimbabwe",
+		"website": "https://www.solusi.ac.zw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Somali International University",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "https://siu.edu.so",
+		"status": "Full Member"
+	},
+	{
+		"institution": "South Eastern Kenya University",
+		"location": "Kitui, Kenya",
+		"country": "Kenya",
+		"website": "https://www.seku.ac.ke",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "South Valley University",
+		"location": "Kena",
+		"country": "Egypt",
+		"website": "https://www.svu.edu.eg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Southern African Nazarene University",
+		"location": "Manzini",
+		"country": "Eswatini",
+		"website": "https://www.sanu.ac.sz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "St Augustine University",
+		"location": "Mwanza",
+		"country": "Tanzania",
+		"website": "http://www.saut.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "St. Mary’s University",
+		"location": "Addis Ababa",
+		"country": "Ethiopia",
+		"website": "https://www.smuc.edu.et",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Stella Maris Polytechnic University",
+		"location": "Monrovia",
+		"country": "Liberia",
+		"website": "http://smp.edu.lr",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Strathmore University",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "https://www.strathmore.edu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Sudan Academy Of Sciences",
+		"location": "Khartoum 2",
+		"country": "Sudan",
+		"website": "http://www.sas.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Sudan International University",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "http://www.siu-sd.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Sudan University Of Science And Technology",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "http://www.sustech.edu/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Suez Canal University",
+		"location": "Ismailia",
+		"country": "Egypt",
+		"website": "http://scuegypt.edu.eg/en/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Sule Lamido University",
+		"location": "Jigawa",
+		"country": "Nigeria",
+		"website": "https://slu.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Supershine University",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "http://www.supershineuniversity.net/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Takoradi Technical University",
+		"location": "Takoradi",
+		"country": "Ghana",
+		"website": "https://ttu.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Tamale Technical University",
+		"location": "Tamale",
+		"country": "Ghana",
+		"website": "https://tatu.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Tanta University",
+		"location": "Tanta",
+		"country": "Egypt",
+		"website": "https://www.tanta.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Texila American University",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://zm.tauedu.org",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "The American University In Cairo",
+		"location": "Cairo",
+		"country": "Egypt",
+		"website": "https://www.aucegypt.edu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "The British University In Egypt",
+		"location": "Cairo",
+		"country": "Egypt",
+		"website": "https://www.bue.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "The Catholic University Of Eastern Africa",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "https://www.cuea.edu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "The Egyptian E-learning University",
+		"location": "Giza",
+		"country": "Egypt",
+		"website": "http://www.eelu.edu.eg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "The Future University",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "http://fu.edu.sd",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "The Nelson Mandela African Institution Of Science And Technology Nm-ast",
+		"location": "Arusha",
+		"country": "Tanzania",
+		"website": " https://www.nm-aist.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "The Open University Of Tanzania",
+		"location": "Dar Es Salaam",
+		"country": "Tanzania",
+		"website": "http://www.out.ac.tz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Tumaini University Makumira (tuma)",
+		"location": "Arusha",
+		"country": "Tanzania",
+		"website": "https://makumira.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Uganda Christian University",
+		"location": "Mukono",
+		"country": "Uganda",
+		"website": "http://www.ucu.ac.ug",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Uganda Management Institute",
+		"location": "Kampala",
+		"country": "Uganda",
+		"website": "http://www.umi.ac.ug/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Uganda Martyrs University",
+		"location": "Kampala",
+		"country": "Uganda",
+		"website": "http://www.umu.ac.ug",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Uganda Technology And Management University",
+		"location": "Kampala",
+		"country": "Uganda",
+		"website": "https://utamu.ac.ug",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Umaru Musa Yar'adua University",
+		"location": "Katsina",
+		"country": "Nigeria",
+		"website": "https://umyu.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Umma University",
+		"location": "Kajiado",
+		"country": "Kenya",
+		"website": "http://www.umma.ac.ke",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Unicaf University , Malawi",
+		"location": "Lilongwe, Malawi",
+		"country": "Malawi",
+		"website": "https://unicafuniversity.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Unicaf University, Zambia",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://unicafuniversity.ac.zm/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Uniersity Of Sinnar",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "http://uofs.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "United Methodist University",
+		"location": "Monrovia 10",
+		"country": "Liberia",
+		"website": "https://umu.edu.lr",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universidade Agostinho Neto",
+		"location": "Luanda",
+		"country": "Angola",
+		"website": "http://www.uan.ao/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universidade Catolica De Mozambique (ucm)",
+		"location": "Palmeiras",
+		"country": "Mozambique",
+		"website": "http://www.ucm.ac.mz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universidade Eduardo Mondlane",
+		"location": "Maputo 257",
+		"country": "Mozambique",
+		"website": "http://www.uem.mz/index.php",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universidade Jean Piaget De Cabo Verde",
+		"location": "Praia",
+		"country": "Cape Verde",
+		"website": "http://www.unipiaget.cv/",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Universidade Joaquim Chissano",
+		"location": "Mapuro",
+		"country": "Mozambique",
+		"website": "https://ujc.ac.mz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universidade Pedagogica",
+		"location": "Maputo",
+		"country": "Mozambique",
+		"website": "https://www.up.ac.mz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universidade óscar Ribas",
+		"location": "Luanda",
+		"country": "Angola",
+		"website": "https://uor.ed.ao/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universite Aube Nouvelle",
+		"location": "Ouagadougou",
+		"country": "Burkina Faso",
+		"website": "http://u-auben.com",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Universite Badji Mokhtar D'annaba",
+		"location": "Annaba 23000",
+		"country": "Algeria",
+		"website": "http://www.univ-annaba.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universite Des Sciences Et De La Technologie Houari Boumediene (usthb)",
+		"location": "Algiers 16123",
+		"country": "Algeria",
+		"website": "https://fei.usthb.dz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universite Simon Kimbangu",
+		"location": "Kinshasa",
+		"country": "Dr Congo",
+		"website": "Not Available",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universite Tertiaire Et Technologique Lokko",
+		"location": "",
+		"country": "Cote D’ivoire",
+		"website": "http://mrs4.hosteur.com/~group546/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University For Development Studies",
+		"location": "Tamale",
+		"country": "Ghana",
+		"website": "http://www.uds.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Abuja",
+		"location": "Abuja, Fed. Capital Territory",
+		"country": "Nigeria",
+		"website": "http://uniabuja.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Agriculture, Makurdi",
+		"location": "Makurdi",
+		"country": "Nigeria",
+		"website": "https://uam.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Aljabel El Garbi",
+		"location": "Gharian",
+		"country": "Libya",
+		"website": "Not Available",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Asmara",
+		"location": "Asmara",
+		"country": "Eritrea",
+		"website": "http://www.uoa.edu.er/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Bahr El Ghazal",
+		"location": "Khartoum",
+		"country": "South Sudan",
+		"website": "https://ubg.university",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Bahri",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "https://bahri.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Bakht Er Ruda",
+		"location": "Ed Dueim",
+		"country": "Sudan",
+		"website": "http://www.bakhtalruda.edu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Bamenda",
+		"location": "Bamenda",
+		"country": "Cameroun",
+		"website": "http://uniba.cm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Benin",
+		"location": "Benin City",
+		"country": "Nigeria",
+		"website": "http://www.uniben.edu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Botswana",
+		"location": "Gaborone",
+		"country": "Botswana",
+		"website": "http://www.ub.bw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Buea",
+		"location": "Buea",
+		"country": "Cameroun",
+		"website": "https://www.ubuea.cm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Calabar",
+		"location": "Calabar",
+		"country": "Nigeria",
+		"website": "http://www.unical.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Cape Coast",
+		"location": "Cape Coast",
+		"country": "Ghana",
+		"website": "http://www.ucc.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Cape Town",
+		"location": "Rondesbosch 7701",
+		"country": "South Africa",
+		"website": "http://www.uct.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Dalanj",
+		"location": "Dalanj",
+		"country": "Sudan",
+		"website": "http://www.dalanjuniversity.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Dar Es Salaam",
+		"location": "Dar Es Salaam 022",
+		"country": "Tanzania",
+		"website": "http://www.udsm.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Dodoma",
+		"location": "Dodoma",
+		"country": "Tanzania",
+		"website": "https://www.udom.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Education, Winneba",
+		"location": "Winneba",
+		"country": "Ghana",
+		"website": "http://www.uew.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Eldoret",
+		"location": "Eldoret ",
+		"country": "Kenya",
+		"website": " http://uoeld.ac.ke",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Energy And Natural Resources",
+		"location": "Sunyani",
+		"country": "Ghana",
+		"website": "https://uenr.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Eswatini",
+		"location": "Kwaluseni M201",
+		"country": "Eswatini",
+		"website": "http://www.uniswa.sz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Fort Hare",
+		"location": "Alice",
+		"country": "South Africa",
+		"website": "http://www.ufh.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Garyounis",
+		"location": "Benghazi",
+		"country": "Libya",
+		"website": "http://www.garyounis.edu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Gezira",
+		"location": "2667 Khartoum",
+		"country": "Sudan",
+		"website": "http://uofg.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Ghana",
+		"location": "Legon, Accra",
+		"country": "Ghana",
+		"website": "http://www.ug.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Global Health Equity",
+		"location": "Kagali",
+		"country": "Rwanda",
+		"website": "ughe.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Hargeisa",
+		"location": "Hargesia",
+		"country": "Somalia",
+		"website": "http://huniversity.net/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Health And Allied Sciences",
+		"location": "Ho",
+		"country": "Ghana",
+		"website": "https://www.uhas.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Ibadan",
+		"location": "Ibadan",
+		"country": "Nigeria",
+		"website": "http://www.ui.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Ilorin",
+		"location": "Ilorin",
+		"country": "Nigeria",
+		"website": "http://www.unilorin.edu.ng/index.php/en/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Johannesburg",
+		"location": "Auckland Park 2006",
+		"country": "South Africa",
+		"website": "http://www.uj.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Jos",
+		"location": "Jos",
+		"country": "Nigeria",
+		"website": "http://www.unijos.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Juba",
+		"location": "Juba",
+		"country": "South Sudan",
+		"website": "http://juba.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Khartoum",
+		"location": "Khartoum 11115",
+		"country": "Sudan",
+		"website": "http://www.uofk.edu/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Kordofan",
+		"location": "Elobeid",
+		"country": "Sudan",
+		"website": "http://www.kordofan.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Kwazulu-natal",
+		"location": "Durban",
+		"country": "South Africa",
+		"website": "http://www.ukzn.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Lagos",
+		"location": "Lagos",
+		"country": "Nigeria",
+		"website": "http://www.unilag.edu/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Liberia",
+		"location": "Monrovia",
+		"country": "Liberia",
+		"website": "https://ul.edu.lr",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Lusaka",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://www.unilus.ac.zm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Maiduguri",
+		"location": "Maiduguri",
+		"country": "Nigeria",
+		"website": "http://www.unimaid.edu.ng/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Malawi",
+		"location": "Zomba",
+		"country": "Malawi",
+		"website": "http://www.unima.mw/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Mauritius",
+		"location": "Reduit",
+		"country": "Mauritius",
+		"website": "http://www.uom.ac.mu",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Mines And Technology, Tarkwa",
+		"location": "Tarkwa",
+		"country": "Ghana",
+		"website": "http://umat.edu.gh/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Nairobi",
+		"location": "Nairobi",
+		"country": "Kenya",
+		"website": "http://www.uonbi.ac.ke/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Namibia",
+		"location": "Windhoek",
+		"country": "Namibia",
+		"website": "http://www.unam.edu.na/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Nigeria, Nsukka",
+		"location": "Nsukka",
+		"country": "Nigeria",
+		"website": "http://www.unn.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Nyala",
+		"location": "Nyala",
+		"country": "Sudan",
+		"website": "https://nyalau.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Port Harcourt",
+		"location": "Port Harcourt",
+		"country": "Nigeria",
+		"website": "http://www.uniport.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Pretoria",
+		"location": "Pretoria",
+		"country": "South Africa",
+		"website": "http://www.up.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Professional Studies (ups)",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://upsa.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Rwanda",
+		"location": "Butare",
+		"country": "Rwanda",
+		"website": "http://www.nur.ac.rw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Sadat City",
+		"location": "Sadat City",
+		"country": "Egypt",
+		"website": "https://www.usc.edu.eg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Science And Technology",
+		"location": "Omdurman",
+		"country": "Sudan",
+		"website": "http://www.sustech.edu/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Sierra Leone",
+		"location": "Freetown",
+		"country": "Sierra Leone",
+		"website": "http://usl.edu.sl/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Somalia",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "http://www.uniso.edu.so/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of South Africa",
+		"location": "Transvaal 0003",
+		"country": "South Africa",
+		"website": "http://www.unisa.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Stellenbosch",
+		"location": "Matieland 7602",
+		"country": "South Africa",
+		"website": "http://www.sun.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Technology, Mauritius",
+		"location": "Pointe-aux-sables",
+		"country": "Mauritius",
+		"website": "http://www.utm.ac.mu/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of The Free State",
+		"location": "Bloemfontein 9300",
+		"country": "South Africa",
+		"website": "http://www.ufs.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of The Gambia",
+		"location": "Serrekunda",
+		"country": "The Gambia",
+		"website": "https://www.utg.edu.gm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of The Holy Qur'an And Re-origination Of Sciences",
+		"location": "Omdurman",
+		"country": "Sudan",
+		"website": "http://www.quran-unv.edu.sd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of The Western Cape",
+		"location": "Cape Town",
+		"country": "South Africa",
+		"website": "https://www.uwc.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Uyo",
+		"location": "Uyo",
+		"country": "Nigeria",
+		"website": "http://www.uniuyo.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Venda For Science & Technology",
+		"location": "Thohoyandou 0950",
+		"country": "South Africa",
+		"website": "http://www.univen.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Western Kordufan",
+		"location": "Khartoum",
+		"country": "Sudan",
+		"website": "http://www.wku.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Witwatersrand",
+		"location": "Johannesburg",
+		"country": "South Africa",
+		"website": "http://www.wits.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Zalingei",
+		"location": "Zalingei",
+		"country": "Sudan",
+		"website": "http://zalingei.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Zambia",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "http://www.unza.zm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "University Of Zimbabwe",
+		"location": "Harare",
+		"country": "Zimbabwe",
+		"website": "http://www.uz.ac.zw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Abdou Moumouni",
+		"location": "Niamey",
+		"country": "Niger",
+		"website": "https://www.uam.edu.ne/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Africaine De Développement Coopératif",
+		"location": "Cotonou",
+		"country": "Benin",
+		"website": "http://www.uadc-aucd.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Catholique De Bukavu",
+		"location": "Bukavu",
+		"country": "Dr Congo",
+		"website": "https://ucbukavu.ac.cd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Catholique Du Congo",
+		"location": "Kinshasa",
+		"country": "Dr Congo",
+		"website": "http://www.ucc.ac.cd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Centrale, Tunisia",
+		"location": "Tunis",
+		"country": "Tunisia",
+		"website": "http://www.universitecentrale.net/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Cheikh Anta Diop De Dakar",
+		"location": "Dakar-fann",
+		"country": "Sénégal",
+		"website": "http://www.ucad.sn",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université D'abomey-calavi",
+		"location": "Cotonou",
+		"country": "Benin",
+		"website": "https://uac.bj/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université D'alger",
+		"location": "Algiers 16000",
+		"country": "Algeria",
+		"website": "http://www.univ-alger.dz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université D'antananarivo",
+		"location": "Antananarivo 101",
+		"country": "Madagascar",
+		"website": "http://www.univ-antananarivo.mg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université D'oran",
+		"location": "Oran 31000",
+		"country": "Algeria",
+		"website": "http://www.univ-oran.dz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Bamako",
+		"location": "Bamako",
+		"country": "Mali",
+		"website": "Not Available",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Bangui",
+		"location": "Bangui",
+		"country": "Central Africa Repub",
+		"website": "http://www.univ-bangui.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Douala",
+		"location": "Douala",
+		"country": "Cameroun",
+		"website": "http://www.univ-douala.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Dschang",
+		"location": "Dschang",
+		"country": "Cameroun",
+		"website": "http://www.univ-dschang.org/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Fianarantsoa",
+		"location": "Fianarantsoa 301",
+		"country": "Madagascar",
+		"website": "http://www.univ-fianar.mg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Kara",
+		"location": "Kara",
+		"country": "Togo",
+		"website": "https://www.univ-kara.tg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Kinshasa",
+		"location": "Kinshasa Xi",
+		"country": "Dr Congo",
+		"website": "https://www.unikin.ac.cd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Kisangani",
+		"location": "Kisangani",
+		"country": "Dr Congo",
+		"website": "http://www.unikis.ac.cd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Lomé",
+		"location": "Lomé",
+		"country": "Togo",
+		"website": "https://univ-lome.tg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Lubumbashi",
+		"location": "Lubumbashi",
+		"country": "Dr Congo",
+		"website": "http://www.unilu.ac.cd/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Maroua",
+		"location": "Maroua",
+		"country": "Cameroun",
+		"website": "http://www.uni-maroua.com/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De N'djamena",
+		"location": "N'djamena",
+		"country": "Tchad",
+		"website": "https://www.universite-ndjamena.td",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Ngaoundéré",
+		"location": "Ngaoundere",
+		"country": "Cameroun",
+		"website": "http://www.univ-ndere.cm/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Nouakchott",
+		"location": "Nouakchott",
+		"country": "Mauritania",
+		"website": "http://www.univ-nkc.mr",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Parakou",
+		"location": "Parakou",
+		"country": "Benin",
+		"website": "http://www.univ-parakou.bj/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Toamasina",
+		"location": "Toamasina 501",
+		"country": "Madagascar",
+		"website": "http://www.univ-toamasina.mg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Yaoundé 1",
+		"location": "Yaoundé",
+		"country": "Cameroun",
+		"website": "http://www.uy1.uninet.cm/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université De Zinder",
+		"location": "Zinder",
+		"country": "Niger",
+		"website": "Not Available",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Des Sciences & Techniques De Masuku",
+		"location": "Franceville",
+		"country": "Gabon",
+		"website": "http://univ-masuku.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Des Sciences Et De La Technologie D'oran",
+		"location": "Oran 31000",
+		"country": "Algeria",
+		"website": "http://www.univ-usto.dz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Des Sciences Islamiques",
+		"location": "Constantine 25000",
+		"country": "Algeria",
+		"website": "http://www.univ-emir.dz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Du 7 Novembre A Carthage",
+		"location": "1002 Tunis",
+		"country": "Tunisia",
+		"website": "http://www.universites.tn",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Du Burundi",
+		"location": "Bujumbura",
+		"country": "Burundi",
+		"website": "http://www.ub.edu.bi",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Félix Houphouët-boigny",
+		"location": "Abidjan 01",
+		"country": "Côte D'ivoire",
+		"website": "https://www.univ-fhb.edu.ci",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Gaston Berger De Saint-louis",
+		"location": "Saint-louis",
+		"country": "Sénégal",
+		"website": "http://www.ugb.sn",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Joseph Ki-zerbo",
+		"location": "Ouagadougou 03",
+		"country": "Burkina Faso",
+		"website": "https://www.univ-ouaga1.gov.bf",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Kasdi Merbah Ouargla",
+		"location": "Ouargla",
+		"country": "Algeria",
+		"website": "http://www.univ-ouargla.dz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Larbi Ben M’hidi De Oum El Bouaghi",
+		"location": "Oum El Bouaghi، Oum El Bouaghi ‎",
+		"country": "Algeria",
+		"website": "http://www.univ-oeb.dz/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Marien Ngouabi",
+		"location": "Brazzaville",
+		"country": "Congo",
+		"website": "https://www.umng.cg",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Mentouiri De Constantine",
+		"location": "Constantine",
+		"country": "Algeria",
+		"website": "http://www.cerist.dz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Mohammed I",
+		"location": "Oujda",
+		"country": "Morocco",
+		"website": "http://www.ump.ma/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Mohammed V Souissi",
+		"location": "Rabat",
+		"country": "Morocco",
+		"website": "http://www.um5.ac.ma/um5",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Mohammed V, Agdal",
+		"location": "Agdal Rabat-chellah",
+		"country": "Morocco",
+		"website": "http://www.um5a.ac.ma",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Nangui Abrogoua",
+		"location": "Abidjan 02",
+		"country": "Côte D'ivoire",
+		"website": "https://www.univ-na.ci",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Nazi Boni",
+		"location": "Bobo-dioulasso",
+		"country": "Burkina Faso",
+		"website": "https://www.univ-bobo.gov.bf/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Nord Madagascar",
+		"location": "Antsiranana 201",
+		"country": "Madagascar",
+		"website": "Not Available",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Omar Bongo",
+		"location": "Libreville",
+		"country": "Gabon",
+		"website": "Not Available",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Pelefero Gon Coulibaly",
+		"location": "Korhogo",
+		"country": "Côte D'ivoire",
+		"website": "https://univ-pgc.edu.ci",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Polytechnique De Bobo-dioulasso",
+		"location": "Bobo-dioulasso 01",
+		"country": "Burkina Faso",
+		"website": "http://www.univ-bobo.bf/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Université Quaraouyine Fes",
+		"location": "Fes",
+		"country": "Morocco",
+		"website": "http://uaq.ma",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Universit� Loyola Du Congo",
+		"location": "Kinshasa",
+		"country": "Democratic Republic The Congo",
+		"website": "https://loyola.cd",
+		"status": "Associate Membership"
+	},
+	{
+		"institution": "Upper Nile University",
+		"location": "Khartoum",
+		"country": "South Sudan",
+		"website": "Not Available",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Usmanu Dan Fodiyo University",
+		"location": "Sokoto",
+		"country": "Nigeria",
+		"website": "http://www.udusok.edu.ng",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Valley View University",
+		"location": "Oyibi (accra)",
+		"country": "Ghana",
+		"website": "https://vvu.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Wad Medani Ahlia College",
+		"location": "Wad Medani",
+		"country": "Sudan",
+		"website": "www.wadmedani-ahlia.edu.sd",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Walter Sisulu University",
+		"location": "Mthatha",
+		"country": "South Africa",
+		"website": "https://www.wsu.ac.za",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Wisconsin International University College, Ghana",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://wiuc-ghana.edu.gh",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Wollega University",
+		"location": "Nekemte",
+		"country": "Ethiopia",
+		"website": "https://www.wollegalibrary.com",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Women’s University In Africa",
+		"location": "Harare",
+		"country": "Zimbabwe",
+		"website": "http://www.wua.ac.zw",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Yaba College Of Technology",
+		"location": "Agege, Lagos",
+		"country": "Nigeria",
+		"website": "https://www.yabatech.edu.ng",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Zagazig University",
+		"location": "Zagazig",
+		"country": "Egypt",
+		"website": "http://english.zu.edu.eg/",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Zambeze University",
+		"location": "Beira",
+		"country": "Mozambique",
+		"website": "https://www.gfar.net",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Zambia Forestry College",
+		"location": "Kitwe",
+		"country": "Zambia",
+		"website": "https://www.mlnr.gov.zm",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Zambian Open University",
+		"location": "Lusaka",
+		"country": "Zambia",
+		"website": "https://zaou.ac.zm",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Zamzam University Of Science & Technology",
+		"location": "Mogadishu",
+		"country": "Somalia",
+		"website": "http://zust.edu.so",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Zanzibar University",
+		"location": "Zanzibar",
+		"country": "Tanzania",
+		"website": "http://zanvarsity.ac.tz",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Zawia University",
+		"location": "Zawia",
+		"country": "Libya",
+		"website": "https://zu.edu.ly",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Zenith University College",
+		"location": "Accra",
+		"country": "Ghana",
+		"website": "https://zucghana.org",
+		"status": "Full Member"
+	},
+	{
+		"institution": "Zimbabwe Council For Higher Education",
+		"location": "Harare",
+		"country": "Zimbabwe",
+		"website": "http://www.zimche.ac.zw",
+		"status": "Associate Member"
+	},
+	{
+		"institution": "Zimbabwe Open University",
+		"location": "Harare",
+		"country": "Zimbabwe",
+		"website": "http://www.zou.ac.zw",
+		"status": "Full Member"
+	},
+	{
+		"institution": "école Nationale Supérieure De Statistique Et D'économie Appliquée",
+		"location": "Abidjan`",
+		"country": "CÔte D'ivoire",
+		"website": "http://www.ensea.ed.ci modifier - modifier le code",
+		"status": "Full Member"
+	}
+]

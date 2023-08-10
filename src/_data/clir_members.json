@@ -1,0 +1,726 @@
+[
+	{
+		"institution": "American University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Amherst College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Arizona State University Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Atlanta University Center",
+		"FIELD2": " Robert W. Woodruff Library"
+	},
+	{
+		"institution": "Bates College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Baylor University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Beloit College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Berea College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Bibliotheca Alexandrina",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Boston College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Bowdoin College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Brown University Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Bryn Mawr College Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "California Digital Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Carleton College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Carnegie Mellon University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Carthage College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Casalini Libri",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The Catholic University of America",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The Claremont Colleges",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The Clark Art Institute",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Clemson University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Coalition for Networked Information",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Colgate University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "College of Charleston",
+		"FIELD2": ""
+	},
+	{
+		"institution": "College of the Holy Cross",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Colorado College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Colorado State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Columbia University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Concordia University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Connecticut College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Cornell University Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The Corning Museum of Glass",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Council of Independent Colleges",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Dartmouth College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Duke University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Emory University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Florida Atlantic University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Florida State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Furman University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "George Mason University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The George Washington University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Georgetown University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Georgia Institute of Technology",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Georgia State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Getty Research Institute",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Grinnell College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Hamilton College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Harvard University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Haverford College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "HBCU Library Alliance",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The Huntington Library",
+		"FIELD2": " Art Collections & Botanical Gardens"
+	},
+	{
+		"institution": "Indiana University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Internet Archive",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Iowa State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "ITHAKA",
+		"FIELD2": ""
+	},
+	{
+		"institution": "James Madison University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Jisc",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Johns Hopkins University Libraries^",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Kenyon College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Lafayette College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Library of Congress",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Los Alamos National Laboratory",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Marquette University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Massachusetts Institute of Technology",
+		"FIELD2": ""
+	},
+	{
+		"institution": "McMaster University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Metropolitan New York Library Council (METRO)",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Miami University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Michigan State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Middle Tennessee State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Mount Holyoke College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "National Archives and Records Administration",
+		"FIELD2": ""
+	},
+	{
+		"institution": "National Gallery of Art",
+		"FIELD2": ""
+	},
+	{
+		"institution": "National Library of Medicine",
+		"FIELD2": ""
+	},
+	{
+		"institution": "New York Arts Resources Consortium",
+		"FIELD2": ""
+	},
+	{
+		"institution": "New York Public Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "New York University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "North Carolina State University Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Northeastern University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Northwestern University Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The Obama Foundation",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Occidental College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "The Ohio State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Oregon State University Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Peabody Essex Museum Phillips Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Pennsylvania State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Philadelphia Museum of Art",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Pratt Institute",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Princeton Theological Seminary",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Princeton University Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Purdue University Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Reed College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Rhodes College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Rice University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Rockefeller Archive Center",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Rockefeller University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Rutgers",
+		"FIELD2": " the State University of New Jersey"
+	},
+	{
+		"institution": "St. Olaf College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "San Diego State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Science History Institute",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Sewanee: The University of the South",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Skidmore College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Smith College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Smithsonian Institution",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Southern Methodist University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Stanford University^",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Swarthmore College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Syracuse University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Temple University Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Tufts University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Tulane University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Union College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Alabama at Birmingham",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University at Albany",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Arizona Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Arkansas",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of British Columbia",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Calgary",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of California",
+		"FIELD2": " Berkeley"
+	},
+	{
+		"institution": "University of California",
+		"FIELD2": " Irvine"
+	},
+	{
+		"institution": "University of California",
+		"FIELD2": " Los Angeles"
+	},
+	{
+		"institution": "University of California",
+		"FIELD2": " Riverside"
+	},
+	{
+		"institution": "University of California",
+		"FIELD2": " San Diego Libraries"
+	},
+	{
+		"institution": "University of California",
+		"FIELD2": " Santa Barbara"
+	},
+	{
+		"institution": "University of California",
+		"FIELD2": " Santa Cruz"
+	},
+	{
+		"institution": "University of Chicago Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Colorado at Boulder",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Delaware Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Denver",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Georgia Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Houston",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Idaho",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Illinois at Urbana-Champaign",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Iowa Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Kansas",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Kentucky Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Louisville",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Maryland at College Park",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Massachusetts Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Miami",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Michigan",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Minnesota Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Nebraska-Lincoln",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Nevada",
+		"FIELD2": " Las Vegas Libraries"
+	},
+	{
+		"institution": "University of North Carolina at Chapel Hill",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of North Texas",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Notre Dame",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Oklahoma Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Oregon",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Oxford",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Pennsylvania",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Pittsburgh",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Richmond",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Rochester",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of South Carolina",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of South Florida",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Southern California",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Tennessee",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Texas at Arlington",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Texas at Austin",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Toronto Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Virginia",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Washington",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Wisconsin-Madison",
+		"FIELD2": ""
+	},
+	{
+		"institution": "University of Wyoming",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Ursinus College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Vanderbilt University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Vassar College Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Villanova University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Virginia Commonwealth University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Virginia Tech",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Wake Forest University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Washington and Lee University Library",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Washington University in St. Louis",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Wayne State University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Wellesley College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Wesleyan University",
+		"FIELD2": ""
+	},
+	{
+		"institution": "West Virginia University Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Whitman College",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Williams College Libraries",
+		"FIELD2": ""
+	},
+	{
+		"institution": "Yale University Library",
+		"FIELD2": ""
+	}
+]

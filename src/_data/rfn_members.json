@@ -1,0 +1,152 @@
+[
+	{
+		"country": "Belgium",
+		"institution": "Royal Library of Belgium",
+		"website": ""
+	},
+	{
+		"country": "Benign",
+		"institution": "National Library of Benin",
+		"website": ""
+	},
+	{
+		"country": "Benign",
+		"institution": "National Archives of Benin",
+		"website": ""
+	},
+	{
+		"country": "Burkina Faso",
+		"institution": "National Library of Burkina Faso",
+		"website": ""
+	},
+	{
+		"country": "Burkina Faso",
+		"institution": "National Archives of Burkina Faso",
+		"website": ""
+	},
+	{
+		"country": "Cambodia",
+		"institution": "National Library of Cambodia",
+		"website": ""
+	},
+	{
+		"country": "Cameroon",
+		"institution": "National Archives of Cameroon",
+		"website": ""
+	},
+	{
+		"country": "Canada",
+		"institution": "Library and Archives Canada",
+		"website": ""
+	},
+	{
+		"country": "CanadaBurkina Faso",
+		"institution": "National Library and Archives of Quebec",
+		"website": ""
+	},
+	{
+		"country": "Ivory Coast",
+		"institution": "National Library of Côte d'Ivoire",
+		"website": ""
+	},
+	{
+		"country": "Ivory Coast",
+		"institution": "National Archives of Côte d'Ivoire",
+		"website": ""
+	},
+	{
+		"country": "Egypt",
+		"institution": "Bibliotheca Alexandrina",
+		"website": ""
+	},
+	{
+		"country": "France",
+		"institution": "National Library of France",
+		"website": ""
+	},
+	{
+		"country": "Haiti",
+		"institution": "Haitian Spiritan Library",
+		"website": ""
+	},
+	{
+		"country": "Haiti",
+		"institution": "National Library of Haiti",
+		"website": ""
+	},
+	{
+		"country": "Luxemburg",
+		"institution": "National Library of Luxembourg",
+		"website": ""
+	},
+	{
+		"country": "Madagascar",
+		"institution": "University Library and Archives of Antananarivo",
+		"website": ""
+	},
+	{
+		"country": "Madagascar",
+		"institution": "National Library of Madagascar",
+		"website": ""
+	},
+	{
+		"country": "Mali",
+		"institution": "National Library of Mali",
+		"website": ""
+	},
+	{
+		"country": "Morocco",
+		"institution": "National Library of the Kingdom of Morocco",
+		"website": ""
+	},
+	{
+		"country": "Morocco",
+		"institution": "Archives of Morocco",
+		"website": ""
+	},
+	{
+		"country": "Niger",
+		"institution": "Abdou Moumouni University Human Sciences Research Institute",
+		"website": ""
+	},
+	{
+		"country": "Republic of Congo",
+		"institution": "National Library of Congo Brazzaville",
+		"website": ""
+	},
+	{
+		"country": "Republic of Congo",
+		"institution": "National Center for Archives and Documentation of the Republic of Congo",
+		"website": ""
+	},
+	{
+		"country": "Senegal",
+		"institution": "Library of the National Archives of Senegal",
+		"website": ""
+	},
+	{
+		"country": "Senegal",
+		"institution": "Central Library of Cheikh Anta Diop University",
+		"website": ""
+	},
+	{
+		"country": "Senegal",
+		"institution": "Fundamental Institute of Black Africa",
+		"website": ""
+	},
+	{
+		"country": "Switerland",
+		"institution": "Swiss National Library",
+		"website": ""
+	},
+	{
+		"country": "Tunisia",
+		"institution": "National Library of Tunisia",
+		"website": ""
+	},
+	{
+		"country": "Vietnam",
+		"institution": "National Library of Vietnam",
+		"website": ""
+	}
+]
