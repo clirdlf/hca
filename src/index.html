@@ -7,23 +7,28 @@ js:
 ---
 
 <style>
-#intro {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("{{ '/assets/images/00007.webp' | url }}");
-    //background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    //background-repeat: no-repeat;
-    height: 50vh;
-}
+    #intro {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("{{ '/assets/images/00007.webp' | url }}");
+        //background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        //background-repeat: no-repeat;
+        height: 50vh;
+    }
 </style>
 <section id="intro" class="text-center text-white parallax bg-image shadow-2-strong">
     <div class="col-md-8 p-lg-8 mx-auto my-0 pt-5">
         <h1 class="display-4 fw-normal mt-5 pt-5">
             Hidden Collections
             <div class="logo">
-                <span class="red">A</span><span class="yellow">F</span><span class="green">R</span><span class="red">I</span><span class="yellow">C</span><span class="green">A</span>
+                <span class="red">A</span>
+                <span class="yellow">F</span>
+                <span class="green">R</span>
+                <span class="red">I</span>
+                <span class="yellow">C</span>
+                <span class="green">A</span>
             </div>
-            </h1>
+        </h1>
         <p class="lead text-light pb-3 pb-md-4 mb-3">
             Decolonizing knowledge spaces through digitizing African special collections and archives.
         </p>
@@ -31,6 +36,7 @@ js:
 </section>
 
 {% include 'video.html' %}
+{%# include 'interplay-of-ideas.html' #%}
 {% include 'challenge.html' %}
 {% include 'quotes.html' %}
 {% include 'announcements.njk' %}
