@@ -53,16 +53,15 @@
 
   <main>
     
-
 <style>
-    #intro {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/assets/images/00007.webp");
-        //background-attachment: fixed;
-        background-size: cover;
-        background-position: center;
-        //background-repeat: no-repeat;
-        height: 50vh;
-    }
+#intro {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/assets/images/00007.webp");
+    //background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    //background-repeat: no-repeat;
+    height: 50vh;
+}
 </style>
 <section id="intro" class="text-center text-white parallax bg-image shadow-2-strong">
     <div class="col-md-8 p-lg-8 mx-auto my-0 pt-5">
@@ -78,7 +77,7 @@
             </div>
         </h1>
         <p class="lead text-light pb-3 pb-md-4 mb-3">
-            Decolonizing knowledge spaces through digitizing African special collections and archives.
+            Fostering Equitable Access to African Cultural Heritage
         </p>
     </div>
 </section>
@@ -88,80 +87,164 @@
     <iframe src="https://www.youtube.com/embed/DD6ZnbmKUHQ?rel=0" title="Hidden Collections Africa" allowfullscreen></iframe>
 </div>
 
+<style>
+    :root {
+        --color-secondary-rgb: 72, 86, 100;
+        --color-white-rgb: 255, 255, 255;
+    }
 
-<section class="bg-light">
-	<div class="container col-xxl-8 px-4 py-5">
-		<div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-			<div class="col-10 col-sm-8 col-lg-6">
-				<!-- <img
-					src="https://picsum.photos/700/500"
-					class="d-block mx-lg-auto img-fluid"
-					alt="Image"
-					width="700"
-					height="500"
-					loading="lazy"
-				/>-->
-                <div>
-                    <canvas id="myChart"></canvas>
-                </div>
+    .idea {
+        background: linear-gradient(rgba(var(--color-secondary-rgb), 0.5), rgba(var(--color-secondary-rgb), 0.8)), url(/assets/images/onfocus-content-bg.jpg) center center;
+        background-size: cover;
+        color: rgba(var(--color-white-rgb), 0.8);
+    }
+</style>
 
-                <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-                <script>
-                    const ctx = document.getElementById('myChart');
-                    // console.log('context', ctx);
-
-                    const data = {
-                        labels: [
-                            'Asia',
-                            'Africa',
-                            'Europe',
-                            'Latin America and the Carribean',
-                            'Northern America',
-                            'Oceana'
-                        ],
-                        datasets: [{
-                            label: 'World Population Distribution',
-                            data: [59.73, 17.92, 9.37,8.28, 4.7, .56],
-                            backgroundColor: [
-                            'rgb(188, 27, 79)',
-                            'rgb(252, 219, 86)',
-                            'rgb(0, 189, 97)',
-                            'rgb(89, 95, 114)',
-                            'rgb(87, 93, 144)',
-                            'rgb(34, 124, 157)'
-                            ],
-                            hoverOffset: 4
-                        }]
-                        }; 
-                    const config = {type: 'doughnut', data: data};
-                    new Chart(ctx, config);
-                </script>
-                <div class="fs-5 pt-3 float-end">Source: <a href="https://population.un.org/wpp/">World Population Prospects 2022</a></div>
-			</div>
-			<div class="col-lg-6">
-				<h1 class="display-5 fw-bold lh-1 mb-3">The Challenge</h1>
-				<p class="lead">
-					The <a class="_blank" href="https://www.un.org/en/about-us/universal-declaration-of-human-rights"> Universal Declaration of Human Rights</a> asserts that access to information is a universal human right, yet globally, Africa has the lowest number of accessible and available collections, both digital and print.
-				</p>
-
-				<p class="lead">
-                    Of collections available online worldwide, materials held by African collecting organizations make <strong>up no more than 4% of the total available digital content</strong> while the 54 nations of the African continent comprise over <strong>17% of the global population</strong>. 
+<section class="section bg-light" id="about">
+    <div class="container col-xxl-8 px-4 py-5">
+        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+            <div class="col-10 col-sm-8 col-lg-6">
+                <picture><source type="image/webp" srcset="/assets/images/optimized/ZlBOdUsSX2-300.webp 300w, /assets/images/optimized/ZlBOdUsSX2-600.webp 600w, /assets/images/optimized/ZlBOdUsSX2-720.webp 720w" sizes="(min-width: 30em) 50vw, 100vw"><source type="image/avif" srcset="/assets/images/optimized/ZlBOdUsSX2-300.avif 300w, /assets/images/optimized/ZlBOdUsSX2-600.avif 600w, /assets/images/optimized/ZlBOdUsSX2-720.avif 720w" sizes="(min-width: 30em) 50vw, 100vw"><source type="image/jpeg" srcset="/assets/images/optimized/ZlBOdUsSX2-300.jpeg 300w, /assets/images/optimized/ZlBOdUsSX2-600.jpeg 600w, /assets/images/optimized/ZlBOdUsSX2-720.jpeg 720w" sizes="(min-width: 30em) 50vw, 100vw"><img class="d-block mx-lg-auto img-fluid" alt="clasped hands" loading="lazy" decoding="async" src="/assets/images/optimized/ZlBOdUsSX2-300.jpeg" width="720" height="816"></picture>
+            </div>
+            <div class="col-lg-6">
+                <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">The Idea</h1>
+                <p class="lead">
+                    <strong>Hidden Collections Africa</strong> is a new initiative that spearheads digital preservation with a powerful focus on addressing climate change impacts. The initiative will digitize rare and unique collections in Africa, making them more accessible to researchers and students throughout Africa around the world, advancing African history and scholarship and advancing digital knowledge spaces in Africa. </p>
+                <p class="lead">
+                    This intiative is essential to help preserve knowledge and heritage that is endangered due to the effects of climate change. Extreme weather events, such as floods and droughts, are damaging and destroying libraries, archives, and museums. Hidden Collectiosn Africa would support the description and digitization of materials held by African cultural memory organization  that are currently inaccessible or at risk of being lost forever.
                 </p>
-                <!--
-				<div class="d-grid gap-2 d-md-flex justify-content-md-start">
-					<a
-						href="/about"
-						class="btn btn-outline-secondary btn-lg px-4"
-						>Read More</a
-					>
-				</div>
-                -->
-			</div>
-		</div>
-	</div>
+
+                <p class="lead">
+                    Led by African-based professionals, the program draws inspiration from CLIR's <a target="_blank" href="https://www.clir.org/hiddencollections">large-scale grant programs</a> and directly supports institutions and staff across the continent to meet urgent preservation needs, close gaps in the historical record, and make records more accessible to users.
+                </p>
+            </div>
+        </div>
+    </div>
 </section>
 
+<!--
+<section id="the-idea">
+    <div class="container-fluid">
+        <div class="row g-0">
+            <div class="col-lg-6">
+                
+                <div class="ratio ratio-16x9">
+                    <iframe src="https://www.youtube.com/embed/DD6ZnbmKUHQ?rel=0" title="Hidden Collections Africa" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-lg-6 p-5 idea">
+                <div class="content d-flex flex-column justify-content-center h-100">
+                    <h2>The Idea</h2>
+                    <p class="lead">
+                        <strong>Hidden Collections Africa</strong> is a new initiative that spearheads digital preservation with a powerful focus on addressing climate change impacts. The initiative will digitize rare and unique collections in Africa, making them more accessible to researchers and students throughout Africa around the world, advancing African history and scholarship and advancing digital knowledge spaces in Africa. 
+                    </p>
+                    <p class="lead">
+                    This intiative is essential to help preserve knowledge and heritage that is endangered due to the effects of climate change. Extreme weather events, such as floods and droughts, are damaging and destroying libraries, archives, and museums. Hidden Collectiosn Africa would support the description and digitization of materials held by African cultural memory organization  that are currently inaccessible or at risk of being lost forever.
+                    </p>
+
+                    <p class="lead">
+                    Led by African-based professionals, the program draws inspiration from CLIR's <a target="_blank" href="https://www.clir.org/hiddencollections">large-scale grant programs</a> and directly supports institutions and staff across the continent to meet urgent preservation needs, close gaps in the historical record, and make records more accessible to users.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="what-is-hca" class="bg-light">
+    <div class="container mb-5 py-5">
+        <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
+            <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
+                <h1 id="what-is-hidden-collections-africa" class="display-4 pb-5 fw-bold lh-1">The Idea</h1>
+
+                <p class="lead">
+                    <strong>Hidden Collections Africa</strong> is a new initiative that spearheads digital preservation with a powerful focus on addressing climate change impacts. The initiative will digitize rare and unique collections in Africa, making them more accessible to researchers and students throughout Africa around the world, advancing African history and scholarship and advancing digital knowledge spaces in Africa. 
+                </p>
+                <p class="fs-4">
+                    This intiative is essential to help preserve knowledge and heritage that is endangered due to the effects of climate change. Extreme weather events, such as floods and droughts, are damaging and destroying libraries, archives, and museums. Hidden Collectiosn Africa would support the description and digitization of materials held by African cultural memory organization  that are currently inaccessible or at risk of being lost forever.
+                </p>
+
+                <p>
+                    Led by African-based professionals, the program draws inspiration from CLIR's <a target="_blank" href="https://www.clir.org/hiddencollections">large-scale grant programs</a> and directly supports institutions and staff across the continent to meet urgent preservation needs, close gaps in the historical record, and make records more accessible to users.
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+-->
+<section id="core-values">
+    <div class="container col-xxl-8 pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0">
+        <h2 class="display-2 pb-2 border-bottom text-center my-5">Core Values</h2>
+
+        <p class="text-center fs-5">Our core values guide our work in making knowledge more accessible, inclusive, and equitable for everyone.</p>
+
+        <div class="row gy-4">
+
+            <div class="col-xl-4 col-md-6 d-flex">
+                <div class="values-item position-relative">
+                    <div class="icon">
+                        <i class="bi bi-universal-access icon"></i>
+                    </div>
+                    <h4>Open Access</h4>
+                    <p>Embracing Open Access accelerates knowledge dissemination, transcends institutional and national boundaries, and enriches everyone's collective understanding of the past, present, and future.</p>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-md-6 d-flex">
+                <div class="values-item position-relative">
+                    <div class="icon">
+                        <i class="bi bi-geo icon"></i>
+                    </div>
+                    <h4>
+                        Broad Participation
+                    </h4>
+                    <p>We are committed to creating an inclusive space where voices that have historically been marginalized or underrepresented are not just heard but celebrated. We understand that true progress and innovation arise from the fusion of different viewpoints, and we strive to be a platform that facilitates these conversations.</p>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-md-6 d-flex ">
+                <div class="values-item position-relative">
+                    <div class="icon">
+                        <i class="bi bi-people-fill icon"></i>
+                    </div>
+                    <h4>
+                        Authentic Partnerships
+                    </h4>
+                    <p>Our commitment to authentic partnerships goes beyond mere cooperation – it's about building relationships rooted in trust, respect, and shared goals. We understand that true innovation flourishes when diverse perspectives and expertise come together.</p>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-md-6 d-flex ">
+                <div class="values-item position-relative">
+                    <div class="icon">
+                        <i class="bi bi-pc-display icon"></i>
+                    </div>
+                    <h4>
+                        Sustainable Infrastructure
+                    </h4>
+                    <p>Sustainable infrastructure is more than a goal; it's a responsibility to the environment, society, and the global community. We prioritize eco-friendly practices, resource efficiency, and ethical considerations in all our endeavors, recognizing that our choices today shape the world's tomorrow.</p>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-md-6 d-flex ">
+                <div class="values-item position-relative">
+                    <div class="icon">
+                        <i class="bi bi-broadcast icon"></i>
+                    </div>
+                    <h4>
+                        Community-Centered Access
+                    </h4>
+                    <p>We believe that information should be a bridge, not a barrier. Our approach to community-centered access ensures that every individual, regardless of background or circumstance, has the opportunity to engage with resources that empower, educate, and elevate. We actively seek to break down silos, cultivate dialogue, and create platforms that reflect the diverse needs and aspirations of the communities we serve.</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
 <!-- https://getbootstrap.com/docs/5.3/content/typography/#blockquotes -->
 <section id="quotes">
     <div class="container px-4 py-5 col-xxl-8">
@@ -177,81 +260,15 @@
         </div>
     </div>
 </section>
-<!-- https://getbootstrap.com/docs/5.2/examples/features/ -->
-<div class="container px-4 py-5">
-    <h2 class="display-2 pb-2 text-center my-5">Announcements</h2>
 
-    <div class="row rol-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
-        
-        <div class="col">
-            <div class="cenl card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg">
-                <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                    <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold"><a target="_blank" href="https://www.cenl.org/partnership-agreement-for-the-hidden-collections-of-africa-programme/">Partnership agreement for the Hidden Collections of Africa Programme</a></h3>
-                    <ul class="d-flex list-unstyled mt-auto">
-                        <li class="me-auto">
-                            <img src="/assets/images/clir-red-symbol.webp" alt="Partnership agreement for the Hidden Collections of Africa Programme" width="32" height="32" class="rounded-circle border border-white">
-                        </li>
-                        <li class="d-flex align-items-center me-3">
-                            <i class="bi-newspaper me-2"></i>
-                            <small>News</small>
-                        </li>
-                        <li class="d-flex align-items-center">
-                            <i class="bi-calendar3 me-2"></i>
-                            <small>Nov 2022</small>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col">
-            <div class="ubuntu card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg">
-                <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                    <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold"><a target="_blank" href="https://ubuntunet.net/the-hidden-collections-africa-programme-ubuntunet-alliance-partnership-agreement-with-the-council-on-library-information-resources-clir/">The Hidden Collections Africa Programme</a></h3>
-                    <ul class="d-flex list-unstyled mt-auto">
-                        <li class="me-auto">
-                            <img src="/assets/images/clir-red-symbol.webp" alt="The Hidden Collections Africa Programme" width="32" height="32" class="rounded-circle border border-white">
-                        </li>
-                        <li class="d-flex align-items-center me-3">
-                            <i class="bi-newspaper me-2"></i>
-                            <small>News</small>
-                        </li>
-                        <li class="d-flex align-items-center">
-                            <i class="bi-calendar3 me-2"></i>
-                            <small>Nov 2022</small>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        
-        <div class="col">
-            <div class="partner card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg">
-                <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                    <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold"><a target="_blank" href="https://www.clir.org/2022/11/clir-announces-partnership-agreements-for-hidden-collections-africa/">Partnership Agreements</a></h3>
-                    <ul class="d-flex list-unstyled mt-auto">
-                        <li class="me-auto">
-                            <img src="/assets/images/clir-red-symbol.webp" alt="Partnership Agreements" width="32" height="32" class="rounded-circle border border-white">
-                        </li>
-                        <li class="d-flex align-items-center me-3">
-                            <i class="bi-newspaper me-2"></i>
-                            <small>News</small>
-                        </li>
-                        <li class="d-flex align-items-center">
-                            <i class="bi-calendar3 me-2"></i>
-                            <small>Nov 2022</small>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-</div>
+
 <section class="bg-light" id="partners">
-  <div class="container pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0">
+  <div class="container pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0 text-center">
     <h2 class="display-2 pb-2 border-bottom text-center my-5">Partners</h2>
+
+    <p class="lead">In a landmark achievement in cultural preservation and global solidarity, CLIR has signed MOUs with consortia representing nearly 800 esteemed cultural memory organizations worldwide, with a remarkable presence of nearly 450 across the vibrant landscapes of Africa.</p>
     <div class="row justify-content-center row-cols-3 row-cols-md-5 gx-0 gx-sm-3 gx-md-2 gx-lg-3 gx-xl-4">
+      
       
         <div class="col">
           <div class="py-sm-2 my-xl-1">
@@ -325,9 +342,40 @@
           </div>
         </div>
       
+
+
     </div>
+
+    <style>
+       .btn-view {
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 6px;
+  color: var(--color-primary);
+  transition: none;
+  font-size: 16px;
+  font-weight: 700;
+  transition: 0.3s;
+  border: 1px solid var(--color-primary);
+}
+
+ .btn-view:hover {
+  background: var(--color-primary);
+  color: var(--color-white);
+}
+
+    </style>
+
+    <div class="container pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0">
+      <a href="/map/" class="btn btn-lg btn-view">View the Connections<a/>
+    </div>    
+
   </div>
 </section>
+
+
+
+
 
 
 
@@ -336,7 +384,6 @@
 
   
 <section id="signup" class="">
-   
         <div class="container col-md-6 px-4 py-5 text-center">
 
             <h1 class="text-white mb-4">Subscribe to our newsletter</h1>
@@ -350,15 +397,6 @@
                 formId: "5ff70b8c-fb3c-4b84-b045-aa7aac80a0ab"
             });
             </script>
-            <!-- <form>
-                <h5>Subscribe to our newsletter</h5>
-                <p>Monthly digest of what's new and exciting from us.</p>
-                <div class="d-flex flex-column flex-sm-row w-100 gap-2">
-                <label for="newsletter1" class="visually-hidden">Email address</label>
-                <input id="newsletter1" type="text" class="form-control" placeholder="Email address">
-                <button class="btn btn-form" type="button">Subscribe</button>
-                </div>
-            </form> -->
         </div>
 
 </section>
@@ -366,11 +404,11 @@
 <footer class="pb-5">
     <div class="container">
         <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4">
-           <p>
+            <p>
                 <a href="https://www.clir.org" target="_blank">
                     <img src="/assets/images/clir-red-symbol.png" alt="CLIR logo" width="40">
                 </a>
-                </p>
+            </p>
             
             <ul class="social list-unstyled d-flex">
                 <li class="ms-3"><a class="link-dark" href="https://twitter.com/clirnews"><i class="bi bi-twitter fs-4"></i><span class="visually-hidden-focusable">Twitter</span></a></li>

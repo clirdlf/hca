@@ -1,7 +1,10 @@
 <section class="bg-light" id="partners">
-  <div class="container pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0">
+  <div class="container pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0 text-center">
     <h2 class="display-2 pb-2 border-bottom text-center my-5">Partners</h2>
+
+    <p class="lead">In a landmark achievement in cultural preservation and global solidarity, CLIR has signed MOUs with consortia representing nearly 800 esteemed cultural memory organizations worldwide, with a remarkable presence of nearly 450 across the vibrant landscapes of Africa.</p>
     <div class="row justify-content-center row-cols-3 row-cols-md-5 gx-0 gx-sm-3 gx-md-2 gx-lg-3 gx-xl-4">
+      
       {% for partner in partners %}
         <div class="col">
           <div class="py-sm-2 my-xl-1">
@@ -15,6 +18,33 @@
           </div>
         </div>
       {% endfor %}
+
+
     </div>
+
+    <style>
+       .btn-view {
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 6px;
+  color: var(--color-primary);
+  transition: none;
+  font-size: 16px;
+  font-weight: 700;
+  transition: 0.3s;
+  border: 1px solid var(--color-primary);
+}
+
+ .btn-view:hover {
+  background: var(--color-primary);
+  color: var(--color-white);
+}
+
+    </style>
+
+    <div class="container pb-5 pt-lg-3 pt-xl-4 pt-xxl-5 mt-n2 mt-md-0">
+      <a href="{{ '/map/' | url }}" class="btn btn-lg btn-view">View the Connections<a/>
+    </div>    
+
   </div>
 </section>

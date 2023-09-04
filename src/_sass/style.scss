@@ -1,42 +1,115 @@
-@import 'blog', 'bootstrap', 'mixins', 'variables', 'navigation', 'map';
+@import "blog", "bootstrap", "mixins", "variables", "navigation", "map";
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@900&display=swap");
 
-$serif: 'DM Serif Display', serif;
+$serif: "DM Serif Display", serif;
 
-$red: rgb(188,27,79); // #bc1b4e
-$yellow: rgb(252,219,86); // #fcdb56 
-$green: rgb(0,189,97); // #00bd62
+$red: rgb(188, 27, 79); // #bc1b4e
+$yellow: rgb(252, 219, 86); // #fcdb56
+$green: rgb(0, 189, 97); // #00bd62
 
 .btn-form {
-    color: white;
-    // background-color: #6D6875;
-    background-color:#873D48;
+	color: white;
+	// background-color: #6D6875;
+	background-color: #873d48;
 }
 
-.red { color: $red; }
-.yellow { color: $yellow; }
-.green { color: $green; }
+.red {
+	color: $red;
+}
+.yellow {
+	color: $yellow;
+}
+.green {
+	color: $green;
+}
 
-.bg-red { background-color: $red; }
-.bg-yellow { background-color: $yellow; }
-.bg-green { background-color: $green; }
+.bg-red {
+	background-color: $red;
+}
+.bg-yellow {
+	background-color: $yellow;
+}
+.bg-green {
+	background-color: $green;
+}
 
 .serif {
-    font-family: 'DM Serif Display', serif;
+	font-family: "DM Serif Display", serif;
 }
 
 header {
-    span {
-        font-family: 'DM Serif Display', serif;
-    }
+	span {
+		font-family: "DM Serif Display", serif;
+	}
 }
 
-#partners{
-    img {
-        max-width: 200px;
-    }
+#partners {
+	img {
+		max-width: 200px;
+	}
+}
+
+// https://bootstrapmade.com/demo/HeroBiz/
+.values-item {
+	padding: 30px;
+	transition: all ease-in-out 0.4s;
+	background: var(--color-white);
+	height: 100%;
+}
+
+.values-item .icon {
+	margin-bottom: 10px;
+}
+
+.values-item .icon i {
+	color: var(--color-primary);
+	font-size: 36px;
+	transition: 0.3s;
+}
+
+.values-item h4 {
+	font-weight: 600;
+	margin-bottom: 15px;
+	font-size: 24px;
+}
+
+.values-item h4 a {
+	color: var(--color-secondary);
+	transition: ease-in-out 0.3s;
+}
+
+.values-item p {
+	line-height: 24px;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+
+.values-item:hover {
+	transform: translateY(-10px);
+	box-shadow: 0 0 60px 0 rgba(var(--color-secondary-rgb), 0.1);
+}
+
+.values-item:hover h4 a {
+	color: var(--color-primary);
+}
+
+.btn-view {
+	display: inline-block;
+	padding: 12px 40px;
+	border-radius: 6px;
+	color: var(--color-primary);
+	transition: none;
+	font-size: 16px;
+	font-weight: 700;
+	transition: 0.3s;
+	border: 1px solid var(--color-primary);
+}
+
+.btn-view:hover {
+	background: var(--color-primary);
+	color: var(--color-white);
 }
 
 // blockquote {
@@ -67,123 +140,138 @@ header {
 // @see https://mdbootstrap.com/snippets/standard/mdbootstrap/2515521?view=side
 // @see https://www.webnots.com/how-to-create-full-width-parallax-page-with-bootstrap/ for parallax
 #intro {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("/assets/images/00007.webp");
-    // background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
-    // background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/triangles.jpg');
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+		url("/assets/images/00007.webp");
+	// background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
+	// background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/triangles.jpg');
 
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 50vh;
-    min-height: 500px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 50vh;
+	min-height: 500px;
 
-    // background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url({{ background | url }});
-    // background-attachment: fixed;
-    // background-size: cover;
-    // background-position: center;
-    // background-repeat: no-repeat;
-    // height: 50vh;
-    // min-height: 500px;
+	// background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url({{ background | url }});
+	// background-attachment: fixed;
+	// background-size: cover;
+	// background-position: center;
+	// background-repeat: no-repeat;
+	// height: 50vh;
+	// min-height: 500px;
 }
-
 
 // TODO: https://stackoverflow.com/questions/70273914/how-to-change-font-size-at-breakpoints-bootstrap-5
 .logo {
-    letter-spacing: 0.2em;
+	letter-spacing: 0.2em;
 }
 
 @include media-breakpoint-up(sm) {
-    .logo { font-size: 2.5rem; }
+	.logo {
+		font-size: 2.5rem;
+	}
 }
 
 @include media-breakpoint-up(md) {
-    .logo { font-size: 2.5rem; }
+	.logo {
+		font-size: 2.5rem;
+	}
 }
 
 @include media-breakpoint-up(lg) {
-    .logo { font-size: 6.5rem; }
+	.logo {
+		font-size: 6.5rem;
+	}
 }
 
 .highlight {
-    width: 50%;
-    margin: auto;
-    
-    i { font-size: 6em; }
+	width: 50%;
+	margin: auto;
+
+	i {
+		font-size: 6em;
+	}
 }
 
 .card {
-    h3 {
-        a { 
-            color: #fff;
-            text-decoration: none; 
-            &:visted { color: #fff;}
-            &:hover { color: #fff; text-decoration: underline; }
-        }
-    }
+	h3 {
+		a {
+			color: #fff;
+			text-decoration: none;
+			&:visted {
+				color: #fff;
+			}
+			&:hover {
+				color: #fff;
+				text-decoration: underline;
+			}
+		}
+	}
 }
 
 .texture-bg {
-    // background-image: url('../images/background.png');
-    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/background.webp');
-    // height: 50vh;
-    // min-height: 500px;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+	// background-image: url('../images/background.png');
+	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+		url("../images/background.webp");
+	// height: 50vh;
+	// min-height: 500px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 #page {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.webp');
-    height: 75vh;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
+		url("../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.webp");
+	height: 75vh;
 
-    min-height: 500px;
+	min-height: 500px;
 
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 @media (min-width: 992px) {
-    #intro { 
-        margin-top: -58.59px;
-    }
+	#intro {
+		margin-top: -58.59px;
+	}
 }
 
 // h1..h6 headings
 @include headings {
-    font-family: 'Mulish', sans-serif;
-    // font-family: 'DM Serif Display', serif;
+	font-family: "Mulish", sans-serif;
+	// font-family: 'DM Serif Display', serif;
 }
 
 #quotes {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.webp');
-    // height: 50vh;
-    // min-height: 500px;
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+		url("../images/tatenda-mapigoti-wg4Yd9iK0ho-unsplash.webp");
+	// height: 50vh;
+	// min-height: 500px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
 
 #partners {
-    figure {
-        img {
-            max-height: 60px;
+	figure {
+		img {
+			max-height: 60px;
 
-            max-width: 60%;
-            filter: grayscale(100%);
-            transition: all 0.4 ease-in-out;
+			max-width: 60%;
+			filter: grayscale(100%);
+			transition: all 0.4 ease-in-out;
 
-            &:hover {
-                filter: grayscale(0%);
-            }
-        }
-    }
+			&:hover {
+				filter: grayscale(0%);
+			}
+		}
+	}
 }
-
 
 // .social {
 //     .link-dark:hover {
@@ -192,36 +280,40 @@ header {
 // }
 
 #signup {
-    background: linear-gradient(rgba(67,159,140,.97), rgba(67,159,140,.97)), url('/assets/css/v1045-06a.svg');
+	background: linear-gradient(
+			rgba(67, 159, 140, 0.97),
+			rgba(67, 159, 140, 0.97)
+		),
+		url("/assets/css/v1045-06a.svg");
 }
 
 .caption {
-    position: relative;
-    top: 35%;
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-    color: white;
-    
-    //@see https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter
-    // backdrop-filter: sepia(90%);
+	position: relative;
+	top: 35%;
+	background-color: rgb(0, 0, 0); /* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4); /* Black w/opacity/see-through */
+	color: white;
+
+	//@see https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter
+	// backdrop-filter: sepia(90%);
 }
 
 .partner {
-    background-image: url('../images/shane-rounce-DNkoNXQti3c-unsplash.webp');
-    background-size: cover;
+	background-image: url("../images/shane-rounce-DNkoNXQti3c-unsplash.webp");
+	background-size: cover;
 }
 
 .ubuntu {
-    background-image: url('../images/Africa-2-copy.webp');
-    background-size: cover;
+	background-image: url("../images/Africa-2-copy.webp");
+	background-size: cover;
 }
 
 .cenl {
-    background-image: url('../images/bnf.webp');
-    background-size: cover;
+	background-image: url("../images/bnf.webp");
+	background-size: cover;
 }
 
 .square {
-    height: 2em;
-    width: 2em;
+	height: 2em;
+	width: 2em;
 }

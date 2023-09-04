@@ -5,16 +5,15 @@ title: Home
 js:
     - https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.2.1/chart.min.js
 ---
-
 <style>
-    #intro {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("{{ '/assets/images/00007.webp' | url }}");
-        //background-attachment: fixed;
-        background-size: cover;
-        background-position: center;
-        //background-repeat: no-repeat;
-        height: 50vh;
-    }
+#intro {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("{{ '/assets/images/00007.webp' | url }}");
+    //background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    //background-repeat: no-repeat;
+    height: 50vh;
+}
 </style>
 <section id="intro" class="text-center text-white parallax bg-image shadow-2-strong">
     <div class="col-md-8 p-lg-8 mx-auto my-0 pt-5">
@@ -30,16 +29,19 @@ js:
             </div>
         </h1>
         <p class="lead text-light pb-3 pb-md-4 mb-3">
-            Decolonizing knowledge spaces through digitizing African special collections and archives.
+            Fostering Equitable Access to African Cultural Heritage
         </p>
     </div>
 </section>
 
 {% include 'video.html' %}
-{%# include 'interplay-of-ideas.html' #%}
-{% include 'challenge.html' %}
+{% include 'what-is-hca.html'%}
+{% include 'core-values.njk'%}
 {% include 'quotes.html' %}
-{% include 'announcements.njk' %}
 {% include 'partners.html' %}
+
 {%# Removed #%}
 {%# include 'consequences.html' #%}
+{%# include 'announcements.njk' #%}
+{%# include 'interplay-of-ideas.html' #%}
+{%# include 'challenge.html' %}

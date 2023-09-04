@@ -7021,6 +7021,11 @@ progress {
     display: none !important;
   }
 }
+:root {
+  --color-primary: rgb(67,159,140);
+  --color-white: #ffffff;
+}
+
 .bg-teal {
   background-color: rgb(67, 159, 140);
 }
@@ -7242,6 +7247,11 @@ progress {
   border-color: rgb(197, 41, 45);
 }
 
+:root {
+  --color-primary: rgb(67,159,140);
+  --color-white: #ffffff;
+}
+
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -7366,7 +7376,7 @@ header.masthead .masthead-heading {
 
 .btn-form {
   color: white;
-  background-color: #873D48;
+  background-color: #873d48;
 }
 
 .red {
@@ -7403,6 +7413,66 @@ header span {
 
 #partners img {
   max-width: 200px;
+}
+
+.values-item {
+  padding: 30px;
+  transition: all ease-in-out 0.4s;
+  background: var(--color-white);
+  height: 100%;
+}
+
+.values-item .icon {
+  margin-bottom: 10px;
+}
+
+.values-item .icon i {
+  color: var(--color-primary);
+  font-size: 36px;
+  transition: 0.3s;
+}
+
+.values-item h4, .values-item .h4 {
+  font-weight: 600;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+.values-item h4 a, .values-item .h4 a {
+  color: var(--color-secondary);
+  transition: ease-in-out 0.3s;
+}
+
+.values-item p {
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.values-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 0 60px 0 rgba(var(--color-secondary-rgb), 0.1);
+}
+
+.values-item:hover h4 a, .values-item:hover .h4 a {
+  color: var(--color-primary);
+}
+
+.btn-view {
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 6px;
+  color: var(--color-primary);
+  transition: none;
+  font-size: 16px;
+  font-weight: 700;
+  transition: 0.3s;
+  border: 1px solid var(--color-primary);
+}
+
+.btn-view:hover {
+  background: var(--color-primary);
+  color: var(--color-white);
 }
 
 #intro {
