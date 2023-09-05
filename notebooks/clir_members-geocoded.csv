@@ -1,0 +1,182 @@
+,Unnamed: 0,institution,location,point,latitude,longitude,altitude,geometry,website
+0,0,American University,"University of Illinois Willard Airport, Illinois, United States","(40.03948, -88.27755, 0.0)",40.03948,-88.27755,0,POINT (-88.27755 40.03948),https://www.american.edu/
+1,1,Amherst College,"Sweet Briar College, Virginia, United States","(37.5557, -79.07975, 0.0)",37.5557,-79.07975,0,POINT (-79.07975 37.5557),https://www.amherst.edu/
+2,2,Arizona State University Libraries,,"(33.462330, -112.073174, 0.0)",33.46233,-112.073174,0,POINT (-112.073174 33.462330),https://lib.asu.edu/
+3,180,"Atlanta University Center, Robert W. Woodruff Library",,"(33.751389, -84.413333, 0.0)",33.751389,-84.413333,0,POINT (-84.413333 33.751389),https://www.auctr.edu/
+4,3,Bates College,,"(44.10333292, -70.20249919, 0.0)",44.10333292,-70.20249919,0,POINT (-70.20249919 44.10333292),https://www.bates.edu/
+5,4,Baylor University,"Baylor University, Texas, United States","(31.54489, -97.11945, 0.0)",31.54489,-97.11945,0,POINT (-97.11945 31.54489),https://www.baylor.edu/
+6,5,Beloit College,"Beloit College, Wisconsin, United States","(42.50302, -89.03087, 0.0)",42.50302,-89.03087,0,POINT (-89.03087 42.50302),https://www.beloit.edu/
+7,6,Berea College,"Berea College, Kentucky, United States","(37.5715, -84.29024, 0.0)",37.5715,-84.29024,0,POINT (-84.29024 37.5715),https://www.berea.edu/
+8,7,Bibliotheca Alexandrina,"Bibliotheca Alexandrina, Alexandria, Egypt","(31.20821, 29.91014, 0.0)",31.20821,29.91014,0,POINT (29.91014 31.20821),https://www.bibalex.org/
+9,8,Boston College,"College Pond, Massachusetts, United States","(41.8679, -70.66349, 0.0)",41.8679,-70.66349,0,POINT (-70.66349 41.8679),https://www.bc.edu/
+10,9,Bowdoin College,"Bowdoin College Museum of Art, Maine, United States","(43.9073, -69.96311, 0.0)",43.9073,-69.96311,0,POINT (-69.96311 43.9073),https://www.bowdoin.edu/
+11,10,Brown University Library,"Pembroke Library Brown University, Rhode Island, United States","(41.8292, -71.4026, 0.0)",41.8292,-71.4026,0,POINT (-71.4026 41.8292),https://library.brown.edu/
+12,11,Bryn Mawr College Libraries,,"(40.024197, -75.318314, 0.0)",40.024197,-75.318314,0,POINT (-75.318314 40.024197),https://www.brynmawr.edu/
+13,12,California Digital Library,,"(37.802547700000005, -122.27188564184122, 0.0)",37.8025477,-122.2718856,0,POINT (-122.27188564184122 37.802547700000005),https://cdlib.org/
+14,13,Carleton College,"Carleton College, Minnesota, United States","(44.4623, -93.15467, 0.0)",44.4623,-93.15467,0,POINT (-93.15467 44.4623),https://www.carleton.edu/
+15,14,Carnegie Mellon University,"Carnegie Mellon University, Pennsylvania, United States","(40.44118, -79.94283, 0.0)",40.44118,-79.94283,0,POINT (-79.94283 40.44118),https://www.cmu.edu/
+16,15,Carthage College,"Carthage College, Wisconsin, United States","(42.62419, -87.81813, 0.0)",42.62419,-87.81813,0,POINT (-87.81813 42.62419),https://www.carthage.edu/
+17,16,Casalini Libri,,"(43.7995219, 11.2992057, 0.0)",43.7995219,11.2992057,0,POINT (11.2992057 43.7995219),https://www.casalini.it/
+18,17,The Catholic University of America,"Catholic University of America, Washington, D.C., United States","(38.93366, -76.99786, 0.0)",38.93366,-76.99786,0,POINT (-76.99786 38.93366),https://www.catholic.edu/
+19,18,The Claremont Colleges,,"(34.10413, -117.71267, 0.0)",34.10413,-117.71267,0,POINT (-117.71267 34.10413),https://www.claremont.edu/
+20,19,The Clark Art Institute,,"(42.704663848, -73.208165834, 0.0)",42.70466385,-73.20816583,0,POINT (-73.208165834 42.704663848),https://www.clarkart.edu/
+21,20,Clemson University,"Clemson University, South Carolina, United States","(34.67705, -82.83875, 0.0)",34.67705,-82.83875,0,POINT (-82.83875 34.67705),https://www.clemson.edu/
+22,21,Coalition for Networked Information,,"(38.9089706,-77.0437402, 0.0)",38.9089706,-77.0437402,0,POINT (-77.0437402 38.9089706),https://www.cni.org/
+23,22,Colgate University,"Colgate University, New York, United States","(42.81729, -75.53573, 0.0)",42.81729,-75.53573,0,POINT (-75.53573 42.81729),https://www.colgate.edu/
+24,23,College of Charleston,"College of Charleston, South Carolina, United States","(32.7838, -79.9373, 0.0)",32.7838,-79.9373,0,POINT (-79.9373 32.7838),https://www.cofc.edu/
+25,24,College of the Holy Cross,"Howard University School of Law, Washington, D.C., United States","(38.94297, -77.05828, 0.0)",38.94297,-77.05828,0,POINT (-77.05828 38.94297),https://www.holycross.edu/
+26,25,Colorado College,"Colorado State University, Colorado, United States","(40.57478, -105.08061, 0.0)",40.57478,-105.08061,0,POINT (-105.08061 40.57478),https://www.coloradocollege.edu/
+27,26,Colorado State University,"University of Colorado at Boulder, Colorado, United States","(40.00442, -105.26706, 0.0)",40.00442,-105.26706,0,POINT (-105.26706 40.00442),https://www.colostate.edu/
+28,27,Columbia University,"University of British Columbia, British Columbia, Canada","(49.26344, -123.25184, 0.0)",49.26344,-123.25184,0,POINT (-123.25184 49.26344),https://www.columbia.edu/
+29,28,Concordia University,"Concordia University, Quebec, Canada","(45.49741, -73.5771, 0.0)",45.49741,-73.5771,0,POINT (-73.5771 45.49741),https://www.concordia.ca/
+30,29,Connecticut College,"Connecticut College Arboretum, Connecticut, United States","(41.37871, -72.1098, 0.0)",41.37871,-72.1098,0,POINT (-72.1098 41.37871),https://www.conncoll.edu/
+31,30,Cornell University Libraries,,"(42.4472985, -76.4944683, 0.0)",42.4472985,-76.4944683,0,POINT (-76.4944683 42.4472985),https://www.library.cornell.edu/
+32,31,The Corning Museum of Glass,,"(42.1498084, -77.0567762, 0.0)",42.1498084,-77.0567762,0,POINT (-77.0567762 42.1498084),https://home.cmog.org/
+33,32,Council of Independent Colleges,,"(38.9089706,-77.0437402, 0.0)",38.9089706,-77.0437402,0,POINT (-77.0437402 38.9089706),https://cic.edu/
+34,33,Dartmouth College,"Dartmouth College, New Hampshire, United States","(43.70035, -72.28641, 0.0)",43.70035,-72.28641,0,POINT (-72.28641 43.70035),https://home.dartmouth.edu/
+35,34,Duke University,"Duke University, North Carolina, United States","(36.00153, -78.94001, 0.0)",36.00153,-78.94001,0,POINT (-78.94001 36.00153),https://duke.edu/
+36,35,Emory University,"Emory University, Georgia, United States","(33.79138, -84.32348, 0.0)",33.79138,-84.32348,0,POINT (-84.32348 33.79138),https://www.emory.edu/
+37,36,Florida Atlantic University,"University, Florida, United States","(28.07389, -82.43902, 0.0)",28.07389,-82.43902,0,POINT (-82.43902 28.07389),https://www.fau.edu/
+38,37,Florida State University,"University, Florida, United States","(28.07389, -82.43902, 0.0)",28.07389,-82.43902,0,POINT (-82.43902 28.07389),https://www.fsu.edu/
+39,38,Furman University,"Furman University, South Carolina, United States","(34.84178, -82.40179, 0.0)",34.84178,-82.40179,0,POINT (-82.40179 34.84178),https://www.furman.edu/
+40,39,George Mason University,"George Mason University Fairfax Campus, Virginia, United States","(38.83088, -77.30794, 0.0)",38.83088,-77.30794,0,POINT (-77.30794 38.83088),https://www.gmu.edu/
+41,40,The George Washington University,"Georgetown University, Washington, D.C., United States","(38.90727, -77.07258, 0.0)",38.90727,-77.07258,0,POINT (-77.07258 38.90727),https://www.gwu.edu/
+42,41,Georgetown University,"Georgetown University, Washington, D.C., United States","(38.90727, -77.07258, 0.0)",38.90727,-77.07258,0,POINT (-77.07258 38.90727),https://www.georgetown.edu/
+43,42,Georgia Institute of Technology,"Georgia Institute of Technology, Georgia, United States","(33.77233, -84.39456, 0.0)",33.77233,-84.39456,0,POINT (-84.39456 33.77233),https://www.gatech.edu/
+44,43,Georgia State University,"University of Georgia, Georgia, United States","(33.95206, -83.37394, 0.0)",33.95206,-83.37394,0,POINT (-83.37394 33.95206),https://www.gsu.edu/
+45,44,Getty Research Institute,,"(34.076921, -118.4780865, 0.0)",34.076921,-118.4780865,0,POINT (-118.4780865 34.076921),https://www.getty.edu/research/
+46,45,Grinnell College,"Grinnell College, Iowa, United States","(41.74958, -92.71986, 0.0)",41.74958,-92.71986,0,POINT (-92.71986 41.74958),https://www.grinnell.edu/
+47,46,Hamilton College,"North College Hill, Ohio, United States","(39.21839, -84.55078, 0.0)",39.21839,-84.55078,0,POINT (-84.55078 39.21839),https://www.hamilton.edu/
+48,47,Harvard University,"Harvard University, Massachusetts, United States","(42.377, -71.11666, 0.0)",42.377,-71.11666,0,POINT (-71.11666 42.377),https://www.harvard.edu/
+49,48,Haverford College,"Haverford College, Pennsylvania, United States","(40.01178, -75.30574, 0.0)",40.01178,-75.30574,0,POINT (-75.30574 40.01178),https://www.haverford.edu/
+50,49,HBCU Library Alliance,,"(33.751389, -84.413333, 0.0)",33.751389,-84.413333,0,POINT (-84.413333 33.751389),https://hbculibraries.org/
+51,50,"The Huntington Library, Art Collections & Botanical Gardens",,"(34.1279218, -118.1170341, 0.0)",34.1279218,-118.1170341,0,POINT (-118.1170341 34.1279218),https://huntington.org/art-collections
+52,51,Indiana University,"Purdue University Airport, Indiana, United States","(40.41226, -86.93668, 0.0)",40.41226,-86.93668,0,POINT (-86.93668 40.41226),https://www.iu.edu/index.html
+53,52,Internet Archive,,"(37.7823156, -122.8794664, 0.0)",37.7823156,-122.8794664,0,POINT (-122.8794664 37.7823156),https://archive.org/
+54,53,Iowa State University,"University of Iowa, Iowa, United States","(41.66387, -91.53581, 0.0)",41.66387,-91.53581,0,POINT (-91.53581 41.66387),https://www.iastate.edu/
+55,54,ITHAKA,"Ithaca, Ionian Islands, Greece","(41.3735594,-84.1632835)",41.3735594,-84.1632835,0,POINT (-84.1632835 41.3735594),https://www.ithaka.org/
+56,55,James Madison University,"James Madison University, Virginia, United States","(38.43929, -78.87694, 0.0)",38.43929,-78.87694,0,POINT (-78.87694 38.43929),https://www.jmu.edu/
+57,56,Jisc,,"(51.5151667, -0.1117106, 0.0)",51.5151667,-0.1117106,0,POINT (-0.1117106 51.5151667),https://www.jisc.ac.uk/
+58,57,Johns Hopkins University Libraries,,"(39.3290571, -76.6220053, 0.0)",39.3290571,-76.6220053,0,POINT (-76.6220053 39.3290571),https://www.library.jhu.edu/
+59,58,Kenyon College,"Kenyon College, Ohio, United States","(40.37684, -82.39659, 0.0)",40.37684,-82.39659,0,POINT (-82.39659 40.37684),https://www.kenyon.edu/
+60,59,Lafayette College,"Lafayette, Pennsylvania, United States","(40.69815, -75.2074, 0.0)",40.69815,-75.2074,0,POINT (-75.2074 40.69815),https://www.lafayette.edu/
+61,60,Library of Congress,"Library of Congress, Washington, D.C., United States","(38.88845, -77.00442, 0.0)",38.88845,-77.00442,0,POINT (-77.00442 38.88845),https://www.loc.gov/
+62,61,Los Alamos National Laboratory,"Los Alamos National Laboratory, New Mexico, United States","(35.83336, -106.25086, 0.0)",35.83336,-106.25086,0,POINT (-106.25086 35.83336),https://www.lanl.gov/
+63,62,Marquette University,"Northern Michigan University Historical Marker, Michigan, United States","(46.55694, -87.40139, 0.0)",46.55694,-87.40139,0,POINT (-87.40139 46.55694),https://www.marquette.edu/
+64,63,Massachusetts Institute of Technology,"Massachusetts Institute of Technology, Massachusetts, United States","(42.35954, -71.09172, 0.0)",42.35954,-71.09172,0,POINT (-71.09172 42.35954),https://www.mit.edu/
+65,64,McMaster University,"McMaster University, Ontario, Canada","(43.25877, -79.91927, 0.0)",43.25877,-79.91927,0,POINT (-79.91927 43.25877),https://www.mcmaster.ca/
+66,65,Metropolitan New York Library Council (METRO),,"(40.9220172, -74.2012152, 0.0)",40.9220172,-74.2012152,0,POINT (-74.2012152 40.9220172),https://metro.org/
+67,66,Miami University,"501 E High St, Oxford, OH 45056","(39.5087485,-84.7705404,0.0)",39.5087485,-84.7705404,0,POINT (-84.7705404 39.5087485),https://miamioh.edu/
+68,67,Michigan State University,"University of Michigan, Michigan, United States","(42.28373, -83.72895, 0.0)",42.28373,-83.72895,0,POINT (-83.72895 42.28373),https://msu.edu/
+69,68,Middle Tennessee State University,"Sewanee, Tennessee, United States","(35.20314, -85.92109, 0.0)",35.20314,-85.92109,0,POINT (-85.92109 35.20314),https://www.mtsu.edu/
+70,69,Mount Holyoke College,"Mount Holyoke College, Massachusetts, United States","(42.25565, -72.57453, 0.0)",42.25565,-72.57453,0,POINT (-72.57453 42.25565),https://www.mtholyoke.edu/
+71,70,National Archives and Records Administration,,"(38.892861, -77.5998538, 0.0)",38.892861,-77.5998538,0,POINT (-77.5998538 38.892861),https://www.archives.gov/
+72,71,National Gallery of Art,"National Gallery of Art, Washington, D.C., United States","(38.89122, -77.01998, 0.0)",38.89122,-77.01998,0,POINT (-77.01998 38.89122),https://www.nga.gov/
+73,72,National Library of Medicine,"National Library of Medicine, Maryland, United States","(38.99567, -77.09887, 0.0)",38.99567,-77.09887,0,POINT (-77.09887 38.99567),https://www.nlm.nih.gov/
+74,73,New York Arts Resources Consortium,,"(40.7263528, -73.99502, 0.0)",40.7263528,-73.99502,0,POINT (-73.99502 40.7263528),https://nyarc.org/
+75,74,New York Public Library,"New York Public Library, New York, United States","(40.75333, -73.98278, 0.0)",40.75333,-73.98278,0,POINT (-73.98278 40.75333),https://www.nypl.org/
+76,75,New York University,"New York University, New York, United States","(40.72871, -73.99597, 0.0)",40.72871,-73.99597,0,POINT (-73.99597 40.72871),https://www.nyu.edu/
+77,76,North Carolina State University Libraries,,"(35.7784146, -78.6809785, 0.0)",35.7784146,-78.6809785,0,POINT (-71.08755 42.33982),https://www.lib.ncsu.edu/
+78,77,Northeastern University,"Northeastern University, Massachusetts, United States","(42.33982, -71.08755, 0.0)",42.33982,-71.08755,0,POINT (-71.08755 42.33982),https://www.northeastern.edu/
+79,78,Northwestern University Libraries,,"(42.0531985,-87.6774085, 0.0)",42.0531985,-87.6774085,0,POINT (-87.6774085 42.0531985),https://www.library.northwestern.edu/
+80,79,The Obama Foundation,,"(41.7999022, -87.5903878, 0.0)",41.7999022,-87.5903878,0,POINT (-87.5903878 41.7999022),https://www.obama.org/
+81,80,Occidental College,"Alipurduar College, West Bengal, India","(34.12736,-118.2130526, 0.0)",34.12736,-118.2130526,0,POINT (-118.2130526 34.12736),https://www.oxy.edu/
+82,81,The Ohio State University,"Youngstown State University, Ohio, United States","(41.10422, -80.64702, 0.0)",41.10422,-80.64702,0,POINT (-80.64702 41.10422),https://www.osu.edu/
+83,82,Oregon State University Libraries,,"(44.5097473,-126.0488882, 0.0)",44.5097473,-126.0488882,0,POINT (-126.0488882 44.5097473),https://library.oregonstate.edu/
+84,83,Peabody Essex Museum Phillips Library,,"(42.7139206,-70.9116226, 0.0)",42.7139206,-70.9116226,0,POINT (-70.9116226 42.7139206),https://www.pem.org/visit/library
+85,84,Pennsylvania State University,"University Park Airport, Pennsylvania, United States","(40.84867, -77.84917, 0.0)",40.84867,-77.84917,0,POINT (-77.84917 40.84867),https://www.psu.edu/
+86,85,Philadelphia Museum of Art,"Philadelphia Museum of Art, Pennsylvania, United States","(39.96567, -75.18185, 0.0)",39.96567,-75.18185,0,POINT (-75.18185 39.96567),https://philamuseum.org/
+87,86,Pratt Institute,"Pratt Institute, New York, United States","(40.69066, -73.9643, 0.0)",40.69066,-73.9643,0,POINT (-73.9643 40.69066),https://www.pratt.edu/
+88,87,Princeton Theological Seminary,"Princeton Theological Seminary, New Jersey, United States","(40.34541, -74.66846, 0.0)",40.34541,-74.66846,0,POINT (-74.66846 40.34541),https://www.ptsem.edu/
+89,88,Princeton University Library,"Princeton University Library, New Jersey, United States","(40.3487, -74.6593, 0.0)",40.3487,-74.6593,0,POINT (-74.6593 40.3487),https://library.princeton.edu/
+90,89,Purdue University Library,,"(40.424507,-105.3695722,0.0)",40.424507,-105.3695722,0,POINT (-105.3695722 40.424507),https://www.lib.purdue.edu/content/home
+91,90,Reed College,"Reed Arena, Texas, United States","(30.60631, -96.34496, 0.0)",30.60631,-96.34496,0,POINT (-96.34496 30.60631),https://www.reed.edu/
+92,91,Rhodes College,"Southwestern at Memphis College, Tennessee, United States","(35.1537, -89.98898, 0.0)",35.1537,-89.98898,0,POINT (-89.98898 35.1537),https://www.rhodes.edu/
+93,92,Rice University,"Rice University, Texas, United States","(29.71912, -95.39744, 0.0)",29.71912,-95.39744,0,POINT (-95.39744 29.71912),https://www.rice.edu/
+94,93,Rockefeller Archive Center,,"(41.0918489,-73.8378507,0.0)",41.0918489,-73.8378507,0,POINT (-73.8378507 41.0918489),https://rockarch.org/
+95,94,Rockefeller University,"Rockefeller University, New York, United States","(40.7626, -73.95486, 0.0)",40.7626,-73.95486,0,POINT (-73.95486 40.7626),https://www.rockefeller.edu/
+96,95,"Rutgers, the State University of New Jersey",,"(40.5161564,-74.4925146, 0.0)",40.5161564,-74.4925146,0,POINT (-74.4925146 40.5161564),https://www.rutgers.edu/
+97,96,St. Olaf College,"Saint Olaf College, Minnesota, United States","(44.46184, -93.18276, 0.0)",44.46184,-93.18276,0,POINT (-93.18276 44.46184),https://wp.stolaf.edu/
+98,97,San Diego State University,"San Diego State University, California, United States","(32.776, -117.07087, 0.0)",32.776,-117.07087,0,POINT (-117.07087 32.776),https://www.sdsu.edu/
+99,98,Science History Institute,,"(39.9488003,-75.149196,0.0)",39.9488003,-75.149196,0,POINT (-75.149196 39.9488003),https://www.sciencehistory.org/
+100,99,Sewanee: The University of the South,"University of the South, Tennessee, United States","(35.2048, -85.9197, 0.0)",35.2048,-85.9197,0,POINT (-85.9197 35.2048),https://new.sewanee.edu/
+101,100,Skidmore College,"Skidmore College, New York, United States","(43.09694, -73.78461, 0.0)",43.09694,-73.78461,0,POINT (-73.78461 43.09694),https://www.skidmore.edu/
+102,101,Smith College,"Tyler Junior College, Texas, United States","(32.33376, -95.28384, 0.0)",32.33376,-95.28384,0,POINT (-95.28384 32.33376),https://www.smith.edu/
+103,102,Smithsonian Institution,"Smithsonian Institution, Washington, D.C., United States","(38.88872, -77.02581, 0.0)",38.88872,-77.02581,0,POINT (-77.02581 38.88872),https://www.si.edu/
+104,103,Southern Methodist University,"Gerald J Ford Stadium - Southern Methodist University, Texas, United States","(32.8379, -96.78306, 0.0)",32.8379,-96.78306,0,POINT (-96.78306 32.8379),https://www.smu.edu/
+105,104,Stanford University,,"(37.4276727,-122.172651,0.0)",37.4276727,-122.172651,0,"POINT (,-122.172651 37.4276727)",https://www.stanford.edu/
+106,105,Swarthmore College,"Swarthmore College, Pennsylvania, United States","(39.90539, -75.3538, 0.0)",39.90539,-75.3538,0,POINT (-75.3538 39.90539),https://www.swarthmore.edu/
+107,106,Syracuse University,"Syracuse University, New York, United States","(43.03784, -76.13465, 0.0)",43.03784,-76.13465,0,POINT (-76.13465 43.03784),https://www.syracuse.edu/
+108,107,Temple University Library,,"(34.057918,-117.8239239,0.0)",34.057918,-117.8239239,0,POINT (-117.8239239 34.057918),https://library.temple.edu/
+109,108,Tufts University,"Tufts University, Massachusetts, United States","(42.40454, -71.11978, 0.0)",42.40454,-71.11978,0,POINT (-71.11978 42.40454),https://www.tufts.edu/
+110,109,Tulane University,"Tulane University, Louisiana, United States","(29.9397, -90.12041, 0.0)",29.9397,-90.12041,0,POINT (-90.12041 29.9397),https://tulane.edu/
+111,110,Union College,,"(37.287263,-106.537386, 0.0)",37.287263,-106.537386,0,POINT (-106.537386 37.287263),https://www.union.edu/
+112,111,University of Alabama at Birmingham,"University of Alabama at Birmingham, Alabama, United States","(33.50483, -86.79999, 0.0)",33.50483,-86.79999,0,POINT (-86.79999 33.50483),https://www.uab.edu/home/
+113,112,University at Albany,"State University of New York College of Agriculture and Technology at Cobleskill, New York, United States","(42.67369, -74.49681, 0.0)",42.67369,-74.49681,0,POINT (-74.49681 42.67369),https://www.albany.edu/
+114,113,University of Arizona Library,"University of Arizona Arizona Health Sciences Center Library, Arizona, United States","(32.23996, -110.9468, 0.0)",32.23996,-110.9468,0,POINT (-110.9468 32.23996),https://lib.arizona.edu/
+115,114,University of Arkansas,"University of Arkansas, Arkansas, United States","(36.06869, -94.17215, 0.0)",36.06869,-94.17215,0,POINT (-94.17215 36.06869),https://www.uark.edu/
+116,115,University of British Columbia,"University of British Columbia, British Columbia, Canada","(49.26344, -123.25184, 0.0)",49.26344,-123.25184,0,POINT (-123.25184 49.26344),https://www.ubc.ca/
+117,116,University of Calgary,"University of Calgary, Alberta, Canada","(51.0775, -114.13305, 0.0)",51.0775,-114.13305,0,POINT (-114.13305 51.0775),https://www.ucalgary.ca/
+118,117,"University of California, Berkeley","University of California, Berkeley, California, United States","(37.87215, -122.25975, 0.0)",37.87215,-122.25975,0,POINT (-122.25975 37.87215),https://www.berkeley.edu/
+119,118,"University of California, Irvine","Concordia University - Irvine, California, United States","(33.65349, -117.81048, 0.0)",33.65349,-117.81048,0,POINT (-117.81048 33.65349),https://uci.edu/
+120,119,"University of California, Los Angeles","Loyola Marymount University, California, United States","(33.97087, -118.4187, 0.0)",33.97087,-118.4187,0,POINT (-118.4187 33.97087),https://www.ucla.edu/
+121,120,"University of California, Riverside","University of California, Riverside, California, United States","(33.97412, -117.32773, 0.0)",33.97412,-117.32773,0,POINT (-117.32773 33.97412),https://www.ucr.edu/
+122,121,"University of California, San Diego Libraries",,"(32.8778057,-117.2390416,0.0)",32.8778057,-117.2390416,0,POINT (-117.2390416 32.8778057),https://library.ucsd.edu/
+123,122,"University of California, Santa Barbara","UCSB, California, United States","(34.4134, -119.84714, 0.0)",34.4134,-119.84714,0,POINT (-119.84714 34.4134),https://www.ucsb.edu/
+124,123,"University of California, Santa Cruz","Bethany University, California, United States","(37.07497, -121.99401, 0.0)",37.07497,-121.99401,0,POINT (-121.99401 37.07497),https://www.ucsc.edu/
+125,124,University of Chicago Library,"Mudd Library, Illinois, United States","(42.05836, -87.6745, 0.0)",42.05836,-87.6745,0,POINT (-87.6745 42.05836),https://www.lib.uchicago.edu/
+126,125,University of Colorado at Boulder,"University of Colorado at Boulder, Colorado, United States","(40.00442, -105.26706, 0.0)",40.00442,-105.26706,0,POINT (-105.26706 40.00442),https://www.colorado.edu/
+127,126,University of Delaware Library,"Delaware State University William C Jason Library, Delaware, United States","(39.18583, -75.54222, 0.0)",39.18583,-75.54222,0,POINT (-75.54222 39.18583),https://library.udel.edu/
+128,127,University of Denver,"University of Denver, Colorado, United States","(39.67662, -104.96137, 0.0)",39.67662,-104.96137,0,POINT (-104.96137 39.67662),https://www.du.edu/
+129,128,University of Georgia Libraries,,"(32.5656257,-84.990672,0.0)",32.5656257,-84.990672,0,POINT (-84.990672 32.5656257),https://www.libs.uga.edu/
+130,129,University of Houston,"University of Houston, Texas, United States","(29.72081, -95.34335, 0.0)",29.72081,-95.34335,0,POINT (-95.34335 29.72081),https://www.uh.edu/
+131,130,University of Idaho,"University of Idaho, Idaho, United States","(46.72572, -117.01128, 0.0)",46.72572,-117.01128,0,POINT (-117.01128 46.72572),https://www.uidaho.edu/
+132,131,University of Illinois at Urbana-Champaign,"University of Ilinois (UI) at Urbana-Champaign Campus Illinois Field, Illinois, United States","(40.1142, -88.2281, 0.0)",40.1142,-88.2281,0,POINT (-88.2281 40.1142),https://illinois.edu/
+133,132,University of Iowa Libraries,,"(41.6612483,-91.5510237,0.0)",41.6612483,-91.5510237,0,POINT (-91.5510237 41.6612483),https://www.lib.uiowa.edu/
+134,133,University of Kansas,"University of Kansas - Lawrence Campus Anschutz Sports Pavilion, Kansas, United States","(38.95381, -95.25451, 0.0)",38.95381,-95.25451,0,POINT (-95.25451 38.95381),https://ku.edu/
+135,134,University of Kentucky Libraries,,"(37.4122189,-88.8339587,0.0)",37.4122189,-88.8339587,,POINT (-88.8339587 37.4122189),https://libraries.uky.edu/
+136,135,University of Louisville,"University of Louisville, Kentucky, United States","(38.21507, -85.75913, 0.0)",38.21507,-85.75913,0,POINT (-85.75913 38.21507),https://louisville.edu/
+137,136,University of Maryland at College Park,"University of Maryland - College Park, Maryland, United States","(38.98861, -76.9397, 0.0)",38.98861,-76.9397,0,POINT (-76.9397 38.98861),https://umd.edu/
+138,137,University of Massachusetts Libraries,,"(42.389813,-73.6818145,0.0)",42.389813,-73.6818145,0,POINT (-73.6818145 42.389813),https://www.library.umass.edu/
+139,138,University of Miami,"University Park, Florida, United States","(25.74649, -80.36755, 0.0)",25.74649,-80.36755,0,POINT (-80.36755 25.74649),https://welcome.miami.edu/
+140,139,University of Michigan,"University of Michigan, Michigan, United States","(42.28373, -83.72895, 0.0)",42.28373,-83.72895,0,POINT (-83.72895 42.28373),https://umich.edu/
+141,140,University of Minnesota Libraries,,"(44.9709344,-93.2525895,0.0)",44.9709344,-93.2525895,0,POINT (-93.2525895 44.9709344),https://www.lib.umn.edu/
+142,141,University of Nebraska-Lincoln,"University of Nebraska Historical Marker, Nebraska, United States","(40.81806, -96.70585, 0.0)",40.81806,-96.70585,0,POINT (-96.70585 40.81806),https://www.unl.edu/home/
+143,142,"University of Nevada, Las Vegas Libraries",,"(36.1071865,-115.1468528,0.0)",36.1071865,-115.1468528,0,POINT (-115.1468528 36.1071865),https://www.library.unlv.edu/
+144,143,University of North Carolina at Chapel Hill,"Nasher Museum of Art at Duke University, North Carolina, United States","(35.99901, -78.92902, 0.0)",35.99901,-78.92902,0,POINT (-78.92902 35.99901),https://www.unc.edu/
+145,144,University of North Texas,"Frank Erwin Center - University of Texas, Texas, United States","(30.27715, -97.73251, 0.0)",30.27715,-97.73251,0,POINT (-97.73251 30.27715),https://www.unt.edu/
+146,145,University of Notre Dame,"University of Notre Dame, Indiana, United States","(41.7031, -86.23917, 0.0)",41.7031,-86.23917,0,POINT (-86.23917 41.7031),https://www.nd.edu/
+147,146,University of Oklahoma Libraries,,"(35.2080168,-97.4637029,0.0)",35.2080168,-97.4637029,0,POINT (-97.4637029 35.2080168),https://libraries.ou.edu/
+148,147,University of Oregon,"University of Oregon, Oregon, United States","(44.04598, -123.07046, 0.0)",44.04598,-123.07046,0,POINT (-123.07046 44.04598),https://www.uoregon.edu/
+149,148,University of Oxford,"University-Oxford Airport, Mississippi, United States","(34.38307, -89.53956, 0.0)",34.38307,-89.53956,0,POINT (-89.53956 34.38307),https://www.ox.ac.uk/
+150,149,University of Pennsylvania,"University Park Airport, Pennsylvania, United States","(40.84867, -77.84917, 0.0)",40.84867,-77.84917,0,POINT (-77.84917 40.84867),https://www.upenn.edu/
+151,150,University of Pittsburgh,"University of Pittsburgh, Pennsylvania, United States","(40.44285, -79.95922, 0.0)",40.44285,-79.95922,0,POINT (-79.95922 40.44285),https://www.pitt.edu/
+152,151,University of Richmond,"University Hospital, Georgia, United States","(33.47063, -81.98413, 0.0)",33.47063,-81.98413,0,POINT (-81.98413 33.47063),https://www.richmond.edu/
+153,152,University of Rochester,"University of Rochester, New York, United States","(43.12923, -77.62806, 0.0)",43.12923,-77.62806,0,POINT (-77.62806 43.12923),https://www.rochester.edu/
+154,153,University of South Carolina,"Duke University, North Carolina, United States","(36.00153, -78.94001, 0.0)",36.00153,-78.94001,0,POINT (-78.94001 36.00153),https://sc.edu/
+155,154,University of South Florida,"University, Florida, United States","(28.07389, -82.43902, 0.0)",28.07389,-82.43902,0,POINT (-82.43902 28.07389),https://www.usf.edu/
+156,155,University of Southern California,"UCSB, California, United States","(34.4134, -119.84714, 0.0)",34.4134,-119.84714,0,POINT (-119.84714 34.4134),https://www.usc.edu/
+157,156,University of Tennessee,"Vanderbilt University, Tennessee, United States","(36.1451, -86.80274, 0.0)",36.1451,-86.80274,0,POINT (-86.80274 36.1451),https://www.utk.edu/
+158,157,University of Texas at Arlington,"University of Texas at Arlington Police Department, Texas, United States","(32.73049, -97.12439, 0.0)",32.73049,-97.12439,0,POINT (-97.12439 32.73049),https://www.uta.edu/
+159,158,University of Texas at Austin,"Battle Hall at University of Texas, Texas, United States","(30.28549, -97.74056, 0.0)",30.28549,-97.74056,0,POINT (-97.74056 30.28549),https://www.utexas.edu/
+160,159,University of Toronto Library,,"(43.6626368,-79.4019421,0.0)",43.6626368,-79.4019421,0,POINT (-79.4019421 43.6626368),https://library.utoronto.ca/
+161,160,University of Virginia,"University of Virginia, Virginia, United States","(38.03561, -78.50329, 0.0)",38.03561,-78.50329,0,POINT (-78.50329 38.03561),https://www.virginia.edu/
+162,161,University of Washington,"University Place, Washington, United States","(47.23565, -122.5504, 0.0)",47.23565,-122.5504,0,POINT (-122.5504 47.23565),https://www.washington.edu/
+163,162,University of Wisconsin-Madison,"UW-Madison, Wisconsin, United States","(43.07388, -89.41095, 0.0)",43.07388,-89.41095,0,POINT (-89.41095 43.07388),https://www.wisc.edu/
+164,163,University of Wyoming,"University of Wyoming, Wyoming, United States","(41.31192, -105.57638, 0.0)",41.31192,-105.57638,0,POINT (-105.57638 41.31192),https://www.uwyo.edu/
+165,164,Ursinus College,"Ursinus College, Pennsylvania, United States","(40.19177, -75.45685, 0.0)",40.19177,-75.45685,0,POINT (-75.45685 40.19177),https://www.ursinus.edu/
+166,165,Vanderbilt University,"Vanderbilt University, Tennessee, United States","(36.1451, -86.80274, 0.0)",36.1451,-86.80274,0,POINT (-86.80274 36.1451),https://www.vanderbilt.edu/
+167,166,Vassar College Libraries,,"(41.7044151,-73.9374036,0.0)",41.7044151,-73.9374036,0,POINT (-73.9374036 41.7044151),https://library.vassar.edu/
+168,167,Villanova University,"Villanova University, Pennsylvania, United States","(40.03817, -75.34463, 0.0)",40.03817,-75.34463,0,POINT (-75.34463 40.03817),https://www1.villanova.edu/
+169,168,Virginia Commonwealth University,"University of Virginia, Virginia, United States","(38.03561, -78.50329, 0.0)",38.03561,-78.50329,0,POINT (-78.50329 38.03561),https://www.vcu.edu/
+170,169,Virginia Tech,"Virginia Tech/Montgomery Executive Airport, Virginia, United States","(37.20618, -80.40785, 0.0)",37.20618,-80.40785,0,POINT (-80.40785 37.20618),https://www.vt.edu/
+171,170,Wake Forest University,"Wake Forest University, North Carolina, United States","(36.13347, -80.27727, 0.0)",36.13347,-80.27727,0,POINT (-80.27727 36.13347),https://www.wfu.edu/
+172,171,Washington and Lee University Library,,"(37.7888445,-79.4455472,0.0)",37.7888445,-79.4455472,0,POINT (-79.4455472 37.7888445),https://library.wlu.edu/
+173,172,Washington University in St. Louis,,"(38.6487895,-90.382894,0.0)",38.6487895,-90.382894,0,POINT (-90.382894 38.6487895),https://wustl.edu/
+174,173,Wayne State University,"Wayne State University Historical Marker, Michigan, United States","(42.35527, -83.06652, 0.0)",42.35527,-83.06652,0,POINT (-83.06652 42.35527),https://wayne.edu/
+175,174,Wellesley College,"Wellesley College, Massachusetts, United States","(42.29537, -71.30617, 0.0)",42.29537,-71.30617,0,POINT (-71.30617 42.29537),https://www.wellesley.edu/
+176,175,Wesleyan University,"Ohio Wesleyan University, Ohio, United States","(40.29645, -83.06713, 0.0)",40.29645,-83.06713,0,POINT (-83.06713 40.29645),https://www.wesleyan.edu/
+177,176,West Virginia University Libraries,,"(39.6452056,-79.9893137,0.0)",39.6452056,-79.9893137,0,POINT (-79.9893137 39.6452056),http://library.wvu.edu/
+178,177,Whitman College,"Washington State University, Washington, United States","(46.731, -117.15823, 0.0)",46.731,-117.15823,0,POINT (-117.15823 46.731),https://www.whitman.edu/
+179,178,Williams College Libraries,"Williams College Libraries, Massachusetts, United States","(42.7134, -73.2091, 0.0)",42.7134,-73.2091,0,POINT (-73.2091 42.7134),https://library.williams.edu/
+180,179,Yale University Library,,"(41.3087578,-72.9679355,0.0)",41.3087578,-72.9679355,0,POINT (-72.9679355 41.3087578),https://library.yale.edu/
