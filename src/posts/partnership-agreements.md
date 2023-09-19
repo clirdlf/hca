@@ -5,5 +5,6 @@ background: /assets/images/bnf.webp
 date: 2022-11-15
 tags: news
 class: partner
+layout: redirect
 link_to: https://www.clir.org/2022/11/clir-announces-partnership-agreements-for-hidden-collections-africa/
 ---
