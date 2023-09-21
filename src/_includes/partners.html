@@ -3,7 +3,7 @@
     <h2 class="display-2 pb-2 border-bottom text-center my-5">Partners</h2>
 
     <p class="lead">
-      In a landmark achievement in cultural preservation and global solidarity, CLIR has signed MOUs with consortia representing nearly <a href="{{ '/map/' | url }}">800 cultural memory</a> organizations worldwide, including nearly 450 across the African continent.
+      In a landmark achievement in cultural preservation and global solidarity, CLIR has signed MOUs with consortia representing nearly <strong>800</strong> cultural memory organizations worldwide, including nearly <strong>450</strong> across the African continent.
     </p>
     <div class="row justify-content-center row-cols-2 row-cols-md-3 gx-0 gx-sm-3 gx-md-2 gx-lg-3 gx-xl-4">
       {% for partner in partners %}
@@ -59,11 +59,15 @@
 
 <script>
 
+   L_NO_TOUCH = false;
+  L_DISABLE_3D = false;
+
   const markers = [];
-  var map = L.map('mymap').setView([40.945, -23.1757], 3);
+  var map = L.map('mymap', {}).setView([40.945, -23.1757], 3);
   
   L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
-    scrollWheelZoom: false,
+    //scrollWheelZoom: false,
+    //zoomControl: false,
     maxZoom: 19,
     attribution: '"Map tiles by \u003ca target=\"_blank\" href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e."',
   }).addTo(map);
