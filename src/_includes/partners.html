@@ -64,8 +64,8 @@
 
   const markers = [];
   var map = L.map('mymap', {}).setView([40.945, -23.1757], 3);
-  
-  L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png', {
+
+  L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}{r}.png', {
     //scrollWheelZoom: false,
     //zoomControl: false,
     maxZoom: 19,
