@@ -8,11 +8,45 @@ $serif: "DM Serif Display", serif;
 $red: rgb(188, 27, 79); // #bc1b4e
 $yellow: rgb(252, 219, 86); // #fcdb56
 $green: rgb(0, 189, 97); // #00bd62
+$teal: rgb(67, 159, 140);
 
 .btn-form {
 	color: white;
 	// background-color: #6D6875;
 	background-color: #873d48;
+}
+
+// create a color button for each color in the $colors variable
+@each $color, $value in $colors {
+	.btn-#{$color} {
+		@if $color == "light" {
+			@include button-variant(
+				$value,
+				$value,
+				$hover-background: shade-color($value, $btn-hover-bg-shade-amount),
+				$hover-border: shade-color($value, $btn-hover-border-shade-amount),
+				$active-background: shade-color($value, $btn-active-bg-shade-amount),
+				$active-border: shade-color($value, $btn-active-border-shade-amount)
+			);
+		} @else if $color == "dark" {
+			@include button-variant(
+				$value,
+				$value,
+				$hover-background: tint-color($value, $btn-hover-bg-tint-amount),
+				$hover-border: tint-color($value, $btn-hover-border-tint-amount),
+				$active-background: tint-color($value, $btn-active-bg-tint-amount),
+				$active-border: tint-color($value, $btn-active-border-tint-amount)
+			);
+		} @else {
+			@include button-variant($value, $value);
+		}
+	}
+}
+
+@each $color, $value in $colors {
+	.btn-outline-#{$color} {
+		@include button-outline-variant($value);
+	}
 }
 
 .red {
@@ -142,23 +176,23 @@ header {
 // #intro {
 // 	background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
 // 		url("/assets/images/00007.webp");
-	// background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
-	// background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/triangles.jpg');
+// background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.jpg);
+// background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/triangles.jpg');
 
-	// background-attachment: fixed;
-	// background-size: cover;
-	// background-position: center;
-	// background-repeat: no-repeat;
-	// height: 50vh;
-	// min-height: 500px;
+// background-attachment: fixed;
+// background-size: cover;
+// background-position: center;
+// background-repeat: no-repeat;
+// height: 50vh;
+// min-height: 500px;
 
-	// background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url({{ background | url }});
-	// background-attachment: fixed;
-	// background-size: cover;
-	// background-position: center;
-	// background-repeat: no-repeat;
-	// height: 50vh;
-	// min-height: 500px;
+// background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url({{ background | url }});
+// background-attachment: fixed;
+// background-size: cover;
+// background-position: center;
+// background-repeat: no-repeat;
+// height: 50vh;
+// min-height: 500px;
 // }
 
 // TODO: https://stackoverflow.com/questions/70273914/how-to-change-font-size-at-breakpoints-bootstrap-5
