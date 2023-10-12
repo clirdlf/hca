@@ -59,14 +59,22 @@
   L_DISABLE_3D = false;
 
   const markers = [];
-  var map = L.map('mymap', {}).setView([40.945, -23.1757], 3);
+  //var map = L.map('mymap', {}).setView([40.945, -23.1757], 3);
 
+  // let map = L.map('mymap', {}).setView([18.432, -17.207],3); // actual centroid
+ let map = L.map('mymap', {}).setView([24.361, -17.207],3); // peturbed slightly for pin height
   L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner/{z}/{x}/{y}{r}.png', {
     //scrollWheelZoom: false,
     //zoomControl: false,
     maxZoom: 19,
     attribution: '&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> <a href="https://stamen.com/" target="_blank">&copy; Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/about" target="_blank">OpenStreetMap</a> contributors',
   }).addTo(map);
+
+  //document.getElementById("mymap").addEventListener("click", function (event) {
+  //      console.log(map.getCenter());
+  //     return false;
+  //});
+
 </script>
 
 <script src="/assets/js/markers-aau.js"></script>
