@@ -17,32 +17,37 @@
 	</url>
 	
 	<url>
-		<loc>https://hiddencollections.africa/</loc>
-		<lastmod>2023-01-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/about/</loc>
-		<lastmod>2023-01-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/posts/</loc>
-		<lastmod>2023-04-21</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://hiddencollections.africa/posts/2023-survey/</loc>
 		<lastmod>2023-06-19</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://hiddencollections.africa/partners/</loc>
-		<lastmod>2023-08-10</lastmod>
+		<loc>https://hiddencollections.africa/about/</loc>
+		<lastmod>2023-10-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/</loc>
+		<lastmod>2023-10-12</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://hiddencollections.africa/map/</loc>
-		<lastmod>2023-08-25</lastmod>
+		<lastmod>2023-10-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/partners/</loc>
+		<lastmod>2023-10-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/posts/</loc>
+		<lastmod>2023-10-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/values/</loc>
+		<lastmod>2023-10-13</lastmod>
 	</url>
 </urlset>
