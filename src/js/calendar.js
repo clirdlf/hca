@@ -29,6 +29,10 @@ document.addEventListener('DOMContentLoaded', function() {
 				googleCalendarId: 'c_26af52aacd6118099527e6d8da6725baa71a1b209c5319c7298f5254dd819af7@group.calendar.google.com',
 				// color: '#2778c8'
 				color: '#49a18f'
+			},
+			{
+				googleCalendarId: '0g5thq13tck68eknd442vuiikdnfpr4v@import.calendar.google.com',
+				color: '#393464'
 			}
 		]
 	});
