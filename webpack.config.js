@@ -1,7 +1,7 @@
 const path = require('path')
 
 module.exports = {
-    entry: './src/js/calendar.js',
+    entry: ['./src/js/calendar.js'],
     plugins: [],
     resolve: {
         extensions: ['.js']

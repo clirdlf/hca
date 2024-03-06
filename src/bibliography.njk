@@ -1,0 +1,53 @@
+---
+layout: page
+title: Bibliography
+background: '/assets/images/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg'
+eleventyNavigation:
+    key: Bibliography
+---
+<h1>Citations</h1>
+see <a href="https://www.zotero.org/styles/">styles</a>
+
+    <div class="mb-3">
+
+        <select class="form-select" id="biblio-formats">
+            <option value="apa">APA</option>
+            <option value="chicago-fullnote-bibliography" active>Chicago</option>
+            <option value="harvard-cite-them-right">Harvard</option>
+            <option value="ieee">IEEE</option>
+            <option value="mla">MLA</option>
+            <option value="vancouver">Vancouver</option>
+        </select>
+
+    </div>
+
+
+<div id="bibliography-results"></div>
+
+<script>
+    const biblioFormatsSelect = document.getElementById("biblio-formats");
+    const bibliographyResultsDiv = document.getElementById("bibliography-results");
+
+    const baseURL = "https://api.zotero.org/groups/5433902/items/?format=bib";
+
+    fetchBibliography(baseURL);
+
+    biblioFormatsSelect.addEventListener("change", (event) => {
+        const selectedStyle = event.target.value;
+        const updatedURL = baseURL + `&style=${selectedStyle}`;
+        console.log('updated_URL', updatedURL);
+        fetchBibliography(updatedURL);
+    });
+
+    function fetchBibliography(url) {
+        fetch(url)
+            .then((response) => response.text())
+            .then((bibData) => {
+                bibliographyResultsDiv.innerHTML = bibData;
+            })
+            .catch((error) => {
+                console.error("Error fetching bibliography:", error);
+                bibliographyResultsDiv.textContent = "Error fetching bibliography.";
+            });
+    }
+</script>
