@@ -8,7 +8,7 @@ public_folder: "/assets/images/"
 site_url: https://hiddencollections.africa
 locale: 'en'
 search: true
-logo_url: https://your-site.com/images/logo.svg
+logo_url: https://hiddencollections.africa/icon.svg
 
 local_backend: true
 
