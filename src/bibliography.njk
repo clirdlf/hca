@@ -18,6 +18,18 @@ eleventyNavigation:
     // https://www.zotero.org/styles/modern-language-association?source=1
     config.templates.add('mla', mlaTemplate)
 
+    function wrapDoiUrl(htmlString) {
+        const doiRegex = /https:\/\/doi.org\/([^ ]+)/; // Matches DOI URL with capturing group
+        const match = htmlString.match(doiRegex);
+        if (match) {
+            const doiUrl = match[1]; // Captured DOI from the match
+            const wrappedUrl = `<a href="https://doi.org/${doiUrl}">https://doi.org/${doiUrl}</a>`;
+            return htmlString.replace(doiRegex, wrappedUrl);
+        } 
+            
+        return htmlString; // No DOI URL found, return original string
+    }
+
     function formatCitation(doi, citationStyle = 'chicago-fullnote-bibliography') {
         let citation = new Cite(doi);
         
@@ -29,13 +41,26 @@ eleventyNavigation:
         }
 
         formatted = citation.format('bibliography', { formatedOptions })
-        listItem.innerHTML = formatted
+        doiwrapped = wrapDoiUrl(formatted)
+        {# console.log(doiwrapped); #}
+        listItem.innerHTML = doiwrapped
     }
 </script>
 
 <p>
     The following bibliography provides a list of resources that informed the development of the Digitizing Hidden Collections Africa program. These resources include research papers, technical documentation, and reports that address various aspects of cultural heritage preservation, digital libraries, and image processing techniques. We encourage researchers, librarians, and archivists working in African institutions to consult this list and explore the referenced resources to gain a deeper understanding of the technologies and methodologies employed in this project.
 </p>
+
+{# <p>
+    Citation Format
+    <select name="styles" id="citationStyle" onchange="updateCitations()">
+        <option value="apa">APA</option>
+        <option value="chicago-fullnote-bibliography" selected>Chicago</option>
+        <option value="harvard1">Harvard</option>
+        <option value="mla">MLA</option>
+        <option value="vancouver">Vancouver</option>
+    </select>
+</p> #}
 
 <h2>Studies of cultural heritage collections held on the African continent</h2>
 

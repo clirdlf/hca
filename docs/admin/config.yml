@@ -1,0 +1,37 @@
+backend:
+  name: github
+  branch: main
+  repo: clirdlf/hca
+
+media_folder: "src/assets/images/"
+public_folder: "/assets/images/"
+site_url: https://hiddencollections.africa
+locale: 'en'
+search: true
+logo_url: https://your-site.com/images/logo.svg
+
+local_backend: true
+
+collections: 
+  - label: "Posts"
+    name: "posts"
+    folder: "src/posts"
+    preview_path: "posts/{{slug}}"
+    create: true
+    view_groups:
+      - label: Sort by Year
+        field: date
+        pattern: \d{4}
+    sortable_fields: ['date', 'title']
+    summary: "[{{year}}.{{month}}.{{day}}] {{title}}"
+    editor:
+      preview: false
+    i18n: true
+    fields:
+      #https://decapcms.org/docs/widgets/image/#
+      - { label: "Header Image", name: "background", widget: "image", i18n: true}
+      - { label: "Title", name: "title", widget: "string", i18n: true }
+      - { label: "Draft?", name: "draft", widget: "boolean", default: true}
+      - { label: "Author", name: "author", widget: "string",  i18n: true }
+      - { label: "Date", name: "date", widget: "datetime", i18n: duplicate }
+      - { label: "Text", name: "body", widget: "markdown", i18n: true }

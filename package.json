@@ -54,6 +54,7 @@
     "@fullcalendar/google-calendar": "^6.1.10",
     "bootstrap": "^5.3.0",
     "bootstrap-icons": "^1.10.4",
+    "decap-cms-app": "^3.1.10",
     "fullcalendar": "^6.1.10"
   }
 }
