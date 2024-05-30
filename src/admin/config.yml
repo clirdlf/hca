@@ -10,7 +10,7 @@ locale: 'en'
 search: true
 logo_url: https://hiddencollections.africa/icon.svg
 
-local_backend: false
+local_backend: true
 
 collections: 
   - label: "Posts"

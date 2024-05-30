@@ -1,0 +1,36 @@
+---
+title: Resources
+layout: page
+background: '/assets/images/towfiqu-barbhuiya-KKHs1e2yiwc-unsplash.webp'
+eleventyNavigation:
+    key: Resources
+
+---
+
+<h1>Resources</h1>
+
+{# <script src="https://unpkg.com/zotero-api-client"></script>
+<script>
+    const { default: api } = ZoteroApiClient;
+
+
+    const zot = api('TwrFLxWnz7vv4umn2lxpcJCF').library('group', 5548438);
+    getItems = zot.items().get();
+
+    getItems.then((response) => {
+        console.log(response.json)
+    })
+
+</script> #}
+<div class="mt-4">
+{% for resource in zotero %}
+    <a href="{{resource.links.alternate.href }}">{{resource.links.alternate.href }}</a>
+    {{ resource.bib | safe }}
+{% endfor %}
+</div>
+
+<style>
+    .csl-bib-body {
+        padding-bottom: 2rem;
+    }
+</style>
