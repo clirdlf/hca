@@ -1,7 +1,7 @@
 ---
 title: 2023 Survey for Collecting Organizations
 date: 2023-06-19
-background: /assets/images/pexels-rfstudio-3810792.webp
+background: /assets/images/question.webp
 ---
 
 The [Association of African Universities](https://aau.org/) (AAU) are working with the [HBCU Library Alliance](https://hbculibraries.org/), [UbuntuNet Alliance](https://ubuntunet.net/), and the [Council on Library and Information Resources](https://www.clir.org/) (CLIR) toward the development of a future grant program called Hidden Collections Africa.
