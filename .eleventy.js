@@ -136,6 +136,10 @@ module.exports = (eleventyConfig) => {
 
 	// Filters
 
+	eleventyConfig.addFilter("parameterize", (text) => {
+		return text.toLowerCase().replace(/\s+/g, '-');
+	})
+
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
 		if (!Array.isArray(array) || array.length === 0) {
@@ -159,6 +163,7 @@ module.exports = (eleventyConfig) => {
 		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
 		return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
 	});
+
 
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
