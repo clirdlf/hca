@@ -40,5 +40,12 @@
       "url": "https://www.cenl.org/",
       "width": "1500",
       "height": "494"
+    },
+    {
+      "name": "UNESCO Memory of the World",
+      "image": "assets/images/Logo_UNESCO_2021.svg",
+      "url": "https://www.unesco.org/en/memory-world",
+      "width": "1500",
+      "height": "494"
     }
   ]
