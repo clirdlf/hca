@@ -22,46 +22,6 @@
 	</url>
 	
 	<url>
-		<loc>https://hiddencollections.africa/map/</loc>
-		<lastmod>2023-10-12</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/about/</loc>
-		<lastmod>2023-10-12</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/</loc>
-		<lastmod>2023-10-12</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/posts/</loc>
-		<lastmod>2023-10-12</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/values/</loc>
-		<lastmod>2023-10-13</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/calendar/</loc>
-		<lastmod>2024-02-08</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/bibliography/</loc>
-		<lastmod>2024-03-05</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://hiddencollections.africa/admin/</loc>
-		<lastmod>2024-05-29</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://hiddencollections.africa/posts/engaging-younger-generations/</loc>
 		<lastmod>2024-11-08</lastmod>
 	</url>
@@ -69,5 +29,45 @@
 	<url>
 		<loc>https://hiddencollections.africa/posts/in-memoriam/</loc>
 		<lastmod>2025-05-29</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/about/</loc>
+		<lastmod>2025-05-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/admin/</loc>
+		<lastmod>2025-05-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/bibliography/</loc>
+		<lastmod>2025-05-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/calendar/</loc>
+		<lastmod>2025-05-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/</loc>
+		<lastmod>2025-05-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/map/</loc>
+		<lastmod>2025-05-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/posts/</loc>
+		<lastmod>2025-05-30</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://hiddencollections.africa/values/</loc>
+		<lastmod>2025-05-30</lastmod>
 	</url>
 </urlset>
