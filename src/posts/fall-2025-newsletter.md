@@ -1,5 +1,5 @@
 ---
-title: Partnership Newsletter, Fall 2025
+title: Partnership Newsletter Fall 2025
 date: 2025-09-17
 tags: news
 background: /assets/images/00007.webp
