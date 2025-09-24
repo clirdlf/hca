@@ -57,6 +57,8 @@ A General Assembly in Québec City Reinforces the Role of Heritage Institutions
 
 This summer, the Réseau francophone numérique (RFN – Francophone Digital Network) held its Annual General Assembly in Québec City, gathering some 30 participants from over 15 countries. The event coincided with the [Conférence des ministres de la Culture de la Francophonie](https://www.francophonie.org/5e-conference-des-ministres-de-la-culture-de-la-francophonie-8009) (Conference of Ministers of Culture of the Francophonie).
 
+CLIR board chair Guy Berthiaume opened the program with a talk and discussion titled "The discoverability of African collections &ndash; A participatory and intergenerational project."  This session emphasized the importance of preserving and sharing rare and unique materials held in Francophone Africa.
+
 The Assembly featured a professional development session delivered in collaboration with the École d’été de l’AIFBD (Summer School of the [International Francophone Association of Librarians and Documentalists](https://www.aifbd.org/)), further strengthening cross-border cooperation across the Francophone documentary heritage ecosystem.
 
 The Conference of Ministers adopted the *Déclaration de Québec sur la découvrabilité du patrimoine documentaire francophone sur le Web* (Québec Declaration on the Discoverability of Francophone Documentary Heritage on the Web)—a [document](https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/culture-communications/documents/conference-ministres-culture-francophonie/declaration.pdf) that aligns closely with the RFN’s priorities, particularly:
